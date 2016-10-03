@@ -1427,3 +1427,14 @@ SFX w1 mmen um kommen
 SFX w1 ommen éimen/f0 kommen
 SFX w1 ommen éim kommen
 
+SFX b1 N 9
+SFX b1 en t/a0 [^djrtw]en
+SFX b1 den t/a0 [^d]den
+SFX b1 dden tt/a0 dden
+SFX b1 en t/a0 [^äio]ren
+SFX b1 ren ert/a0 [äio]ren
+SFX b1 ën t/a0 ën
+SFX b1 jen cht/a0 jen
+SFX b1 wen ft/a0 wen
+SFX b1 en 0/a0 ten
+
