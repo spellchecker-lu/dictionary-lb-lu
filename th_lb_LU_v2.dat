@@ -1183,7 +1183,7 @@ bergem|1
 bericht|1
 -|Rapport
 beringen|1
--|Biereng
+(Uertschaftsnimm)|Biereng
 beringerberg|1
 (Uertschaftsnimm)|Bierengerbierg
 berlé|1
@@ -1374,7 +1374,7 @@ bierchem|1
 bierden|1
 (Uertschaftsnimm)|Burden
 biereng|1
--|Beringen
+(Uertschaftsnimm)|Beringen
 bierengerbierg|1
 (Uertschaftsnimm)|Beringerberg
 bierg|1
@@ -3022,8 +3022,6 @@ elektrizitéit|1
 -|Elektrescht
 element|1
 -|Bestanddeel
-ell|1
--|Rued
 elteren|1
 -|Virfahren
 elterenhaus|1
@@ -3135,6 +3133,10 @@ epidemie|1
 -|Seuch
 episod|1
 -|Ereegnes|Evenement|Virfall|Virgank|Tëschefall|Zwëschefall
+eppeldorf|1
+(Uertschaftsnimm)|Eppelduerf
+eppelduerf|1
+(Uertschaftsnimm)|Eppeldorf
 epreuve|1
 -|Examen|Prüfung
 equiliber|1
@@ -3251,9 +3253,9 @@ erëffnung|1
 esch-sauer|1
 (Uertschaftsnimm)|Esch-sur-Sûre
 esch-uelzecht|1
--|Esch-sur-Alzette
+(Uertschaftsnimm)|Esch-sur-Alzette
 esch-sur-alzette|1
--|Esch-Uelzecht
+(Uertschaftsnimm)|Esch-Uelzecht
 esch-sur-sûre|1
 (Uertschaftsnimm)|Esch-Sauer
 eschdorf|1
@@ -3265,8 +3267,9 @@ eschweiler|2
 -|Ierpeldeng|Erpeldange
 eselborn|1
 (Uertschaftsnimm)|Eeselbur
-essenz|1
+essenz|2
 -|Bensin
+-|Extrakt
 estimatioun|2
 -|Berechebarkeet|Héichrechnung
 -|Schätzung
@@ -3285,6 +3288,10 @@ etikett|3
 (Varianten)|Etiquette (alt.)
 etiquette|1
 (Varianten)|Etikett (recomm.)
+ettelbréck|1
+(Uertschaftsnimm)|Ettelbrück
+ettelbrück|1
+(Uertschaftsnimm)|Ettelbréck
 etude|2
 -|Studien|Etüd|Studium
 (Varianten)|Etüd (recomm.)
@@ -3376,6 +3383,8 @@ extase|1
 (Varianten)|Extas (recomm.)
 extrait|1
 -|Ausschnëtt|Auszuch
+extrakt|1
+-|Essenz
 exzellenz|1
 (Varianten)|Excellenz (alt.)
 faarfstëft|1
@@ -3521,9 +3530,9 @@ feinheet|1
 feldmaus|1
 -|Wullmaus
 fennange|1
--|Fenneng
+(Uertschaftsnimm)|Fenneng
 fenneng|1
--|Fennange
+(Uertschaftsnimm)|Fennange
 fentange|1
 (Uertschaftsnimm)|Fenteng
 fenteng|1
@@ -3711,7 +3720,7 @@ folkendingen|1
 folleg|1
 -|Konsequenz|Resultat
 folschette|1
--|Foulscht
+(Uertschaftsnimm)|Foulscht
 folter|1
 -|Quälerei|Tortur
 fondatioun|1
@@ -3762,7 +3771,7 @@ foulard|2
 -|Fischi|Schal|Schnappech
 -|Schal|Schleef
 foulscht|1
--|Folschette
+(Uertschaftsnimm)|Folschette
 foussball|1
 (Varianten)|Fussball|Futtball
 foussball-nationaldivisioun|1
@@ -4066,8 +4075,12 @@ gehalt|1
 -|Aarbechtsloun|Pai|Loun|Salaire
 geheechnes|1
 -|Geheimnis
+geheechneskréimerei|1
+-|Geheimniskréimerei
 geheimnis|1
 -|Geheechnes
+geheimniskréimerei|1
+-|Geheechneskréimerei
 geheimorganisatioun|1
 -|Ënnergrondorganisatioun
 gehälteretude|1
@@ -5512,6 +5525,8 @@ karschnatz|1
 kartusch|2
 (Varianten)|Cartouche (alt.)
 -|Cartouche|Patroun
+karussell|1
+-|Päerderchersspill
 kassatioun|1
 (Varianten)|Cassatioun (alt.)
 kassetterekorder|1
@@ -6627,6 +6642,8 @@ mertert|1
 (Uertschaftsnimm)|Mäertert
 message|1
 -|Botschaft|Meldung
+messancy|1
+(Uertschaftsnimm)|Miezeg
 metamorphos|1
 -|Verwandlung|Wandlung|Transformatioun
 meter kibb|1
@@ -6662,6 +6679,8 @@ miessstatioun|1
 (Varianten)|Moossstatioun (recomm.)
 miessung|1
 (Varianten)|Moossung (recomm.)
+miezeg|1
+(Uertschaftsnimm)|Messancy
 migratiounsphenomen|1
 (Varianten)|Migratiounsphänomen (alt.)
 migratiounsphänomen|1
@@ -7083,7 +7102,7 @@ nidderdonwen|1
 nidderfeelen|1
 (Uertschaftsnimm)|Niederfeulen
 nidderkuer|1
--|Niederkorn
+(Uertschaftsnimm)|Niederkorn
 nidderkäerjeng|1
 -|Bascharage
 nidderpallen|1
@@ -7095,7 +7114,7 @@ niederdonven|1
 niederfeulen|1
 (Uertschaftsnimm)|Nidderfeelen
 niederkorn|1
--|Nidderkuer
+(Uertschaftsnimm)|Nidderkuer
 niederpallen|1
 (Uertschaftsnimm)|Nidderpallen
 niewegebai|1
@@ -8335,6 +8354,8 @@ pädagogik|1
 (Varianten)|Pedagogik (recomm.)
 pädophil|1
 (Varianten)|Pedophil (recomm.)
+päerderchersspill|1
+-|Karussell
 päerdsbier|1
 -|Schwaarzbier
 päerdskriwweler|1
@@ -8402,6 +8423,8 @@ pünäs|1
 -|Bëschläus
 püree|1
 (Varianten)|Purée (alt.)
+quaarzauer|1
+(Varianten)|Quarzauer
 quadrat|1
 -|Karo|Véiereck
 qualitéitscritère|1
@@ -8416,6 +8439,8 @@ quartier|1
 -|Revéier
 quartéier|1
 -|Elterenhaus|Doheem|Appartement
+quarzauer|1
+(Varianten)|Quaarzauer
 quatsch|2
 -|Dabozegkeet
 -|Chichi|Fisematenten|Onsënn|Kabes (ëgs.)|Dommheeten|Kéis (ëgs.)
@@ -8868,8 +8893,7 @@ rudder|2
 rudderstaang|2
 -|Rudder
 -|Staang
-rued|2
--|Ell
+rued|1
 -|Simmer
 rueder|2
 (Uertschaftsnimm)|Roder
@@ -12693,6 +12717,10 @@ ausfëllen|1
 -|erfëllen
 ausgefalen|1
 -|bosseg|droleg|extravagant|exotesch|ongewinnt|onüblech
+ausgeklamert|1
+(Varianten)|ausgeklammert (alt.)
+ausgeklammert|1
+(Varianten)|ausgeklamert (recomm.)
 ausgelat|1
 -|vergraff
 ausgerechent|1
@@ -12728,6 +12756,10 @@ aushillegen|1
 -|aushielegen|ausschachten|huel maachen
 aushëllefen|1
 -|depannéieren
+ausklameren|1
+(Varianten)|ausklammeren (alt.)
+ausklammeren|1
+(Varianten)|ausklameren (recomm.)
 ausklügelen|3
 -|klügelen
 -|denken|duerchdenken
@@ -14738,7 +14770,7 @@ déckkäppeg|2
 déi ganzen zäit|1
 -|andauernd|stänneg|an engem Stéck|bestänneg|ëmmer|dauernd
 déiden|1
--|erliichteren
+-|erliichteren|narkotiséieren
 déidlech|1
 -|liewesgeféierlech|stierflech
 déif|1
@@ -15317,7 +15349,7 @@ erleedegen|1
 erleeën|1
 -|erschéissen|nidderschloen
 erliichteren|2
--|déiden
+-|déiden|narkotiséieren
 -|facilitéieren
 ermahnen|1
 (Varianten)|ermanen (recomm.)
@@ -15839,10 +15871,18 @@ fest|1
 -|zolidd
 festegen|1
 -|festmaachen|fixéieren
+festgeklamert|1
+(Varianten)|festgeklammert (alt.)
+festgeklammert|1
+(Varianten)|festgeklamert (recomm.)
 festhalen|1
 -|festsetzen|fixéieren|festleeën|definéieren|beschléissen|entschléissen|entscheeden|decidéieren
 festhuelen|1
 -|verhaften
+festklameren|1
+(Varianten)|festklammeren (alt.)
+festklammeren|1
+(Varianten)|festklameren (recomm.)
 festkrämpen|1
 -|krämpen
 festleeën|1
@@ -16221,6 +16261,8 @@ geckeg|1
 -|verréckt|jaus|mëll|tibbi
 gecken|1
 -|spaassen
+gedéit|1
+-|narkotiséiert
 gefierft|1
 -|faarweg
 gefuerdert|1
@@ -17974,6 +18016,10 @@ nach ëmmer|1
 -|nach
 nammen|1
 -|iessen|buffen (ëgs.)|konsuméieren|friessen (vulg.)|frupsen (ëgs.)
+narkotiséieren|1
+-|déiden|erliichteren
+narkotiséiert|1
+-|gedéit
 narzisstesch|1
 -|egoistesch|echbezunn
 nascheleg|1

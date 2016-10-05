@@ -324,7 +324,7 @@ SFX N0 Y 2
 SFX N0 e ë . is:plural is:eifeler
 SFX N0 0 n . is:plural
 
-SFX u0 Y 40
+SFX u0 Y 41
 SFX u0 aass ässer aass is:plural
 SFX u0 ach ächer [^g][fl]ach is:plural
 SFX u0 ad ieder ad is:plural
@@ -365,6 +365,7 @@ SFX u0 chen ërcher hen is:plural
 SFX u0 aach äächer aach is:plural
 SFX u0 oft ëfter oft is:plural
 SFX u0 ut ider ut is:plural
+SFX u0 olz ëlzer olz is:plural
 
 SFX t0 Y 16
 SFX t0 aaft äften/f0 aaft is:plural
@@ -1400,10 +1401,12 @@ SFX n2 N 2
 SFX n2 0 nen . is:plural
 SFX n2 0 ne . is:plural is:eifeler
 
-SFX I1 N 3
+SFX I1 N 5
 SFX I1 0 sse/N0 [rt]e is:feminine is:singular
 SFX I1 0 ësch/n0 ee is:feminine is:singular
 SFX I1 0 hesse/N0 c is:feminine is:singular
+SFX I1 0 nin/n2 o is:feminine is:singular
+SFX I1 0 ess/n0 n is:feminine is:singular
 
 SFX u1 N 2
 SFX u1 n 0 . is:eifeler
