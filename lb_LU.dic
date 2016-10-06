@@ -2667,7 +2667,7 @@ arbitréieren/V0v0 po:verb
 arbitréiert/a0 po:adjective
 Arbitréiertes st:arbitréiert is:es
 Arbitter/n0F0F6 po:noun ts:masculine_singular
-Arbitterboykott
+Arbitterboykott/R0 po:noun ts:masculine_singular
 Arbittercours/n0 po:noun ts:masculine_singular
 Arbitterkommissioun/n0 po:noun ts:feminine_singular
 Arbitterkongress/R0 po:noun ts:masculine_singular
@@ -4272,7 +4272,7 @@ Autogrammkaart/n0 po:noun ts:feminine_singular
 Autogrammstonn/n0 po:noun ts:feminine_singular
 Autohaftflicht/n0 po:noun ts:feminine_singular
 Autoimmunkrankheet/n0 po:noun ts:feminine_singular
-Autoimmunkränkt
+Autoimmunkränkt/n0 po:noun ts:feminine_singular
 Autoindustrie/N0 po:noun ts:feminine_singular
 Autokontroll/n0 po:noun ts:feminine_singular
 Autokonvoi
@@ -11996,7 +11996,6 @@ Doublon/n0 po:noun
 douce po:adverb
 douce/A0l0 po:adjective
 Douces st:douce is:es
-doud
 Doud po:noun ts:masculine_singular
 Doudangscht po:noun ts:feminine_singular
 Doudängschte
@@ -12026,7 +12025,7 @@ Doudesfolleg/t0 po:noun ts:feminine_singular
 Doudesgefor/n0 po:noun ts:feminine_singular
 Doudeskandidat/n0F6 po:noun ts:masculine_singular
 Doudesmarsch/e0 po:noun ts:masculine_singular
-Doudesmenace/N0 po:noun
+Doudesmenace/N0 po:noun ts:feminine_singular
 Doudessprëtz/n0 po:noun ts:feminine_singular
 Doudesstrof/n0 po:noun ts:feminine_singular
 Doudesstrofvollstreckung/n0 po:noun ts:feminine_singular
@@ -12051,6 +12050,7 @@ doudrelax/A0a0 po:adjective
 Doudrelaxes st:doudrelax is:es
 doudschiel/a0 po:adjective
 Doudschieles st:doudschiel is:es
+Doudschlag/e0 po:noun ts:masculine_singular
 doudschlecht/a0 po:adjective
 Doudschlechtes st:doudschlecht is:es
 Doudschléier po:noun ts:masculine_singular
@@ -12069,10 +12069,9 @@ Doum/n0 po:noun ts:masculine_singular
 Doumhär/n0 po:noun ts:masculine_singular
 Dous/n0T0 po:noun ts:feminine_singular
 Douschterterhaff/U0
-dout
-Dout/n0 po:noun
+dout po:adjective
 doutdrécken/V0s0 po:verb
-Doute/N0 po:noun
+Doute/N0 po:noun ts:masculine_singular
 Doutgebuert/n0 po:noun ts:feminine_singular
 doutgekrasch po:verb
 doutgelaacht po:verb
@@ -12089,7 +12088,6 @@ doutlaachen/V0s0 po:verb
 doutmaachen/P0s0 po:verb
 doutsaufen/P0s0 po:verb
 doutschaffen/V0s0 po:verb
-Doutschlag/e0 po:noun ts:masculine_singular
 doutschloen/P0s0 po:verb
 douttrëppelen/V0s0 po:verb
 dovugeschleeft/a0 po:adjective
@@ -14402,7 +14400,7 @@ Energieberodung/n0 po:noun ts:feminine_singular
 Energiebesteierung/n0 po:noun ts:feminine_singular
 Energiebilan/n0 po:noun ts:masculine_singular
 Energiebranche/N0 po:noun ts:feminine_singular
-Energiecharta
+Energiecharta/n0 po:noun ts:feminine_singular
 Energiedebatt/n0 po:noun ts:feminine_singular
 Energiedéngschtleechtung/n0 po:noun ts:feminine_singular
 energieeffizient/A0a0 po:adjective
@@ -17756,6 +17754,7 @@ Falschierm/R0 po:noun ts:masculine_singular
 fälschlecherweis po:adverb
 Falschmeldung/n0 po:noun ts:feminine_singular
 Falschparker/F6 po:noun ts:masculine_singular
+Falschschreiwung/n0 po:noun ts:feminine_singular
 Falschspiller/F6 po:noun ts:masculine_singular
 Fälschung/n0 po:noun ts:feminine_singular
 fälschungssécher/A0a0 po:adjective
@@ -18850,6 +18849,7 @@ Finnesches st:finnesch is:es
 Finnland po:noun
 fir po:conjunctio
 fir po:prepositio
+Firefox/!0
 fireneen/f0 po:adverb
 Firma/n0 po:noun ts:feminine_singular
 Firmament/R0 po:noun
@@ -18973,7 +18973,7 @@ flämeschsproocheg/a0 po:adjective
 Flamespäizert/n0 po:noun ts:masculine_singular
 Flamingo/n0 po:noun
 Flammänner/F6 po:noun ts:masculine_singular
-flammännesch/A0a0 po:adjective
+flammännesch/a0 po:adjective
 Flammännesches st:flammännesch is:es
 Flan/n0 po:noun ts:masculine_singular
 Flander
@@ -25614,7 +25614,7 @@ Grondlinn/n0 po:noun ts:feminine_singular
 Grondmauer/n0 po:noun ts:feminine_singular
 Grondprinzip/R0t1 po:noun ts:masculine_singular
 Grondrecht/R0 po:noun ts:neutral_singular
-Grondrechtscharta/n0 po:noun
+Grondrechtscharta/n0 po:noun ts:feminine_singular
 Grondreegel/n0 po:noun ts:feminine_singular
 Grondregel/n0 po:noun ts:feminine_singular
 Grondrent/n0 po:noun ts:feminine_singular
@@ -26427,7 +26427,7 @@ Handelsautorisatioun/n0 po:noun ts:feminine_singular
 Handelsberäich/R0 po:noun ts:masculine_singular
 Handelsbezéiung/n0 po:noun ts:feminine_singular
 Handelsbilanzdefizit/R0 po:noun ts:masculine_singular
-Handelsboykott/R0 po:noun
+Handelsboykott/R0 po:noun ts:masculine_singular
 Handelsbureau/n0 po:noun ts:masculine_singular
 Handelsbüro/n0 po:noun ts:masculine_singular
 Handelsconfederatioun/n0 po:noun ts:feminine_singular
@@ -28586,7 +28586,7 @@ Immunes st:immun is:es
 immuniséieren/V0v0 po:verb
 Immunitéit/n0 po:noun ts:feminine_singular
 Immunitéitsgesetz po:noun ts:neutral_singular
-Immunkränkt/n0 po:noun
+Immunkränkt/n0 po:noun ts:feminine_singular
 Immunofwier po:noun ts:feminine_singular
 Immunolog/n0F6 po:noun ts:masculine_singular
 Immunologie po:noun ts:feminine_singular
@@ -31272,7 +31272,7 @@ Kannerklinick/n0 po:noun ts:feminine_singular
 Kannerklinik/n1 po:noun ts:feminine_singular
 Kannerkolonie/N0 po:noun ts:feminine_singular
 Kannerkrankheet/n0 po:noun ts:feminine_singular
-Kannerkränkt/n0 po:noun
+Kannerkränkt/n0 po:noun ts:feminine_singular
 Kannerkréien/f0 po:noun ts:neutral_singular
 Kannerkutsch/n0 po:noun ts:feminine_singular
 Kannerlaf/e0 po:noun ts:masculine_singular
@@ -32349,6 +32349,7 @@ Klassendelegéierten/F7q0 po:noun ts:masculine_singular
 Klassendelegué/n0F8 po:noun ts:masculine_singular
 Klasseneffectif/n1 po:noun
 Klassenéischten/F7q0 po:noun ts:masculine_singular
+Klassentitulaire/N0F5 po:noun ts:masculine_singular
 Klassenzëmmer/n0 po:noun ts:neutral_singular
 Klassenzëmmerdier/n0 po:noun ts:feminine_singular
 Klasserees/n0 po:noun ts:feminine_singular
@@ -34130,7 +34131,7 @@ kreesfërmeg/a0 po:adjective
 Kreesfërmeges st:kreesfërmeg is:es
 Kreeslaf/e0 po:noun ts:masculine_singular
 Kreeslaferkrankung/n0 po:noun ts:feminine_singular
-Kreeslafkränkt/n0 po:noun
+Kreeslafkränkt/n0 po:noun ts:feminine_singular
 Kreeslafproblem/R0 po:noun ts:masculine_singular
 Kreeslafwirtschaft/n0 po:noun ts:feminine_singular
 Kreessee/E0 po:noun
@@ -37040,7 +37041,7 @@ Martini/n0 po:noun
 Martinique/!0
 Martinni/n0 po:noun
 Märtyrer/F6 po:noun ts:masculine_singular
-Märtyrerdout
+Märtyrerdoud po:noun ts:masculine_singular
 Märtyrerfigur/n0 po:noun ts:feminine_singular
 martyriséieren/V0v0 po:verb
 Martyrium/n0 po:noun
@@ -37813,7 +37814,7 @@ Mënscheplanz/n0 po:noun ts:feminine_singular
 Mënscherecht/R0 po:noun ts:neutral_singular
 Mënscherechtler/F6 po:noun ts:masculine_singular
 Mënscherechtsaktivist/n0F6 po:noun ts:masculine_singular
-Mënscherechtscharta
+Mënscherechtscharta po:noun ts:feminine_singular
 Mënscherechtsconseil po:noun ts:masculine_singular
 Mënscherechtsdeklaratioun/n0 po:noun ts:feminine_singular
 Mënscherechtserklärung/n0 po:noun ts:feminine_singular
@@ -46282,7 +46283,6 @@ Préifstand/e0 po:noun ts:masculine_singular
 Préifzomm/n0 po:noun ts:feminine_singular
 Preinsertioun/n0 po:noun ts:feminine_singular
 Preis/n0F6 po:noun ts:masculine_singular
-Preiserei/n0 po:noun ts:feminine_singular
 preisesch/A0a0 po:adjective
 Preisesches st:preisesch is:es
 Préiter po:noun ts:masculine_singular
@@ -56831,7 +56831,7 @@ Thon/n0 po:noun ts:masculine_singular
 Thorunn/!0
 Thriller
 Thrombos/n0 po:noun
-Thunderbird
+Thunderbird/!0
 Thüring
 Thüringen
 Thüringer po:noun ts:masculine_singular
@@ -58603,7 +58603,7 @@ Unilaterales st:unilateral is:es
 union
 Unioun/n0 po:noun ts:feminine_singular
 Uniounsbierger/F6 po:noun ts:masculine_singular
-Uniounscharta/n0 po:noun
+Uniounscharta/n0 po:noun ts:feminine_singular
 Uniounsfraktioun/n0 po:noun ts:feminine_singular
 Uniounsmember/n0F0 po:noun ts:masculine_singular
 Uniounspartei/n0 po:noun ts:feminine_singular
