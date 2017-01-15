@@ -1,6 +1,6 @@
 SET UTF-8
 
-TRY ertnsialohcugmképfdbzwävëSKPBFAMGxDRHTVyEWLjIüCZNOqUJËèöÄQÉêôçîÖû­âXYïÜ'-
+TRY erntsialohcugmpdkfézbwäëvSKBPGAMFDHRyEVxTWLIjONCZüqUJËèÄöQ-ÉêôçîÖûâXYñÜàï'
 
 KEY qwertyuiopüè|asdfghjklöéäà|zxcvbnm
 
@@ -13,16 +13,16 @@ FLAG long
 NOSPLITSUGS
 NOSUGGEST !0
 
-REP 87
+REP 79
 REP a er
-REP ä ee
 REP a ar
-REP aa a
 REP ab of
 REP ae ä
 REP ai äi
 REP ai ä
+REP al e
 REP allzelaang allze_laang
+REP amgaang am_Gaang
 REP amt büro
 REP annuecht an_Uecht
 REP ansech u_sech
@@ -32,40 +32,33 @@ REP betäubs déits
 REP betäubt déit
 REP bisewell bis_ewell
 REP biswell bis_ewell
-REP ch g
-REP ch sch
 REP ch sch
 REP ch j
-REP dd tt
-REP e éi
-REP é ee
-REP e ee
+REP deeër där
 REP ech ësch
-REP ée eeë
 REP eh ee
 REP ehrzah éizue
 REP ei äi
 REP eig äip
 REP emüteg amiddeg
 REP engkéier eng_Kéier
+REP ère är
 REP ex ächs
 REP f ph
 REP finsternis däischtert
-REP g ch
+REP gaang gaangen
 REP get gëtt
-REP ie éi
 REP iff éif
 REP inhorn enhar
 REP inzah enzue
 REP io jo
-REP j ch
-REP j che
+REP kin kéin
 REP l ll
 REP l hl
+REP lë lle
 REP man maachen
 REP mee mä
 REP mëss méchs
-REP n nn
 REP nëtzlos onnëtz
 REP nie ni
 REP oft dacks
@@ -76,23 +69,22 @@ REP ph f
 REP roh ree
 REP rohe reeë
 REP roof erof
-REP s ss
 REP s sch
 REP säitdeem zënterhier
 REP säitdeem zënter_datt
-REP sch ch
 REP soulues esou_lues
-REP ss s
 REP stäub stëbs
 REP stotteren tuddelen
 REP Tankstell Bensinsstatioun
 REP tapf dap
+REP të tte
 REP Treibhaus Zär
 REP Treibhause Zärene
 REP Treibhausg Zäreg
 REP Urheber Auteurs
 REP urheber auteurs
 REP Urheber Auteur
+REP üst ëscht
 REP ut id
 REP Virunallem Virun_allem
 REP virunallem virun_allem
@@ -102,25 +94,24 @@ REP wéivill wéi_vill
 REP z ds
 REP zevill ze_vill
 
-MAP 18
-MAP äaeÄAE
+MAP 17
+MAP äa(aa)àÄA(Aa)
 MAP bB
-MAP ckCK
-MAP dtDT
-MAP eëêéèEËÊÉÈ
+MAP ck(ck)CK
+MAP dt(tt)(dd)DT
+MAP e(ee)äëêéèEÄËÊÉÈ
 MAP fvwFVW
-MAP gG
+MAP gj(ch)GJ
 MAP hH
-MAP iI
-MAP jJ
+MAP i(ii)I
 MAP lL
-MAP mnMN
-MAP oöôOÖÔ
+MAP n(nn)N
+MAP o(oo)öôOÖ
 MAP pP
 MAP qQ
-MAP rR
-MAP sS
-MAP uüûUÜÛ
+MAP r(er)(rr)R(Er)
+MAP s(ss)S
+MAP u(uu)üûUÜÛ
 
 SFX A0 Y 4
 SFX A0 0 st/a0 [^rs] is:superlative
@@ -324,7 +315,7 @@ SFX N0 Y 2
 SFX N0 e ë . is:plural is:eifeler
 SFX N0 0 n . is:plural
 
-SFX u0 Y 41
+SFX u0 Y 42
 SFX u0 aass ässer aass is:plural
 SFX u0 ach ächer [^g][fl]ach is:plural
 SFX u0 ad ieder ad is:plural
@@ -366,8 +357,9 @@ SFX u0 aach äächer aach is:plural
 SFX u0 oft ëfter oft is:plural
 SFX u0 ut ider ut is:plural
 SFX u0 olz ëlzer olz is:plural
+SFX u0 utt idder utt is:plural
 
-SFX t0 Y 16
+SFX t0 Y 17
 SFX t0 aaft äften/f0 aaft is:plural
 SFX t0 d ten/f0 [^d]d is:plural
 SFX t0 dd tten/f0 dd is:plural
@@ -378,21 +370,20 @@ SFX t0 uucht iichten/f0 uucht is:plural
 SFX t0 leg gen/f0 leg is:plural
 SFX t0 ar ären/f0 ar is:plural
 SFX t0 ch jen/f0 rch is:plural
-SFX t0 t den/f0 et is:plural
+SFX t0 t den/f0 [ei]t is:plural
 SFX t0 tt dden/f0 tt is:plural
 SFX t0 i en/f0 i is:plural
 SFX t0 b pen/f0 b is:plural
 SFX t0 f wen/f0 [^l]ef is:plural
 SFX t0 ef wen/f0 lef is:plural
+SFX t0 angscht ängschten/f0 angscht is:plural
 
-SFX e0 N 129
-SFX e0 aach iech aach is:plural
+SFX e0 N 85
 SFX e0 aarm äerm aarm is:plural
 SFX e0 aart äert aart is:plural
 SFX e0 aascht äscht aascht is:plural
 SFX e0 ascht äscht [^a]ascht is:plural
 SFX e0 arsch ärsch [^a]arsch is:plural
-SFX e0 ad ied ad is:plural
 SFX e0 ach éch [^aKk]ach is:plural
 SFX e0 ack äck ack is:plural
 SFX e0 n 0 en is:eifeler
@@ -402,7 +393,6 @@ SFX e0 ak äck ak is:plural
 SFX e0 al äl al is:plural
 SFX e0 all äll all is:plural
 SFX e0 allem ällem allem is:plural
-SFX e0 am eem am is:plural
 SFX e0 amm ämm amm is:plural
 SFX e0 amp ämp [^Kkw]amp is:plural
 SFX e0 amp ämm [Kkw]amp is:plural
@@ -417,24 +407,14 @@ SFX e0 ass ëss [Rr]ass is:plural
 SFX e0 ass äss [^Rr]ass is:plural
 SFX e0 att ätt [Pp]att is:plural
 SFX e0 atz ätz atz is:plural
-SFX e0 um im aum is:plural
-SFX e0 us is aus is:plural
 SFX e0 az ätz az is:plural
-SFX e0 ag eeg [Dd]ag is:plural
-SFX e0 en ng een is:plural
-SFX e0 d n ënd is:plural
-SFX e0 af ief [ht]af is:plural
-SFX e0 af eef [^ht]af is:plural
 SFX e0 ag éi lag is:plural
 SFX e0 och éch och is:plural
 SFX e0 ock éck ock is:plural
-SFX e0 of eef of is:plural
-SFX e0 ol eel ol is:plural
 SFX e0 omp ëmp omp is:plural
-SFX e0 on een on is:plural
 SFX e0 ond ënn ond is:plural
 SFX e0 ong éng ong is:plural
-SFX e0 onk éng onk is:plural
+SFX e0 onk éng [^Zz]onk is:plural
 SFX e0 onsch ënsch onsch is:plural
 SFX e0 orf ërf orf is:plural
 SFX e0 oss ëss oss is:plural
@@ -444,77 +424,46 @@ SFX e0 oun éin oun is:plural
 SFX e0 ount éint ount is:plural
 SFX e0 ag äg rag is:plural
 SFX e0 ot éit ot is:plural
-SFX e0 ub ibb ub is:plural
-SFX e0 uch ich [^a]uch is:plural
 SFX e0 auch äich auch is:plural
-SFX e0 udder idder udder is:plural
-SFX e0 ued ied ued is:plural
-SFX e0 uerf ierf uerf is:plural
-SFX e0 uerm ierm uerm is:plural
-SFX e0 uerz ierz uerz is:plural
-SFX e0 uewen iewen/f0 uewen is:plural
-SFX e0 uff iff uff is:plural
-SFX e0 ull ill ull is:plural
-SFX e0 umm imm umm is:plural
-SFX e0 unn inn unn is:plural
-SFX e0 utsch itsch utsch is:plural
-SFX e0 utt itt utt is:plural
-SFX e0 uuss iiss uuss is:plural
 SFX e0 ouss éiss ouss is:plural
 SFX e0 ant änn ant is:plural
 SFX e0 or är or is:plural
 SFX e0 oup éip oup is:plural
-SFX e0 uet iet uet is:plural
-SFX e0 ummer immer ummer is:plural
 SFX e0 out éit out is:plural
 SFX e0 ollef ëllef ollef is:plural
 SFX e0 arm äerm darm is:plural
 SFX e0 antel äntel antel is:plural
 SFX e0 oscht ëscht oscht is:plural
-SFX e0 aasch eesch aasch is:plural
 SFX e0 aarsch äersch aarsch is:plural
-SFX e0 uedem iedem uedem is:plural
 SFX e0 auscht äischt auscht is:plural
 SFX e0 ann änn ann is:plural
-SFX e0 ugel igel ugel is:plural
-SFX e0 uechter iechter uechter is:plural
 SFX e0 ochs échs ochs is:plural
 SFX e0 als äls als is:plural
 SFX e0 atz ëtz [Bb]atz is:plural
-SFX e0 od eed od is:plural
 SFX e0 ouschter éischter ouschter is:plural
-SFX e0 uef ief uef is:plural
 SFX e0 aut äit [^Hh]aut is:plural
 SFX e0 aasser ässer aasser is:plural
-SFX e0 op eep op is:plural
-SFX e0 u i au is:plural
 SFX e0 ach äch [Kk]ach is:plural
 SFX e0 andel ändel andel is:plural
 SFX e0 akt äkt akt is:plural
 SFX e0 off ëff off is:plural
 SFX e0 oul éil oul is:plural
-SFX e0 aut ait [Hh]aut is:plural
 SFX e0 onft ënft onft is:plural
 SFX e0 ank éng [Rr]ank is:plural
-SFX e0 énk éng énk is:plural
 SFX e0 acht ächt acht is:plural
 SFX e0 otz ëtz otz is:plural
 SFX e0 oum éim oum is:plural
 SFX e0 att ëtt natt is:plural
-SFX e0 oopst eepst oopst is:plural
 SFX e0 arg ärg arg is:plural
-SFX e0 ausch aisch ausch is:plural
 SFX e0 opp ëpp opp is:plural
 SFX e0 apel äppel apel is:plural
-SFX e0 our ier our is:plural
 SFX e0 aufel äifel aufel is:plural
-SFX e0 uer ier auer is:plural
 SFX e0 uss ëss luss is:plural
-SFX e0 o éi lo is:plural
+SFX e0 o éi o is:plural
 SFX e0 omb ëmb omb is:plural
-SFX e0 upp ipp upp is:plural
 SFX e0 oer eeër oer is:plural
-SFX e0 mënsch leit mënsch is:plural
+SFX e0 auz äiz auz is:plural
+SFX e0 onk énk [Zz]onk is:plural
 
 SFX F0 N 2
 SFX F0 r sch/n0 r is:feminine is:singular
@@ -524,12 +473,13 @@ SFX f0 Y 2
 SFX f0 n 0 [^n]n is:eifeler
 SFX f0 nn 0 nn is:eifeler
 
-SFX k0 N 5
+SFX k0 N 6
 SFX k0 a en/f0 a is:plural
 SFX k0 os en/f0 os is:plural
 SFX k0 um en/f0 um is:plural
 SFX k0 o en/f0 o is:plural
 SFX k0 us en/f0 us is:plural
+SFX k0 s en/f0 is is:plural
 
 SFX M0 Y 3
 SFX M0 s en/f0 [^ao]ss is:plural
@@ -550,7 +500,7 @@ SFX r0 N 2
 SFX r0 n r . is:plural
 SFX r0 n 0 . is:eifeler
 
-SFX n1 N 18
+SFX n1 N 19
 SFX n1 0 ken/f0 c is:plural
 SFX n1 0 fen/f0 f is:plural
 SFX n1 0 gen/f0 g is:plural
@@ -569,6 +519,7 @@ SFX n1 0 ten/f0 t is:plural
 SFX n1 e ten/f0 te is:plural
 SFX n1 e fen/f0 fe is:plural
 SFX n1 0 ben/f0 b is:plural
+SFX n1 0 wen/f0 w is:plural
 
 SFX R1 N 9
 SFX R1 0 ker c is:plural
@@ -850,7 +801,7 @@ SFX p0 unn ief unn
 SFX p0 inn éi sinn
 SFX p0 apten p behaapten
 
-SFX V1 N 75
+SFX V1 N 77
 SFX V1 n 0 .
 SFX V1 ben abs aben
 SFX V1 ben abt aben
@@ -926,6 +877,8 @@ SFX V1 nen önt önen
 SFX V1 den its iden
 SFX V1 ren ors oren
 SFX V1 ren ort oren
+SFX V1 pen ips ipen
+SFX V1 pen ipt ipen
 
 PFX g0 Y 1
 PFX g0 0 ge .
@@ -993,18 +946,19 @@ SFX h0 0 eckeg .
 SFX h0 0 honnertmol .
 SFX h0 0 honnertfach .
 
-PFX C0 N 3
+PFX C0 N 4
 PFX C0 A Äp Ap is:plural
 PFX C0 Aa Äe Aar is:plural
 PFX C0 Aa Ä Aas is:plural
+PFX C0 A Ä Ab is:plural
 
 PFX H0 N 2
 PFX H0 U I/f0 U is:plural
 PFX H0 Aa Ee Aasch is:plural
 
-SFX D0 N 9
+SFX D0 N 14
 SFX D0 fchen wercher fchen is:plural
-SFX D0 tchen dercher tchen is:plural
+SFX D0 tchen dercher [^i]tchen is:plural
 SFX D0 sschen sercher sschen is:plural
 SFX D0 dchen tercher edchen is:plural
 SFX D0 dchen lercher ildchen is:plural
@@ -1012,6 +966,11 @@ SFX D0 dchen nercher ndchen is:plural
 SFX D0 dchen tercher ëldchen is:plural
 SFX D0 n 0 . is:eifeler
 SFX D0 enchen ngercher eenchen is:plural
+SFX D0 itchen tercher iitchen is:plural
+SFX D0 tchen dercher [^i]itchen is:plural
+SFX D0 odchen dercher odchen is:plural
+SFX D0 opchen percher opchen is:plural
+SFX D0 omchen mercher omchen is:plural
 
 SFX K0 N 3
 SFX K0 0 chen/d0 [^r] is:diminutive is:singular
@@ -1021,59 +980,37 @@ SFX K0 r erchen/d0 är is:diminutive is:singular
 SFX L0 N 1
 SFX L0 0 chen/r0 . is:diminutive is:singular
 
-SFX T0 N 86
-SFX T0 ad iedchen/D0 [Ppt]ad is:diminutive is:singular
+SFX T0 N 67
 SFX T0 and ëndchen/D0 [Kk]and is:diminutive is:singular
 SFX T0 ond ëndchen/D0 ond is:diminutive is:singular
-SFX T0 uf ifchen/D0 [^o]uf is:diminutive is:singular
 SFX T0 and ändchen/D0 [BbHhLl]and is:diminutive is:singular
-SFX T0 us ischen/d0 aus is:diminutive is:singular
 SFX T0 aart äertchen/d0 aart is:diminutive is:singular
-SFX T0 at ietchen/D0 at is:diminutive is:singular
 SFX T0 ouf éifchen/D0 ouf is:diminutive is:singular
-SFX T0 am eemchen/d0 [Bb]am is:diminutive is:singular
 SFX T0 ouss éisschen/D0 ouss is:diminutive is:singular
 SFX T0 out éitchen/D0 out is:diminutive is:singular
-SFX T0 ad iedchen/d0 [Rr]ad is:diminutive is:singular
-SFX T0 uerf ierfchen/d0 uerf is:diminutive is:singular
-SFX T0 aass iesschen/D0 [Tt]aass is:diminutive is:singular
-SFX T0 ull illchen/d0 ull is:diminutive is:singular
-SFX T0 umm immchen/d0 umm is:diminutive is:singular
 SFX T0 all ällchen/d0 all is:diminutive is:singular
-SFX T0 um imchen/d0 um is:diminutive is:singular
 SFX T0 oft ëftchen/d0 oft is:diminutive is:singular
-SFX T0 as ieschen/d0 as is:diminutive is:singular
 SFX T0 oun éinchen/d0 oun is:diminutive is:singular
-SFX T0 ot éitchen/d0 rot is:diminutive is:singular
-SFX T0 uuss iisschen/d0 uuss is:diminutive is:singular
+SFX T0 ot éitchen/d0 ot is:diminutive is:singular
 SFX T0 app äppchen/d0 app is:diminutive is:singular
 SFX T0 ak äckelchen/r0 ak is:diminutive is:singular
 SFX T0 allem ällemchen/r0 allem is:diminutive is:singular
-SFX T0 udder idderchen/r0 udder is:diminutive is:singular
 SFX T0 antel äntelchen/r0 antel is:diminutive is:singular
 SFX T0 aach ächelchen/r0 aach is:diminutive is:singular
-SFX T0 uch ichelchen/r0 [^a]uch is:diminutive is:singular
 SFX T0 ack äckelchen/r0 ack is:diminutive is:singular
-SFX T0 uerm iermchen/d0 uerm is:diminutive is:singular
 SFX T0 am ämmchen/d0 lam is:diminutive is:singular
-SFX T0 ummer immerchen/r0 ummer is:diminutive is:singular
-SFX T0 utt ittchen/d0 utt is:diminutive is:singular
-SFX T0 on eenchen/d0 on is:diminutive is:singular
 SFX T0 atz ätzelchen/r0 atz is:diminutive is:singular
 SFX T0 az ätzelchen/r0 [Ss]az is:diminutive is:singular
 SFX T0 ommel ëmmelchen/r0 ommel is:diminutive is:singular
 SFX T0 allef ällefchen/r0 allef is:diminutive is:singular
 SFX T0 auch äichelchen/r0 auch is:diminutive is:singular
 SFX T0 ock éckchen/d0 ock is:diminutive is:singular
-SFX T0 uerz ierzchen/d0 uerz is:diminutive is:singular
-SFX T0 uedem iedemchen/r0 uedem is:diminutive is:singular
 SFX T0 oup éipchen/d0 oup is:diminutive is:singular
 SFX T0 ox éxelchen/r0 ox is:diminutive is:singular
 SFX T0 amm ämmchen/d0 amm is:diminutive is:singular
 SFX T0 auscht äischtchen/d0 auscht is:diminutive is:singular
-SFX T0 ues ieschen/d0 ues is:diminutive is:singular
 SFX T0 ous éischen/d0 ous is:diminutive is:singular
-SFX T0 aass ässchen/d0 [Ff]aass is:diminutive is:singular
+SFX T0 aass ässchen/d0 aass is:diminutive is:singular
 SFX T0 ascht äschtchen/d0 ascht is:diminutive is:singular
 SFX T0 ochs échschen/d0 ochs is:diminutive is:singular
 SFX T0 anger éngerchen/r0 anger is:diminutive is:singular
@@ -1081,33 +1018,36 @@ SFX T0 orm ërmchen/d0 orm is:diminutive is:singular
 SFX T0 omper ëmperchen/r0 omper is:diminutive is:singular
 SFX T0 ann ännchen/d0 ann is:diminutive is:singular
 SFX T0 oer eeërchen/r0 oer is:diminutive is:singular
-SFX T0 unn innchen/d0 unn is:diminutive is:singular
 SFX T0 aff äffchen/d0 aff is:diminutive is:singular
 SFX T0 als älschen/d0 als is:diminutive is:singular
-SFX T0 ub ibbchen/d0 ub is:diminutive is:singular
-SFX T0 uert iertchen/D0 uert is:diminutive is:singular
 SFX T0 ollef ëllefchen/r0 ollef is:diminutive is:singular
 SFX T0 onken énkchen/d0 onken is:diminutive is:singular
 SFX T0 offer ëfferchen/r0 offer is:diminutive is:singular
-SFX T0 ul ilchen/d0 aul is:diminutive is:singular
-SFX T0 ueb iebchen/d0 ueb is:diminutive is:singular
-SFX T0 ueder iederchen/r0 ueder is:diminutive is:singular
-SFX T0 ugel igelchen/r0 ugel is:diminutive is:singular
-SFX T0 uet ietchen/d0 uet is:diminutive is:singular
 SFX T0 amp ämmchen/d0 amp is:diminutive is:singular
-SFX T0 an ännchen/d0 [Kk]an is:diminutive is:singular
+SFX T0 an ännchen/d0 an is:diminutive is:singular
 SFX T0 auz äizchen/d0 auz is:diminutive is:singular
 SFX T0 omp ëmpchen/d0 omp is:diminutive is:singular
 SFX T0 oppel ëppelchen/r0 oppel is:diminutive is:singular
 SFX T0 ondel ëndelchen/r0 ondel is:diminutive is:singular
 SFX T0 ouer éierchen/r0 ouer is:diminutive is:singular
 SFX T0 ossel ësselchen/r0 ossel is:diminutive is:singular
-SFX T0 upp ippchen/d0 upp is:diminutive is:singular
 SFX T0 aufel äifelchen/r0 aufel is:diminutive is:singular
 SFX T0 ach ächelchen/r0 [^a]ach is:diminutive is:singular
 SFX T0 az ätzchen/d0 [Kk]az is:diminutive is:singular
-SFX T0 urscht irschtchen/d0 urscht is:diminutive is:singular
 SFX T0 oul éilchen/d0 oul is:diminutive is:singular
+SFX T0 aarf äerfchen/D0 aarf is:diminutive is:singular
+SFX T0 a ächen/d0 a is:diminutive is:singular
+SFX T0 anz änzelchen/r0 [Pp]anz is:diminutive is:singular
+SFX T0 ong éngelchen/r0 ong is:diminutive is:singular
+SFX T0 osch ëschelchen/r0 osch is:diminutive is:singular
+SFX T0 opp ëppchen/d0 opp is:diminutive is:singular
+SFX T0 onn ënnchen/d0 onn is:diminutive is:singular
+SFX T0 oss ësschen/d0 oss is:diminutive is:singular
+SFX T0 omm ëmmchen/d0 omm is:diminutive is:singular
+SFX T0 anz änzchen/d0 [lr]anz is:diminutive is:singular
+SFX T0 ong éngchen/d0 hong is:diminutive is:singular
+SFX T0 äin éngchen/d0 äin is:diminutive is:singular
+SFX T0 oll ëllchen/d0 oll is:diminutive is:singular
 
 SFX O0 N 1
 SFX O0 0 chen/D0 . is:diminutive is:singular
@@ -1163,7 +1103,7 @@ SFX t1 0 ien/f0 [^l][glpz] is:plural
 SFX t1 0 ten/f0 u is:plural
 SFX t1 0 jen/f0 ll is:plural
 
-PFX s0 Y 181
+PFX s0 Y 187
 PFX s0 an anze/f0 an[^e]
 PFX s0 an anzë/f0 anengen
 PFX s0 a anze/f0 a[^nu]
@@ -1269,9 +1209,9 @@ PFX s0 nei neize/f0 nei
 PFX s0 néier néierze/f0 néier
 PFX s0 nidder nidderze/f0 nidder
 PFX s0 noeneen noeneenze/f0 noeneen
-PFX s0 no noze/f0 no[^e]
+PFX s0 no noze/f0 no[^eu]
 PFX s0 no nozë/f0 noe[^n]
-PFX s0 of ofze/f0 of
+PFX s0 of ofze/f0 of[^e]
 PFX s0 op opze/f0 op[^e]
 PFX s0 platt plattze/f0 platt
 PFX s0 präis präisze/f0 präis
@@ -1289,7 +1229,7 @@ PFX s0 statt stattze/f0 statt
 PFX s0 uecht uechtze/f0 uecht
 PFX s0 unenee uneneenze/f0 unenee[^n]
 PFX s0 uneneen uneneenze/f0 uneneen
-PFX s0 u unze/f0 u[^n]
+PFX s0 u unze/f0 u[^en]
 PFX s0 un unze/f0 un[^e]
 PFX s0 un unzë/f0 une[^n]
 PFX s0 viraus virausze/f0 viraus
@@ -1345,8 +1285,14 @@ PFX s0 bereet bereetze/f0 bereet
 PFX s0 tësche tëschenze/f0 tësche[^n]
 PFX s0 hei heize/f0 hei
 PFX s0 op opzë/f0 ope
+PFX s0 of ofzë/f0 ofe
+PFX s0 nout noutze/f0 nout
+PFX s0 eidel eidelze/f0 eidel
+PFX s0 vir virze/f0 vira[hn]
+PFX s0 dréche dréchenze/f0 dréche
+PFX s0 out outze/f0 out
 
-SFX I0 N 14
+SFX I0 N 23
 SFX I0 ach ächen/f0 ach is:feminine is:singular
 SFX I0 mann fra/n0 mann is:feminine is:singular
 SFX I0 ach ächin/n2 ach is:feminine is:singular
@@ -1355,12 +1301,21 @@ SFX I0 ënz inzessin/n2 ënz is:feminine is:singular
 SFX I0 boy girl/n0 boy is:feminine is:singular
 SFX I0 ek igin/n2 ek is:feminine is:singular
 SFX I0 ott ëttin/n2 ott is:feminine is:singular
-SFX I0 dd ttesch/n0 dd is:feminine is:singular
+SFX I0 dd ttesch/n0 add is:feminine is:singular
 SFX I0 -duc e-duchesse/N0 -duc is:feminine is:singular
 SFX I0 -Duc e-Duchesse/N0 -Duc is:feminine is:singular
 SFX I0 jong meedchen/d0 jong is:neutral is:singular
-SFX I0 f win/n2 f is:feminine is:singular
+SFX I0 f win/n2 if is:feminine is:singular
 SFX I0 o a/n0 o is:feminine is:singular
+SFX I0 udd iddin/n2 udd is:feminine is:singular
+SFX I0 of äfin/n2 of is:feminine is:singular
+SFX I0 udd üddin/n2 udd is:feminine is:singular
+SFX I0 ous éisin/n2 ous is:feminine is:singular
+SFX I0 papp mamm/n0 papp is:feminine is:singular
+SFX I0 p m/n0 [Bb]op is:feminine is:singular
+SFX I0 pi mi/n0 opi is:feminine is:singular
+SFX I0 pa ma/n0 opa is:feminine is:singular
+SFX I0 oopst eepstin/n2 oopst is:feminine is:singular
 
 SFX P1 N 21
 SFX P1 ten s aapten
@@ -1401,34 +1356,35 @@ SFX n2 N 2
 SFX n2 0 nen . is:plural
 SFX n2 0 ne . is:plural is:eifeler
 
-SFX I1 N 5
-SFX I1 0 sse/N0 [rt]e is:feminine is:singular
+SFX I1 N 6
+SFX I1 0 sse/N0 [^e]e is:feminine is:singular
 SFX I1 0 ësch/n0 ee is:feminine is:singular
 SFX I1 0 hesse/N0 c is:feminine is:singular
 SFX I1 0 nin/n2 o is:feminine is:singular
-SFX I1 0 ess/n0 n is:feminine is:singular
+SFX I1 0 ess/n0 [dn] is:feminine is:singular
+SFX I1 0 a/n0 r is:feminine is:singular
 
 SFX u1 N 2
 SFX u1 n 0 . is:eifeler
 SFX u1 0 ter . is:plural
 
 SFX w1 N 16
-SFX w1 n 0 en
-SFX w1 annen ënnt fannen
-SFX w1 annen onnt fannen
-SFX w1 afen eeft lafen
-SFX w1 oen eet goen
-SFX w1 oen oungen/f0 goen
-SFX w1 oen oung goen
-SFX w1 oen éingen/f0 goen
-SFX w1 oen éing goen
-SFX w1 oen inn/f0 goen
-SFX w1 ommen ënnt kommen
-SFX w1 en 0 kommen
-SFX w1 mmen umen/f0 kommen
-SFX w1 mmen um kommen
-SFX w1 ommen éimen/f0 kommen
-SFX w1 ommen éim kommen
+SFX w1 n 0 n
+SFX w1 annen ënnt annen
+SFX w1 annen onnt annen
+SFX w1 afen eeft afen
+SFX w1 oen eet oen
+SFX w1 oen oungen/f0 oen
+SFX w1 oen oung oen
+SFX w1 oen éingen/f0 oen
+SFX w1 oen éing oen
+SFX w1 oen inn/f0 oen
+SFX w1 ommen ënnt ommen
+SFX w1 en 0 men
+SFX w1 mmen umen/f0 mmen
+SFX w1 mmen um mmen
+SFX w1 ommen éimen/f0 ommen
+SFX w1 ommen éim ommen
 
 SFX b1 N 9
 SFX b1 en t/a0 [^djrtw]en
@@ -1440,4 +1396,107 @@ SFX b1 ën t/a0 ën
 SFX b1 jen cht/a0 jen
 SFX b1 wen ft/a0 wen
 SFX b1 en 0/a0 ten
+
+SFX e1 N 47
+SFX e1 aach iech aach is:plural
+SFX e1 ad ied ad is:plural
+SFX e1 n 0 en is:eifeler
+SFX e1 am eem am is:plural
+SFX e1 um im um is:plural
+SFX e1 us is us is:plural
+SFX e1 ag eeg ag is:plural
+SFX e1 en ng een is:plural
+SFX e1 d n nd is:plural
+SFX e1 af ief [ht]af is:plural
+SFX e1 af eef [^ht]af is:plural
+SFX e1 aasch eesch aasch is:plural
+SFX e1 uedem iedem uedem is:plural
+SFX e1 ugel igel ugel is:plural
+SFX e1 uechter iechter uechter is:plural
+SFX e1 od eed od is:plural
+SFX e1 op eep op is:plural
+SFX e1 uef ief uef is:plural
+SFX e1 ut it ut is:plural
+SFX e1 k g k is:plural
+SFX e1 oopst eepst oopst is:plural
+SFX e1 usch isch usch is:plural
+SFX e1 of eef of is:plural
+SFX e1 ol eel ol is:plural
+SFX e1 on een on is:plural
+SFX e1 ub ibb ub is:plural
+SFX e1 uch ich uch is:plural
+SFX e1 udder idder udder is:plural
+SFX e1 ued ied ued is:plural
+SFX e1 uerf ierf uerf is:plural
+SFX e1 uerm ierm uerm is:plural
+SFX e1 uerz ierz uerz is:plural
+SFX e1 uewen iewen/f0 uewen is:plural
+SFX e1 uff iff uff is:plural
+SFX e1 ull ill ull is:plural
+SFX e1 umm imm umm is:plural
+SFX e1 unn inn unn is:plural
+SFX e1 utsch itsch utsch is:plural
+SFX e1 utt itt utt is:plural
+SFX e1 uuss iiss uuss is:plural
+SFX e1 uet iet uet is:plural
+SFX e1 ummer immer ummer is:plural
+SFX e1 our ier our is:plural
+SFX e1 uer ier uer is:plural
+SFX e1 upp ipp upp is:plural
+SFX e1 mënsch leit mënsch is:plural
+SFX e1 u i u is:plural
+
+SFX T2 N 46
+SFX T2 ub ibbchen/d0 ub is:diminutive is:singular
+SFX T2 uert iertchen/D0 uert is:diminutive is:singular
+SFX T2 ul ilchen/d0 ul is:diminutive is:singular
+SFX T2 ueb iebchen/d0 ueb is:diminutive is:singular
+SFX T2 ueder iederchen/r0 ueder is:diminutive is:singular
+SFX T2 ugel igelchen/r0 ugel is:diminutive is:singular
+SFX T2 uet ietchen/d0 uet is:diminutive is:singular
+SFX T2 upp ippchen/d0 upp is:diminutive is:singular
+SFX T2 urscht irschtchen/d0 urscht is:diminutive is:singular
+SFX T2 af iefchen/D0 af is:diminutive is:singular
+SFX T2 ued iedchen/d0 ued is:diminutive is:singular
+SFX T2 uerm iermchen/d0 uerm is:diminutive is:singular
+SFX T2 ummer immerchen/r0 ummer is:diminutive is:singular
+SFX T2 utt ittchen/d0 utt is:diminutive is:singular
+SFX T2 on eenchen/d0 on is:diminutive is:singular
+SFX T2 uerz ierzchen/d0 uerz is:diminutive is:singular
+SFX T2 uedem iedemchen/r0 uedem is:diminutive is:singular
+SFX T2 ues ieschen/d0 ues is:diminutive is:singular
+SFX T2 unn innchen/d0 unn is:diminutive is:singular
+SFX T2 utz itzelchen/r0 utz is:diminutive is:singular
+SFX T2 ad iedchen/D0 [Ppt]ad is:diminutive is:singular
+SFX T2 uf ifchen/D0 uf is:diminutive is:singular
+SFX T2 us ischen/d0 us is:diminutive is:singular
+SFX T2 at ietchen/D0 at is:diminutive is:singular
+SFX T2 am eemchen/d0 am is:diminutive is:singular
+SFX T2 ad iedchen/d0 [Rr]ad is:diminutive is:singular
+SFX T2 uerf ierfchen/d0 uerf is:diminutive is:singular
+SFX T2 aass iesschen/D0 aass is:diminutive is:singular
+SFX T2 ull illchen/d0 ull is:diminutive is:singular
+SFX T2 umm immchen/d0 umm is:diminutive is:singular
+SFX T2 um imchen/d0 um is:diminutive is:singular
+SFX T2 as ieschen/d0 as is:diminutive is:singular
+SFX T2 uuss iisschen/d0 uuss is:diminutive is:singular
+SFX T2 udder idderchen/r0 udder is:diminutive is:singular
+SFX T2 uch ichelchen/r0 uch is:diminutive is:singular
+SFX T2 unkt inktelchen/r0 unkt is:diminutive is:singular
+SFX T2 uucht iichtchen/d0 uucht is:diminutive is:singular
+SFX T2 d odchen/D0 od is:diminutive is:singular
+SFX T2 dden itchen/D0 dden is:diminutive is:singular
+SFX T2 p opchen/D0 op is:diminutive is:singular
+SFX T2 m omchen/D0 om is:diminutive is:singular
+SFX T2 uddel iddelchen/r0 uddel is:diminutive is:singular
+SFX T2 utsch itschelchen/r0 utsch is:diminutive is:singular
+SFX T2 ut iitchen/D0 ut is:diminutive is:singular
+SFX T2 our ierchen/d0 our is:diminutive is:singular
+SFX T2 uer ierchen/r0 uer is:diminutive is:singular
+
+SFX L1 N 1
+SFX L1 0 chen/f0 . is:diminutive is:singular
+
+SFX D9 N 1
+SFX D9 p omchen/D0 [Bb]op is:feminine is:diminutive is:singular
 
