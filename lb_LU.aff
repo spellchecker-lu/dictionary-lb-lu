@@ -1,6 +1,6 @@
 SET UTF-8
 
-TRY erntsialohcugmdpkfébzwäëvSKBPGAMFDHRyEVxTWLIjONCZüqUJËèÄöQ-ÉêôçîûÖâXYñÜàï'
+TRY erntsialohcugmdkpfézbwäëvSKBPGAMFDHyREVxTWLIjONCZüqUJËèÄöQ-ÉêûôçîÖâXYñÜïíà'́
 
 KEY qwertyuiopüè|asdfghjklöéäà|zxcvbnm
 
@@ -13,50 +13,102 @@ FLAG long
 NOSPLITSUGS
 NOSUGGEST !0
 
-REP 82
-REP a er
-REP a ar
-REP ab of
+REP 733
+REP aire är
+REP ureau üro
+REP oupe upp
+REP cade kad
+REP aa a
+REP ure ür
+REP usque üsk
+REP che sch
+REP ime imm
+REP chure schür
+REP oup upp
+REP chette schett
+REP ame amm
+REP urée üree
+REP isque isk
+REP afe aff
+REP nnaire när
+REP caire kär
+REP cace kass
+REP cac kass
+REP quette kett
+REP çade ssad
+REP äh ä
+REP äh ää
+REP vé wee
+REP ote ott
+REP arque ark
+REP ube üb
+REP teau tto
+REP ine inn
+REP pé pee
+REP asse ass
+REP ouche usch
 REP ae ä
-REP ai äi
+REP ex ächs
+REP a er
 REP ai ä
+REP ph f
+REP ch j
 REP al e
+REP f ph
+REP a ar
+REP oft dacks
+REP ère är
+REP rw f
+REP s sch
+REP ab of
+REP amt büro
+REP ouché usché
+REP ssaire ssär
+REP ette ett
+REP ah a
+REP Canapé Kanapee
+REP Actionnaire Aktionär
+REP Cabine Kabinn
+REP Carcasse Karkass
+REP Cartouche Kartusch
+REP Commissaire Kommissär
+REP Crevette Krevett
+REP ai äi
 REP allzelaang allze_laang
 REP amgaang am_Gaang
-REP amt büro
+REP amgaange am_Gaang
+REP amgaangen am_Gaang
 REP annuecht an_Uecht
 REP ansech u_sech
 REP Betäub Déid
+REP ape app
 REP betäube déide
 REP betäubs déits
+REP ehrzah éizue
 REP betäubt déit
 REP bisewell bis_ewell
-REP biswell bis_ewell
 REP ch sch
-REP ch j
+REP ctionnair ktionär
 REP deeër där
 REP ech ësch
 REP eh ee
-REP ehrzah éizue
 REP ei äi
-REP eig äip
 REP emüteg amiddeg
 REP engkéier eng_Kéier
-REP ère är
-REP ex ächs
-REP f ph
+REP inhorn enhar
+REP inzah enzue
 REP finsternis däischtert
 REP gaang gaangen
 REP gemat gemaach
 REP gemeet gemaach
 REP get gëtt
 REP iff éif
-REP inhorn enhar
-REP inzah enzue
 REP io jo
+REP irunallem irun_allem
 REP kin kéin
 REP l ll
 REP l hl
+REP tapf dap
 REP lë lle
 REP loung louch
 REP man maachen
@@ -64,57 +116,643 @@ REP mee mä
 REP mëss méchs
 REP nëtzlos onnëtz
 REP nie ni
-REP oft dacks
 REP olkenkratzer ollekekrazert
 REP onct unkt
 REP oots éits
-REP ph f
 REP roh ree
 REP rohe reeë
 REP roof erof
-REP s sch
 REP säitdeem zënterhier
 REP säitdeem zënter_datt
 REP soulues esou_lues
 REP stäub stëbs
-REP stotteren tuddelen
-REP Tankstell Bensinsstatioun
-REP tapf dap
 REP të tte
 REP Treibhaus Zär
 REP Treibhause Zärene
 REP Treibhausg Zäreg
+REP ude üd
 REP Urheber Auteurs
 REP urheber auteurs
 REP Urheber Auteur
 REP üst ëscht
-REP ut id
-REP Virunallem Virun_allem
-REP virunallem virun_allem
 REP wanns wann_s
 REP wéieng wéi_eng
-REP wéivill wéi_vill
 REP z ds
+REP wéivill wéi_vill
 REP zevill ze_vill
+REP év eew
+REP tt t
+REP ie i
+REP ërré erree
+REP ll l
+REP e ee
+REP e é
+REP e ë
+REP e ä
+REP a ä
+REP é e
+REP ë e
+REP dd tt
+REP m M
+REP d t
+REP i e
+REP f v
+REP e ët
+REP a A
+REP s S
+REP w f
+REP c C
+REP p P
+REP b B
+REP h e
+REP d D
+REP f F
+REP ä e
+REP c k
+REP a e
+REP e E
+REP ë é
+REP r R
+REP e i
+REP ö ë
+REP g ch
+REP g G
+REP ie éi
+REP k K
+REP ei éie
+REP e éi
+REP t d
+REP é ee
+REP E Ë
+REP t T
+REP v V
+REP é ä
+REP w W
+REP ch g
+REP o O
+REP e a
+REP C K
+REP i I
+REP l L
+REP b p
+REP j J
+REP i é
+REP ä a
+REP Ae Ä
+REP k c
+REP n N
+REP K C
+REP s e
+REP g k
+REP à ä
+REP e ës
+REP o a
+REP o u
+REP f w
+REP i ë
+REP h H
+REP r e
+REP e o
+REP e l
+REP d n
+REP z Z
+REP ée eeë
+REP e d
+REP v w
+REP E É
+REP ee ä
+REP A Ä
+REP u ü
+REP z s
+REP v f
+REP u U
+REP o e
+REP é ë
+REP me Më
+REP u e
+REP rbes arbe
+REP eiw éif
+REP a t
+REP ne en
+REP è é
+REP u o
+REP ö é
+REP e n
+REP e w
+REP c K
+REP gre Gré
+REP d l
+REP e r
+REP g sch
+REP a é
+REP n r
+REP m n
+REP ë ä
+REP en ne
+REP le el
+REP c z
+REP e er
+REP if éi
+REP e è
+REP ei ie
+REP tt dd
+REP p b
+REP ëre erë
+REP e ën
+REP u i
+REP é E
+REP ä ee
+REP g ge
+REP p pe
+REP dé De
+REP ô o
+REP me Mé
+REP ä éi
+REP s n
+REP re er
+REP eu ue
+REP u a
+REP t e
+REP E Ä
+REP a o
+REP f d
+REP â a
+REP ri oriw
+REP y i
+REP F V
+REP er re
+REP r n
+REP t r
+REP le Lë
+REP n m
+REP ré Re
+REP ß ss
+REP ge eë
+REP re erë
+REP è e
+REP ä é
+REP i j
+REP h ht
+REP n e
+REP ä Ä
+REP i l
+REP t te
+REP m emo
+REP ne el
+REP o ue
+REP a n
+REP i n
+REP ge ë
+REP w v
+REP n ng
+REP s t
+REP n ne
+REP K Ch
+REP s z
+REP c ch
+REP d nt
+REP l e
+REP ke Ké
+REP t s
+REP j g
+REP el le
+REP s st
+REP e t
+REP st ts
+REP ea äe
+REP ellë ëlle
+REP E e
+REP or ro
+REP é éi
+REP si is
+REP É E
+REP a l
+REP o ou
+REP éiw eif
+REP S Z
+REP a u
+REP e u
+REP A a
+REP a i
+REP i u
+REP l le
+REP m me
+REP e Ë
+REP ä i
+REP o i
+REP hc ch
+REP e ël
+REP e ê
+REP l ls
+REP i d
+REP No O
+REP um emo
+REP ou ue
+REP er ä
+REP d de
+REP erh werha
+REP ï i
+REP éné ene
+REP a s
+REP r re
+REP ö e
+REP i ir
+REP ü u
+REP ie ei
+REP ei éis
+REP ö ä
+REP i o
+REP I i
+REP n a
+REP ä ë
+REP rdv RDV
+REP f ft
+REP é a
+REP r t
+REP écide ecidé
+REP i y
+REP r s
+REP k g
+REP h k
+REP z c
+REP d tt
+REP ne é
+REP d g
+REP to ptop
+REP O o
+REP t chd
+REP eg ge
+REP pré Pre
+REP sch g
+REP chs sch
+REP minu Minut
+REP i a
+REP o ô
+REP r rt
+REP o ë
+REP ng ange
+REP d e
+REP e s
+REP c a
+REP na an
+REP é è
+REP g j
+REP o oe
+REP o s
+REP re ë
+REP eier éiere
+REP här  Här
+REP n nt
+REP Kre Chrë
+REP éc ek
+REP ére eré
+REP fre Frë
+REP le Lé
+REP n nd
+REP ê ë
+REP ¨ ë
+REP eh o
+REP aï äi
+REP an ne
+REP re eré
+REP épare eparé
+REP z t
+REP i ie
+REP u ë
+REP g n
+REP ofla fl
+REP E Äe
+REP eif éiw
+REP ë i
+REP aerd äert
+REP besch Besche
+REP or ri
+REP ue ou
+REP eih éi
+REP es ë
+REP e lä
+REP e éc
+REP e lé
+REP U u
+REP ofgi fgin
+REP ü é
+REP n g
+REP ts st
+REP el ë
+REP ctif ktiv
+REP a ë
+REP bre Bré
+REP b w
+REP éee eeë
+REP edd ëtt
+REP dv DV
+REP ëee eeë
+REP et te
+REP n d
+REP élé ele
+REP ä ai
+REP m e
+REP ü ie
+REP h n
+REP ri ir
+REP e en
+REP a Ä
+REP de Dë
+REP ö o
+REP cht schd
+REP proble Probl
+REP chi schin
+REP q Q
+REP d lt
+REP al le
+REP l o
+REP u é
+REP n s
+REP en ë
+REP z zvous
+REP doc Dok
+REP Ö Ë
+REP étail etai
+REP a E
+REP n ë
+REP ngi gin
+REP ë ee
+REP h u
+REP k C
+REP eid éit
+REP l lt
+REP éc e
+REP sp Spa
+REP c ç
+REP ésente esenté
+REP an na
+REP f tw
+REP ü ë
+REP E Ie
+REP g gen
+REP ës e
+REP ach g
+REP i lj
+REP W V
+REP b n
+REP o l
+REP Pf F
+REP ih hi
+REP ste Sté
+REP s r
+REP am ma
+REP rtsda ertsd
+REP ettë ëtte
+REP s d
+REP nome Nomë
+REP â ä
+REP sche Schec
+REP nsche schä
+REP g h
+REP i Iw
+REP eichze äichzä
+REP pfl fle
+REP è ä
+REP eiwe äiwë
+REP e et
+REP o eu
+REP ge Gë
+REP se Sé
+REP fie vi
+REP euros Euro
+REP i w
+REP endles ëndle
+REP é ée
+REP oe ë
+REP k h
+REP weg ewech
+REP r i
+REP ze sé
+REP ua au
+REP ë Ë
+REP g gs
+REP aarbes Aarbe
+REP ke Kë
+REP ssnah ossna
+REP j ch
+REP k kt
+REP teleph Telef
+REP os so
+REP n ns
+REP d a
+REP u û
+REP f b
+REP R r
+REP i ä
+REP t z
+REP fe Fë
+REP n t
+REP em me
+REP al la
+REP ro or
+REP Entf Äntw
+REP un U
+REP C Z
+REP f V
+REP s i
+REP e Ä
+REP réi éis
+REP i s
+REP i t
+REP é éit
+REP i î
+REP h l
+REP r rs
+REP sa Sä
+REP är ère
+REP b g
+REP gle Glé
+REP ar ra
+REP schle Schlë
+REP L l
+REP ad A
+REP h g
+REP w e
+REP C Sc
+REP etz ëtze
+REP lt el
+REP gespre Gespré
+REP verspe Verspé
+REP m lmo
+REP Ä ä
+REP ue ü
+REP h he
+REP g d
+REP r ire
+REP sams Samsch
+REP nst ansd
+REP s ë
+REP su us
+REP aë äe
+REP catio katiou
+REP ü i
+REP äsente esenté
+REP sms SMS
+REP ze dsé
+REP ücks écksi
+REP conge Congé
+REP rd ert
+REP s c
+REP se Sä
+REP he Hë
+REP i it
+REP aiwe äiwë
+REP eigen éige
+REP zt tz
+REP s se
+REP cht ach
+REP sch chs
+REP d dde
+REP la al
+REP entf äntw
+REP w we
+REP se es
+REP i in
+REP pra Prä
+REP à äe
+REP eis éi
+REP abre Abrë
+REP mé Me
+REP eigesa äiges
+REP emgesa ëmges
+REP ei éit
+REP ö éi
+REP n b
+REP ella llä
+REP eize äizä
+REP ê e
+REP t l
+REP éserve eservé
+REP A U
+REP n u
+REP u un
+REP erhel werhë
+REP rw arwe
+REP fle vlä
+REP nru ruf
+REP i is
+REP ng an
+REP e wer
+REP eid äit
+REP ê é
+REP ee éi
+REP elle llä
+REP erble werblé
+REP a f
+REP t a
+REP f g
+REP em mo
+REP fla vlä
+REP er dere
+REP a ue
+REP echen iche
+REP é i
+REP bu Bü
+REP acce Accè
+REP r ert
+REP ce z
+REP re Ré
+REP è ü
+REP u n
+REP pre Prä
+REP ß t
+REP fi v
+REP ve Vë
+REP ur ru
+REP a p
+REP s a
+REP cie ziel
+REP l d
+REP ek éc
+REP m a
+REP aichza äichzä
+REP a ach
+REP ane nes
+REP ns un
+REP He E
+REP aiza äizä
+REP bere Berä
+REP uo ou
+REP eige éig
+REP re ën
+REP ran era
+REP Pfl Fle
+REP ctio ktiou
+REP e É
+REP e äm
+REP ro er
+REP éwe ewé
+REP gudd Gutt
+REP maa nee
+REP u d
+REP e h
+REP eck écke
+REP ien lje
+REP ee é
+REP ir ri
+REP ngjäh angjä
+REP adt d
+REP eet aach
+REP e hé
+REP g f
+REP ite äit
+REP ée eé
+REP ma ad
+REP oi uerg
+REP no O
+REP at ta
+REP a h
+REP éé ee
+REP v ww
+REP eibeha äibeh
+REP schwe Schwë
+REP s l
+REP d s
+REP éi ee
+REP eir éiert
+REP asbl ASBL
+REP at d
+REP Ä E
+REP Contac Kontak
+REP e ré
+REP c ck
+REP ke ek
+REP eigli éigle
+REP Ei Éie
+REP f p
+REP rkli erkle
+REP é et
+REP z zt
+REP ngefro gefr
+REP l i
+REP ge Gé
+REP nai Nas
+REP h a
+REP we Wë
+REP g b
+REP s g
+REP nbel bela
+REP oc Ok
+REP o n
+REP se Së
+REP h i
+REP eind éint
+REP o er
+REP s Sa
+REP P p
+REP f e
+REP it ti
 
-MAP 17
-MAP äa(aa)àÄA(Aa)
-MAP bB
-MAP ck(ck)CK
-MAP dt(tt)(dd)DT
-MAP e(ee)äëêéèEÄËÊÉÈ
-MAP fvwFVW
-MAP gj(ch)GJ
-MAP hH
-MAP i(ii)I
-MAP lL
-MAP n(nn)N
-MAP o(oo)öôOÖ
-MAP pP
-MAP qQ
-MAP r(er)(rr)R(Er)
-MAP s(ss)S
-MAP u(uu)üûUÜÛ
+MAP 2
+MAP CK
+MAP ck
+
+
 
 SFX A0 Y 4
 SFX A0 0 st/a0 [^rs] is:superlative
@@ -961,7 +1599,7 @@ SFX K0 r erchen/d0 är is:diminutive is:singular
 SFX K1 N 1
 SFX K1 0 chen/r0 . is:diminutive is:singular
 
-SFX K6 N 69
+SFX K6 N 71
 SFX K6 and ëndchen/D0 [Kk]and is:diminutive is:singular
 SFX K6 ond ëndchen/D0 ond is:diminutive is:singular
 SFX K6 and ändchen/D0 [BbHhLl]and is:diminutive is:singular
@@ -1014,7 +1652,7 @@ SFX K6 ouer éierchen/r0 ouer is:diminutive is:singular
 SFX K6 ossel ësselchen/r0 ossel is:diminutive is:singular
 SFX K6 aufel äifelchen/r0 aufel is:diminutive is:singular
 SFX K6 ach ächelchen/r0 [^a]ach is:diminutive is:singular
-SFX K6 az ätzchen/d0 [Kk]az is:diminutive is:singular
+SFX K6 az ätzchen/d0 [Kkl]az is:diminutive is:singular
 SFX K6 oul éilchen/d0 oul is:diminutive is:singular
 SFX K6 aarf äerfchen/D0 aarf is:diminutive is:singular
 SFX K6 a ächen/d0 a is:diminutive is:singular
@@ -1031,6 +1669,8 @@ SFX K6 äin éngchen/d0 äin is:diminutive is:singular
 SFX K6 oll ëllchen/d0 oll is:diminutive is:singular
 SFX K6 afel äffelchen/r0 afel is:diminutive is:singular
 SFX K6 och échelchen/r0 och is:diminutive is:singular
+SFX K6 ass ässelchen/r0 lass is:diminutive is:singular
+SFX K6 ant ännchen/d0 ant is:diminutive is:singular
 
 SFX K4 N 1
 SFX K4 0 chen/D0 . is:diminutive is:singular
@@ -1086,7 +1726,7 @@ SFX t1 0 ien/f0 [^l][glpz] is:plural
 SFX t1 0 ten/f0 u is:plural
 SFX t1 0 jen/f0 ll is:plural
 
-PFX s0 Y 188
+PFX s0 Y 196
 PFX s0 an anze/f0 an[^e]
 PFX s0 an anzë/f0 anengen
 PFX s0 a anze/f0 a[^nu]
@@ -1186,7 +1826,7 @@ PFX s0 leed leedze/f0 leed
 PFX s0 leie leienze/f0 leie[^n]
 PFX s0 leien leienze/f0 leien
 PFX s0 léif léifze/f0 léif
-PFX s0 mat matze/f0 mat[^e]
+PFX s0 mat matze/f0 mat[^ae]
 PFX s0 mat matzë/f0 mate
 PFX s0 nei neize/f0 nei
 PFX s0 néier néierze/f0 néier
@@ -1275,8 +1915,16 @@ PFX s0 vir virze/f0 vira[hn]
 PFX s0 dréche dréchenze/f0 dréche
 PFX s0 out outze/f0 out
 PFX s0 wuel wuelzë/f0 wuele
+PFX s0 schwaarz schwaarzze/f0 schwaarz
+PFX s0 labber labberze/f0 labber
+PFX s0 mata matanze/f0 mata
+PFX s0 beienee beieneenze/f0 beienee
+PFX s0 bekannt bekanntze/f0 bekannt
+PFX s0 zeréck zeréckze/f0 zeréck[^e]
+PFX s0 zeréck zeréckzë/f0 zerécke
+PFX s0 géige géigenze/f0 géige
 
-SFX I0 N 25
+SFX I0 N 27
 SFX I0 ach ächen/f0 ach is:feminine is:singular
 SFX I0 mann fra/n0 mann is:feminine is:singular
 SFX I0 ach ächin/n9 ach is:feminine is:singular
@@ -1302,6 +1950,8 @@ SFX I0 pa ma/n0 pa is:feminine is:singular
 SFX I0 oopst eepstin/n9 oopst is:feminine is:singular
 SFX I0 ochs échsin/n9 ochs is:feminine is:singular
 SFX I0 oer éiesch/n0 oer is:feminine is:singular
+SFX I0 monni tatta/n0 monni is:feminine is:singular
+SFX I0 brudder schwëster/n0 brudder is:feminine is:singular
 
 SFX P1 N 21
 SFX P1 ten s aapten
@@ -1489,8 +2139,9 @@ SFX K7 oder eederchen/r0 oder is:diminutive is:singular
 SFX K5 N 1
 SFX K5 0 chen/f0 . is:diminutive is:singular
 
-SFX D9 N 1
+SFX D9 N 2
 SFX D9 p omchen/D0 [Bb]op is:feminine is:diminutive is:singular
+SFX D9 brudder schwësterchen/r0 brudder is:feminine is:diminutive is:singular
 
 SFX b0 N 1
 SFX b0 0 d/a0 .
@@ -1518,4 +2169,8 @@ SFX u0 aach äächer aach is:plural
 SFX u0 oft ëfter oft is:plural
 SFX u0 olz ëlzer olz is:plural
 SFX u0 n 0 en is:eifeler
+
+SFX K8 N 2
+SFX K8 oft ëftchen/f0 oft is:diminutive is:singular
+SFX K8 om eemchen/f0 om is:diminutive is:singular
 
