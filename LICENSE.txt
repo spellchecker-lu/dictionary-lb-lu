@@ -1,4 +1,4 @@
-Spellchecker Dictionary (files: lb_LU.dic, lb_LU.aff)
+Spellchecker Dictionary (files: lb_LU.dic, lb_LU.aff, unmunched.dic)
 Thesaurus (files: th_lb_LU_v2.dat, th_lb_LU_v2.idx)
 
 Copyright (C) 2008-2015 Michel Weimerskirch
