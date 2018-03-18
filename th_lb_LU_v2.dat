@@ -203,14 +203,12 @@ affer|2
 -|Don|Gof
 -|Doudesaffer|Sacrifice
 affiche|1
--|Affisch|Plakat|Pouster
+-|Plakat|Pouster
 affiliatioun|1
 -|Memberschaft
 affirmatioun|2
 -|Behaaptung|Zouso
 -|Ausso
-affisch|1
--|Plakat|Pouster|Affiche
 affront|2
 -|Humiliatioun|Damiddegung|Erniddregung
 -|Beleidegung
@@ -300,6 +298,10 @@ aktivismus|1
 (Varianten)|Aktivissem
 aktivissem|1
 (Varianten)|Aktivismus
+aktivitéitsbericht|1
+-|Aktivitéitsrapport
+aktivitéitsrapport|1
+-|Aktivitéitsbericht
 aktivéierung|2
 -|Aktivatioun
 -|Fräischaltung
@@ -390,7 +392,7 @@ alzingen|1
 amarsch|1
 -|Invasioun
 amber|1
--|Imbringen
+(Uertschaftsnimm)|Imbringen
 ambiance|3
 -|Ambiente|Stëmmung
 -|Flair
@@ -435,7 +437,7 @@ androck|3
 -|Figur
 -|Empfindung|Sensatioun|Feeling
 androphobie|1
--|Männerphobie
+-|Männerphobie|Männerfeindlechkeet
 andéiwen|1
 -|Chicorée
 anemie|1
@@ -479,7 +481,7 @@ antennebësch|1
 antennëbësch|1
 (Varianten)|Antennebësch (recomm.)
 antisemitismus|1
--|Juddenhaass|Juddefeindlechkeet
+-|Juddenhaass|Juddefeindlechkeet|Judeophobie
 antivol|1
 -|Vëlosschlass
 antoniushaff|1
@@ -498,6 +500,8 @@ apaartegkeet|1
 -|Eegestännegkeet|Originalitéit
 aperhoer|1
 -|Wimper
+aperçu|1
+-|Virschau
 aphel|1
 (Astronomie)|Apsis
 apparat|2
@@ -688,9 +692,9 @@ aushëllef|1
 auslaaschtung|1
 -|Produktivitéit
 auslännerfeindlechkeet|1
--|Auslännerhaass|Friemefeindlechkeet
+-|Auslännerhaass|Friemefeindlechkeet|Xenophobie|Friemenhaass
 auslännerhaass|1
--|Auslännerfeindlechkeet|Friemefeindlechkeet
+-|Auslännerfeindlechkeet|Friemefeindlechkeet|Xenophobie|Friemenhaass
 ausmiessung|1
 (Varianten)|Ausmooss|Ausmoossung (recomm.)
 ausmooss|3
@@ -710,9 +714,9 @@ ausrutscher|1
 ausrëschtung|1
 -|Ariichtung
 ausschloss|1
--|Exclusioun
+-|Exklusioun
 ausschlossprozedur|1
--|Exclusiounsprozedur
+-|Exklusiounsprozedur
 ausschnëtt|1
 -|Auszuch|Extrait
 aussenzäit|1
@@ -791,8 +795,12 @@ automobilist|1
 autonomie|2
 -|Eegestännegkeet|Handlungsfräiheet|Selbststännegkeet
 -|Reechwäit
+autopsiebericht|1
+-|Autopsierapport
+autopsierapport|1
+-|Autopsiebericht
 autorisatioun|2
--|Ermächtegung
+-|Ermächtegung|Geneemegung
 -|Zouloossung
 autoskollektioun|1
 -|Autossammlung
@@ -876,6 +884,10 @@ badminton|1
 -|Fiederball
 bagage|1
 -|Gepäck
+bagagedepot|1
+-|Gepäckdepot|Gepäckofgab|Bagageofgab
+bagageofgab|1
+-|Gepäckdepot|Gepäckofgab|Bagagedepot
 baisse|1
 -|Reduktioun|Verklengerung|Senkung|Stuerz
 bakmull|1
@@ -937,6 +949,8 @@ barscht|1
 (Varianten)|Bascht (recomm.)
 bartreng|1
 (Uertschaftsnimm)|Bertrange
+basar|1
+-|Bataklang|Krëppeng
 basbellain|1
 -|Kierchen
 bascharage|2
@@ -967,7 +981,7 @@ bastler|1
 bastlerei|1
 -|Gebastels
 bataklang|1
--|Krëppeng
+-|Krëppeng|Basar
 batterie|2
 -|Besteck|Läffelsgeschir|Couvert
 -|Akku
@@ -1099,6 +1113,8 @@ behuelensreegel|1
 -|Verhalensreegel
 behuelensstéierung|1
 -|Verhalensstéierung
+behuelensweis|1
+-|Verhalensweis
 behälter|1
 -|Tank
 beidler|1
@@ -1252,14 +1268,67 @@ bestellung|1
 -|Commande
 bestiechung|1
 -|Korruptioun
-bestietnes|1
+bestietnes|2
 (Varianten)|Bestietnis
+-|Hochzäit
+bestietnesakt|1
+-|Hochzäitsakt
 bestietnesberoder|1
 -|Hochzäitsberoder|Bestietnesconseiller|Hochzäitsannonce|Hochzäitsconseiller
 bestietnesberodung|1
 -|Hochzäitsberodung
+bestietnesbild|1
+-|Hochzäitsbild
+bestietnesbuch|1
+-|Hochzäitsbuch
 bestietnesconseiller|1
 -|Hochzäitsberoder|Hochzäitsannonce|Hochzäitsconseiller|Bestietnesberoder
+bestietnescortège|1
+-|Hochzäitscortège
+bestietnesdag|1
+-|Hochzäitsdag
+bestietnesfeier|1
+-|Hochzäitsfeier
+bestietnesfeierlechkeet|1
+-|Hochzäitsfeierlechkeet
+bestietnesfestivitéit|1
+-|Hochzäitsfestivitéit
+bestietnesfoto|1
+-|Hochzäitsfoto
+bestietnesgefier|1
+-|Hochzäitsgefier
+bestietnesgesellschaft|1
+-|Hochzäitsgesellschaft
+bestietnesgezei|1
+-|Hochzäitsgezei
+bestietnesiessen|1
+-|Hochzäitsiessen
+bestietneslëscht|1
+-|Hochzäitslëscht
+bestietnesmass|1
+-|Hochzäitsmass
+bestietnesmenü|1
+-|Hochzäitsmenü
+bestietnesnuecht|1
+-|Hochzäitsnuecht
+bestietnesparty|1
+-|Hochzäitsparty
+bestietnesplang|1
+-|Hochzäitsplang
+bestietnespolitik|1
+-|Hochzäitspolitik
+bestietnespuer|1
+-|Hochzäitspuer
+bestietnesrack|1
+-|Hochzäitsrack
+bestietnesrank|1
+-|Hochzäitsrank
+bestietnesrees|1
+-|Hochzäitsrees
+bestietnessall|1
+-|Hochzäitssall
+bestietnestermäin|1
+-|Hochzäitstermäin
 bestietnis|1
 (Varianten)|Bestietnes
 bestännegkeet|2
@@ -1272,7 +1341,7 @@ bestëmmtheet|1
 bestëmmung|1
 -|Bestëmmtheet|Determinatioun
 besuch|1
--|Visite
+-|Visitt
 besuchszäit|1
 -|Visittenzäit
 besëtzer|1
@@ -1324,7 +1393,7 @@ beweis|2
 -|Bewäis|Bewäisstéck|Preuve|Beweisstéck
 (Varianten)|Bewäis (alt.)
 beweismaterial|1
--|Bewäismaterial
+(Varianten)|Bewäismaterial (alt.)
 beweisstéck|2
 -|Bewäis|Bewäisstéck|Beweis|Preuve
 (Varianten)|Bewäisstéck (alt.)
@@ -1345,7 +1414,7 @@ bewäis|2
 -|Bewäisstéck|Beweis|Preuve|Beweisstéck
 (Varianten)|Beweis (recomm.)
 bewäismaterial|1
--|Beweismaterial
+(Varianten)|Beweismaterial (recomm.)
 bewäisstéck|2
 -|Bewäis|Beweis|Preuve|Beweisstéck
 (Varianten)|Beweisstéck (recomm.)
@@ -1545,8 +1614,6 @@ blesséierten|1
 (Medezin)|Verletzten (alt.)
 blinddarm|1
 -|Bäiluegt
-blitzableiter|1
--|Blëtzableiter
 block|2
 -|Carnet|Notizbuch|Bichelchen
 -|Schnall
@@ -1564,18 +1631,18 @@ bluttaarmut|1
 -|Anemie
 bluttdon|1
 -|Bluttspend
-bluttdonateur|1
+bluttdonneur|1
 -|Bluttspender
-bluttdonateursdag|1
+bluttdonneursdag|1
 -|Bluttspenderdag
 bluttkreeslaf|1
 -|Bluttzirkulatioun
 bluttspend|1
 -|Bluttdon
 bluttspender|1
--|Bluttdonateur
+-|Bluttdonneur
 bluttspenderdag|1
--|Bluttdonateursdag
+-|Bluttdonneursdag
 blutttransfusioun|1
 -|Transfusioun
 bluttvergéissen|1
@@ -1592,8 +1659,6 @@ blénkert|1
 -|Aalbes
 blëll|1
 -|Bleil
-blëtzableiter|1
--|Blitzableiter
 blöden|1
 -|Dabo (ëgs.)|Eefalt|Topert|Dommen|Blani (ëgs.)|Hännes (ëgs.)|Dëlpes (ëgs.)|Dräibiz (ëgs.)|Blödian|Idiot|Hauli|Halwerweis|Nikki (ëgs.)|Pitti (ëgs.)|Nossi
 blödian|1
@@ -1648,11 +1713,11 @@ bonnevoie|1
 bootsch|1
 -|Knaus|Kuuscht
 bop|1
--|Grousspapp|Bopa (ëgs.)|Bopi (ëgs.)
+-|Grousspapp|Bopa (ëgs.)|Bopi (ëgs.)|Pätter
 bopa|1
--|Bop|Grousspapp|Bopi (ëgs.)
+-|Bop|Grousspapp|Bopi (ëgs.)|Pätter
 bopi|1
--|Bop|Grousspapp|Bopa (ëgs.)
+-|Bop|Grousspapp|Bopa (ëgs.)|Pätter
 bord|1
 -|Rand
 bordell|1
@@ -1820,6 +1885,10 @@ bud|1
 -|Brak
 buderscheid|1
 (Uertschaftsnimm)|Bitscht
+budgetsbericht|1
+-|Budgetsrapport
+budgetsrapport|1
+-|Budgetsbericht
 buedbidden|1
 -|Bidden
 buedem|2
@@ -2266,6 +2335,10 @@ consultatioun|1
 -|Spriechstonn
 contenu|1
 -|Inhalt
+contournement|1
+-|Ëmgoung
+contournementsstrooss|1
+-|Ëmgoungsstrooss
 contraceptioun|1
 -|Empfängnisverhiddung|Kontrazeptioun|Schwangerschaftsverhiddung|Verhiddung|Verhiddungsmëttel
 contraire|2
@@ -2383,6 +2456,8 @@ dammeslip|1
 -|Slip
 dammestrëmp|1
 -|Strëmp
+dammevestiaire|1
+-|Fraevestiaire
 damp|1
 -|Donst
 daperkeet|1
@@ -2424,6 +2499,8 @@ decolleté|1
 (Varianten)|Dekolletee (recomm.)
 decouverte|1
 -|Entdeckung
+decrochage|1
+-|Ofbroch
 deductioun|1
 -|Schlussfolgerung
 deel|1
@@ -2444,6 +2521,8 @@ dekalogie|1
 -|Zéngdeeler
 dekolletee|1
 (Varianten)|Decolleté (alt.)
+dekont|1
+-|Ofrechnung
 dekorateur|1
 -|Innenarchitekt
 dekoratioun|1
@@ -2464,6 +2543,10 @@ demande|1
 -|Nofro|Ufro
 demarche|1
 -|Gang
+demiboy|1
+-|Demiguy
+demiguy|1
+-|Demiboy
 demissioun|1
 -|Récktrëtt|Ofdankung|Ofgank
 demograf|1
@@ -2526,6 +2609,8 @@ determinatioun|1
 -|Bestëmmtheet|Bestëmmung
 detonatioun|1
 -|Knall
+detournement|1
+-|Ëmgoung
 devaluatioun|1
 -|Ofwäertung
 deviatioun|1
@@ -2550,6 +2635,8 @@ dicksbomm|1
 -|Jick|Weck
 dictionnaire|1
 -|Wierderbuch
+dictionnairesartikel|1
+-|Wierderbuchartikel
 dictionnairesattack|1
 -|Wierderbuchattack|Wierderbuchugrëff|Dictionnairesugrëff
 dictionnairesugrëff|1
@@ -2692,9 +2779,7 @@ don|2
 -|Affer|Gof
 -|Spend
 donateur|1
--|Spender
-donateursorgan|1
--|Spenderorgan
+-|Spender|Donneur
 doncols|1
 (Uertschaftsnimm)|Donkels
 dondel|1
@@ -2713,6 +2798,10 @@ donneschdeg|1
 -|Donneschden
 donneschden|1
 -|Donneschdeg
+donneur|1
+-|Donateur|Spender
+donneursorgan|1
+-|Spenderorgan
 donnée|1
 -|Angab
 donnéeën|1
@@ -2781,6 +2870,8 @@ dreemert|1
 -|Fantast
 dreifstoff|1
 -|Bensin|Sprit
+dresscode|1
+-|Kleederuerdnung|Etikett
 dressing|1
 -|Assaisonnement
 drobier|1
@@ -2803,10 +2894,14 @@ dräideeler|1
 -|Trilogie
 dräieck|1
 -|Triangel
+dräieenegkeet|1
+-|Trinitéit|Dräifaltegkeet
 dräier|1
 -|Triole|Triolismus
 dräierkonferenz|1
 -|Tripartite
+dräifaltegkeet|1
+-|Trinitéit|Dräieenegkeet
 drécheleeung|1
 -|Entsuppung|Entwässerung|Ausdréchnung
 dréchent|1
@@ -2884,6 +2979,8 @@ däitlechkeet|1
 -|Genauegkeet|Geneeëgkeet|Präzisioun|Prezisioun
 däitsch|1
 (Linguistik/Sprooch)|däitsch Sprooch
+däitschfeindlechkeet|1
+-|Germanophobie
 däitschfrëndlechkeet|1
 -|Germanophilie
 däitschland|1
@@ -3054,11 +3151,11 @@ eklips|1
 -|Sonnendäischtert
 ekobauer|1
 (Varianten)|Ökobauer (alt.)
-ekologie|1
-(Varianten)|Ökologie (alt.)
-ekologist|2
+ekolog|2
 -|Ëmweltschützer
 (Varianten)|Ökolog (alt.)
+ekologie|1
+(Varianten)|Ökologie (alt.)
 ekonomie|1
 (Ekonomie)|Wirtschaft
 ektohormon|1
@@ -3189,6 +3286,8 @@ entwécklungsretard|1
 -|Entwécklungsverspéidung
 entwécklungsverspéidung|1
 -|Entwécklungsretard
+envahisseur|1
+-|Ugräifer
 enveloppe|1
 -|Bréifschäd|Ëmschlag
 envergure|1
@@ -3224,10 +3323,10 @@ erfarung|1
 -|Erliefnes|Experienz
 erfolleg|1
 -|Succès
-erfollegserliefnes|1
-(Varianten)|Erfollegserliefnis
-erfollegserliefnis|1
-(Varianten)|Erfollegserliefnes
+erfollegerliefnes|1
+(Varianten)|Erfollegerliefnis
+erfollegerliefnis|1
+(Varianten)|Erfollegerliefnes
 erhalen|1
 -|Maintien
 erhéijung|1
@@ -3261,7 +3360,11 @@ ermordung|1
 ermsdorf|1
 (Uertschaftsnimm)|Iermsdref
 ermächtegung|1
--|Autorisatioun
+-|Autorisatioun|Geneemegung
+ermëttlungsbericht|1
+-|Ermëttlungsrapport
+ermëttlungsrapport|1
+-|Ermëttlungsbericht
 erniddregung|1
 -|Affront|Humiliatioun|Damiddegung
 ernierung|1
@@ -3345,9 +3448,10 @@ etablissement|2
 -|Institut
 etagère|1
 -|Kréibänk|Regal
-etikett|2
+etikett|3
 -|Schëld
 -|Protokoll
+-|Dresscode|Kleederuerdnung
 ettelbréck|1
 (Uertschaftsnimm)|Ettelbrück
 ettelbrück|1
@@ -3363,14 +3467,26 @@ euphorie|1
 -|Freed|Gléck|Begeeschterung|Enthusiasmus (fachspr.)
 europa-parlament|1
 (Politik)|Europäescht Parlament
+europafeindlechkeet|1
+-|Europhobie
+europafrëndlechkeet|1
+-|Europhilie
+europhilie|1
+-|Europafrëndlechkeet
+europhobie|1
+-|Europafeindlechkeet
 europäescht parlament|1
 (Politik)|Europa-Parlament
 evaluatioun|1
 -|Bewäertung
+evaluatiounsbericht|1
+-|Evaluatiounsrapport
 evaluatiounscritère|1
 (Varianten)|Evaluatiounskritär (recomm.)
 evaluatiounskritär|1
 (Varianten)|Evaluatiounscritère (alt.)
+evaluatiounsrapport|1
+-|Evaluatiounsbericht
 evasioun|1
 -|Ausbroch|Flucht
 evenement|1
@@ -3396,10 +3512,6 @@ excellenz|1
 (Varianten)|Exzellenz (recomm.)
 exceptioun|1
 -|Ausnam|Ausnamefall
-exclusioun|1
--|Ausschloss
-exclusiounsprozedur|1
--|Ausschlossprozedur
 excursioun|1
 -|Expeditioun|Rees|Tour|Ausfluch
 excuse|1
@@ -3415,12 +3527,22 @@ exemplar|1
 exercice|2
 -|Rechnungsjoer|Übung|Wirtschaftsjoer
 -|Beweegung
+exklusioun|1
+-|Ausschloss
+exklusiounsprozedur|1
+-|Ausschlossprozedur
 expeditioun|1
 -|Rees|Tour|Ausfluch|Excursioun
 experienz|1
 -|Erliefnes|Erfarung
 expert|1
 -|Fachmann
+expertebericht|1
+-|Experterapport
+experterapport|1
+-|Expertebericht
+expertesprooch|1
+-|Laiesprooch
 expertis|1
 -|Gutachten
 explikatioun|1
@@ -3442,16 +3564,18 @@ extrakt|1
 -|Essenz
 exzellenz|1
 (Varianten)|Excellenz (alt.)
-faarfstëft|1
--|Faarwebläistëft
-faarwebläistëft|1
+faarfbläistëft|1
 -|Faarfstëft
+faarfstëft|1
+-|Faarfbläistëft
 fabrick|1
 (Varianten)|Fabréck
 fabrikatioun|1
 -|Ufäerdegung
 fabréck|1
 (Varianten)|Fabrick
+facepainting|1
+-|Gesiichtsmolerei
 fach|1
 -|Case
 fachmann|2
@@ -3478,6 +3602,10 @@ fal|1
 -|Rompel|Ronschel
 fall|1
 -|Chute
+fallschierm|1
+-|Parachute
+fallschiermsprénger|1
+-|Parachutist
 familljefeier|1
 -|Familljefest
 familljefest|1
@@ -3495,6 +3623,8 @@ fank|1
 fantasie|2
 -|Imaginatioun|Virstellung
 -|Abildung
+fantasiestaat|1
+-|Schäistaat|Mikronatioun
 fantast|1
 -|Dreemert
 farce|2
@@ -3584,6 +3714,8 @@ fenteng|1
 (Uertschaftsnimm)|Fentange
 fernseh|1
 -|Tëlee|Televisioun
+fernsehusprooch|1
+-|Tëleesusprooch
 fertilisatioun|1
 -|Befruchtung|Fecondatioun
 fertilitéit|1
@@ -3644,6 +3776,10 @@ finalisatioun|1
 -|Finaliséierung
 finaliséierung|1
 -|Finalisatioun
+finanzbericht|1
+-|Finanzrapport
+finanzrapport|1
+-|Finanzbericht
 finess|1
 -|Feinheet
 finsterthal|1
@@ -3676,6 +3812,8 @@ fleegedéngscht|1
 -|Fleegeservice
 fleegeservice|1
 -|Fleegedéngscht
+fleeschfrësser|1
+-|Karnivor
 fleeschméck|1
 -|Schäissméck
 fleeschvendeur|1
@@ -3709,6 +3847,8 @@ fligerconstructeur|1
 (Varianten)|Fligerkonstrukteur
 fligerei|1
 -|Aviatioun
+fligerféierer|1
+-|Fluchkapitän|Pilot
 fligerkonstrukteur|1
 (Varianten)|Fligerconstructeur
 fliicht|2
@@ -3719,7 +3859,7 @@ fliissband|1
 flillek|1
 -|Fliicht
 flippert|1
-(Zoologie)|Mëllerchen|Millermoler|Päiperlek|Papillon|Pimpampel|Milleflippert (veraalt)|Millack (veraalt)
+(Zoologie)|Mëllerchen|Millermoler|Päiperlek|Papillon|Milleflippert (veraalt)|Millack (veraalt)
 flitterwochen|1
 -|Hunnegmound
 flopp|1
@@ -3740,6 +3880,8 @@ fluchbilljee|1
 -|Fluchticket
 fluchblat|1
 -|Fluchziedel
+fluchkapitän|1
+-|Fligerféierer|Pilot
 flucht|2
 -|Ausbroch|Evasioun
 -|Fuite
@@ -3788,8 +3930,6 @@ fong|1
 -|Buedem|Grond
 fonken|1
 -|Quonk
-football-nationaldivisioun|1
--|Foussball-Nationaldivisioun
 footing|1
 -|Course|Laf|Rennsport|Trajet
 force|1
@@ -3822,8 +3962,8 @@ fotokopie|1
 -|Kopie
 fotokopiesmaschinn|1
 -|Kopéierer|Kopiesmaschinn
-fotomodell|1
--|Mannequin
+fotomodel|1
+-|Mannequin|Model
 fou|1
 -|Fissure
 fouer|1
@@ -3835,10 +3975,6 @@ foulard|2
 -|Schal|Schleef
 foulscht|1
 (Uertschaftsnimm)|Folschette
-foussball|1
-(Varianten)|Fussball|Futtball
-foussball-nationaldivisioun|1
--|Football-Nationaldivisioun
 foussgelenk|1
 -|Enkel|Knéchel
 foyer|1
@@ -3846,12 +3982,17 @@ foyer|1
 fra|2
 -|Bratsch (graff)|Moss (vulg.)|Framënsch (graff)
 -|Meedchen|Schécks (vulg.)|Gaus (vulg.)
+fraefeindlechkeet|1
+-|Fraenhaass|Fraephobie|Misogynie
 fraendokter|1
 -|Gynekolog
 fraenhaass|1
--|Misogynie
-fraephobie|1
+-|Fraefeindlechkeet|Fraephobie|Misogynie
+fraephobie|2
 -|Gynekophobie
+-|Fraefeindlechkeet|Fraenhaass|Misogynie
+fraevestiaire|1
+-|Dammevestiaire
 fragezeechen|1
 (Varianten)|Froenzeechen (recomm.)|Fragezeichen (alt.)
 fragezeichen|1
@@ -3862,8 +4003,16 @@ fraktioun|1
 -|Broch|Brochdeel
 framënsch|1
 -|Fra|Bratsch (graff)|Moss (vulg.)
+frankophilie|1
+-|Franséischfrëndlechkeet
+frankophobie|1
+-|Franséischfeindlechkeet
 franséisch|1
 (Linguistik/Sprooch)|franséisch Sprooch
+franséischfeindlechkeet|1
+-|Frankophobie
+franséischfrëndlechkeet|1
+-|Frankophilie
 freak|1
 -|Fan
 frechheet|2
@@ -3880,9 +4029,9 @@ frequenz|1
 fric|1
 -|Goss
 friemefeindlechkeet|1
--|Auslännerfeindlechkeet|Auslännerhaass
+-|Auslännerfeindlechkeet|Auslännerhaass|Xenophobie|Friemenhaass
 friemenhaass|1
--|Xenophobie
+-|Auslännerfeindlechkeet|Auslännerhaass|Friemefeindlechkeet|Xenophobie
 friess|1
 -|Iessen|Buff (ëgs.)
 frigidaire|1
@@ -3991,10 +4140,6 @@ funkebrauerei|1
 -|Brauerei
 fusioun|1
 -|Vereenegung
-fussball|1
-(Varianten)|Foussball|Futtball
-futtball|1
-(Varianten)|Foussball|Fussball
 futur|1
 -|Zukunft
 fuuss|1
@@ -4037,8 +4182,6 @@ fënsterdall|1
 (Uertschaftsnimm)|Finsterthal
 fëschbech|1
 (Uertschaftsnimm)|Hengescht|Fischbach
-fëscherei|1
--|Piisch
 fëschrutt|1
 -|Aangel|Rutt
 fëschstiefchen|1
@@ -4124,6 +4267,8 @@ gedäers|1
 -|Trausch
 geescht|1
 -|Gespenst|Phantom
+geeschtekär|1
+-|Weeschësser
 geeschterbunn|1
 -|Geisterbahn
 geess|1
@@ -4206,11 +4351,13 @@ genauegkeet|4
 -|Exaktheet|Richtegkeet
 (Varianten)|Geneeëgkeet
 -|Pregnanz|Exaktheet|Prezisioun
+geneemegung|1
+-|Ermächtegung|Autorisatioun
 geneeëgkeet|2
 -|Däitlechkeet|Genauegkeet|Präzisioun|Prezisioun
 (Varianten)|Genauegkeet
 generaldirektioun|1
--|Topmanagement
+-|Toppmanagement
 generositéit|1
 -|Fräizügegkeet|Mëtschgiewegkeet
 genossenschaft|1
@@ -4229,18 +4376,24 @@ gepabeiers|1
 -|Pabeierkrich
 gepäck|1
 -|Bagage
+gepäckdepot|1
+-|Gepäckofgab|Bagagedepot|Bagageofgab
+gepäckofgab|1
+-|Gepäckdepot|Bagagedepot|Bagageofgab
 geriichtsbarkeet|1
 -|Juridictioun|Juridiktioun
 geriichtsdokter|1
 -|Läichendokter
 germanophilie|1
 -|Däitschfrëndlechkeet
+germanophobie|1
+-|Däitschfeindlechkeet
 geroch|2
 -|Doft
 -|Parfum
 geräisch|1
 -|Kaméidi|Koméidi
-gesangveräin|1
+gesangsveräin|1
 -|Kierchechouer
 gesank|2
 -|Chouer
@@ -4291,6 +4444,8 @@ gesetzgebung|1
 -|Legislatioun
 gesiichtsausdrock|1
 -|Ausdrock|Minn
+gesiichtsmolerei|1
+-|Facepainting
 gesolpertes|1
 -|Solperfleesch
 gespenst|1
@@ -4362,7 +4517,7 @@ giischterklaus|1
 (Uertschaftsnimm)|Girsterklaus
 gilet|1
 -|Gilli|Jilli
-gilette|1
+gillette|1
 -|Kléng|Schneid
 gilli|1
 -|Gilet|Jilli
@@ -4376,6 +4531,10 @@ gisschen|1
 -|Fierkel|Schwéngchen
 glace|1
 -|Äis
+glacier|1
+-|Glacëmännchen
+glacëmännchen|1
+-|Glacier
 glacëvendeur|1
 -|Glacëverkeefer
 glacëverkeefer|1
@@ -4519,6 +4678,10 @@ grenzgänger|1
 -|Frontalier
 grevenknapp|1
 (Uertschaftsnimm)|Gréiweknapp
+griicheschcours|1
+-|Griicheschunterrecht
+griicheschunterrecht|1
+-|Griicheschcours
 grill|1
 (Zoologie)|Heesprénger|Heemelmaus
 grindhausen|1
@@ -4563,7 +4726,7 @@ groussherzog|1
 groussmamm|1
 -|Bom|Boma|Bomi
 grousspapp|1
--|Bop|Bopa (ëgs.)|Bopi (ëgs.)
+-|Bop|Bopa (ëgs.)|Bopi (ëgs.)|Pätter
 grumelscheid|1
 (Uertschaftsnimm)|Grëmmelescht
 grundhof|1
@@ -4665,6 +4828,8 @@ gëltegkeet|1
 gëppel|2
 -|Haaspel
 -|Spëtzt
+gëscht|1
+-|Schaum|Mousse
 gëtzen|1
 (Uertschaftsnimm)|Goetzingen
 gültegkeet|1
@@ -4675,6 +4840,8 @@ haaptacteur|1
 -|Haaptschauspiller
 haaptaltor|1
 (Varianten)|Haaptälter (alt.)
+haaptausso|1
+-|Kärausso
 haaptcritère|1
 (Varianten)|Haaptkritär (recomm.)
 haapterkenntnes|1
@@ -4771,6 +4938,8 @@ hannergrondkenntnis|1
 (Varianten)|Hannergrondkenntnes
 haptik|1
 -|haptesch Perceptioun
+harakiri|1
+-|Seppuku
 hardware|1
 -|Material
 harmlosegkeet|1
@@ -4823,6 +4992,10 @@ heelpädagog|1
 (Varianten)|Heelpedagog (recomm.)
 heem|1
 -|Foyer|Veräinslokal
+heemechtsgefill|1
+-|Patriotismus|Heemechtsléift|Nationalgefill
+heemechtsléift|1
+-|Patriotismus|Nationalgefill|Heemechtsgefill
 heemechtspar|1
 (Varianten)|Heemechtspor
 heemechtspor|1
@@ -4879,6 +5052,8 @@ hengescht|2
 (Uertschaftsnimm)|Heinerscheid
 heptalogie|1
 -|Siwendeeler
+herbivor|1
+-|Planzefrësser
 herrgott|1
 (Varianten)|Härgott
 herrgottsdéierchen|1
@@ -4915,7 +5090,7 @@ hierarchie|1
 hierk|1
 -|Héierek|Héierenk
 hierkonft|1
--|Origine
+-|Origine|Ursprong
 hierschtblumm|1
 -|Koublumm|Luuchteblumm|Uuchteblumm
 hierschtmount|1
@@ -4938,6 +5113,12 @@ hirschuel|1
 -|Schiedel
 hisiicht|1
 -|Récksiicht
+hispanophilie|1
+-|Spueneschfrëndlechkeet
+hispanophobie|1
+-|Spueneschfeindlechkeet
+hitlerdäitschland|1
+-|Nazidäitschland
 hivange|1
 (Uertschaftsnimm)|Héiweng
 hiweis|1
@@ -4948,16 +5129,70 @@ hiwäis|1
 (Varianten)|Hiweis (recomm.)
 hiwäisschëld|1
 (Varianten)|Hiweisschëld (recomm.)
+hochzäit|1
+-|Bestietnes
+hochzäitsakt|1
+-|Bestietnesakt
 hochzäitsannonce|1
 -|Hochzäitsberoder|Bestietnesconseiller|Hochzäitsconseiller|Bestietnesberoder
 hochzäitsberoder|1
 -|Bestietnesconseiller|Hochzäitsannonce|Hochzäitsconseiller|Bestietnesberoder
 hochzäitsberodung|1
 -|Bestietnesberodung
+hochzäitsbild|1
+-|Bestietnesbild
+hochzäitsbuch|1
+-|Bestietnesbuch
 hochzäitsconseiller|1
 -|Hochzäitsberoder|Bestietnesconseiller|Hochzäitsannonce|Bestietnesberoder
+hochzäitscortège|1
+-|Bestietnescortège
+hochzäitsdag|1
+-|Bestietnesdag
+hochzäitsfeier|1
+-|Bestietnesfeier
+hochzäitsfeierlechkeet|1
+-|Bestietnesfeierlechkeet
+hochzäitsfestivitéit|1
+-|Bestietnesfestivitéit
+hochzäitsfoto|1
+-|Bestietnesfoto
+hochzäitsgefier|1
+-|Bestietnesgefier
+hochzäitsgesellschaft|1
+-|Bestietnesgesellschaft
+hochzäitsgezei|1
+-|Bestietnesgezei
+hochzäitsiessen|1
+-|Bestietnesiessen
 hochzäitskleed|1
 -|Brautkleed
+hochzäitslëscht|1
+-|Bestietneslëscht
+hochzäitsmass|1
+-|Bestietnesmass
+hochzäitsmenü|1
+-|Bestietnesmenü
+hochzäitsnuecht|1
+-|Bestietnesnuecht
+hochzäitsparty|1
+-|Bestietnesparty
+hochzäitsplang|1
+-|Bestietnesplang
+hochzäitspolitik|1
+-|Bestietnespolitik
+hochzäitspuer|1
+-|Bestietnespuer
+hochzäitsrack|1
+-|Bestietnesrack
+hochzäitsrank|1
+-|Bestietnesrank
+hochzäitsrees|1
+-|Bestietnesrees
+hochzäitssall|1
+-|Bestietnessall
+hochzäitstermäin|1
+-|Bestietnestermäin
 hocker|1
 -|Tabouret
 hoen|1
@@ -4974,6 +5209,8 @@ hollenfels|1
 (Uertschaftsnimm)|Huelmes
 homo|1
 -|Lénksen (graff)
+homophobie|1
+-|Schwulefeindlechkeet
 hond|1
 (Zoologie)|Mupp|Quinn
 hondsléngt|1
@@ -5090,6 +5327,14 @@ héierek|1
 -|Héierenk|Hierk
 héierenk|1
 -|Héierek|Hierk
+héierspill|1
+-|Lauschterspill
+héierspillconcours|1
+-|Lauschterspillconcours
+héierspillproduktioun|1
+-|Lauschterspillproduktioun
+héierspillspriecher|1
+-|Lauschterspillspriecher
 héiss|1
 -|Hämmchen|Schwéngshéiss
 héiweng|1
@@ -5099,9 +5344,9 @@ héngera|1
 hénkel|1
 (Uertschaftsnimm)|Hinkel
 hëff|1
--|Hëft
+(Varianten)|Hëft
 hëft|1
--|Hëff
+(Varianten)|Hëff
 hëllef|1
 -|Ënnerstëtzung|Mathëllef
 hëllefskraaft|1
@@ -5188,7 +5433,7 @@ illustréiert|1
 imaginatioun|1
 -|Fantasie|Virstellung
 imbringen|1
--|Amber
+(Uertschaftsnimm)|Amber
 immatrikulatioun|2
 -|Beschrëftung|Inscriptioun|Umeldung
 -|Zouloossung
@@ -5202,6 +5447,8 @@ immobiliëverkeefer|1
 -|Immobiliëvendeur
 impertinenz|1
 -|Frechheet
+impfpass|1
+-|Vaccinatiounspass
 impfung|1
 -|Vaccinatioun
 impfzenter|1
@@ -5292,6 +5539,8 @@ interdictioun|1
 -|Verbuet
 interessi|1
 (Varianten)|Intressi
+intergeschlechtlechkeet|1
+-|Intersexualitéit
 internet|1
 -|Spaweck
 internetaccès|1
@@ -5314,12 +5563,16 @@ interrogatioun|1
 -|Ëmfro|Befroung
 interruptioun|1
 -|Ofbroch
+intersexualitéit|1
+-|Intergeschlechtlechkeet
 intervall|1
 -|Tëschenzäit|Paus
 intressi|1
 (Varianten)|Interessi
 introduktioun|1
 -|Aleedung|Aféierung
+introspektioun|1
+-|Selbstbeobachtung
 intuitioun|1
 -|Gefill|Anung
 invaliditéit|1
@@ -5345,16 +5598,32 @@ irresponsablitéit|1
 -|Verantwortungslosegkeet
 ischpelt|1
 -|Urspelt
+islamfeindlechkeet|1
+-|Islamophobie
+islamfrëndlechkeet|1
+-|Islamophilie
+islamophilie|1
+-|Islamfrëndlechkeet
+islamophobie|1
+-|Islamfeindlechkeet
 isolatioun|1
 -|Isoléierung
 isoléierung|1
 -|Isolatioun
 italienesch|1
 (Linguistik/Sprooch)|italienesch Sprooch
+italieneschfeindlechkeet|1
+-|Italophobie
+italieneschfrëndlechkeet|1
+-|Italophilie
 italieneschkenntnes|1
 (Varianten)|Italieneschkenntnis
 italieneschkenntnis|1
 (Varianten)|Italieneschkenntnes
+italophilie|1
+-|Italieneschfrëndlechkeet
+italophobie|1
+-|Italieneschfeindlechkeet
 itzig|1
 (Uertschaftsnimm)|Izeg
 iwwel|1
@@ -5450,18 +5719,28 @@ jonktem|1
 -|Jugend
 jonktemssektioun|1
 -|Jugendsektioun
+joresbericht|1
+-|Joresrapport
 joresbilan|1
 -|Joresofschloss
 joresofschloss|1
 -|Joresbilan
+joresrapport|1
+-|Joresbericht
 joreszäit|1
 -|Saison
 jovialitéit|1
 -|Guttmiddegkeet
 juddefeindlechkeet|1
--|Antisemitismus|Juddenhaass
+-|Antisemitismus|Juddenhaass|Judeophobie
+juddefrëndlechkeet|1
+-|Judeophilie
 juddenhaass|1
--|Antisemitismus|Juddefeindlechkeet
+-|Antisemitismus|Juddefeindlechkeet|Judeophobie
+judeophilie|1
+-|Juddefrëndlechkeet
+judeophobie|1
+-|Antisemitismus|Juddenhaass|Juddefeindlechkeet
 jugend|1
 -|Jonktem
 jugendsektioun|1
@@ -5540,7 +5819,7 @@ kafverhalen|1
 -|Kafbehuelen
 kahler|1
 (Uertschaftsnimm)|Koler
-kaijak|1
+kajak|1
 -|Paddelboot
 kakuett|1
 -|Afennoss
@@ -5623,6 +5902,8 @@ kardiolog|1
 -|Häerzspezialist|Häerzdokter
 karmësch|1
 -|Mësch|Spatz|Spaz
+karnivor|1
+-|Fleeschfrësser
 karo|1
 -|Quadrat|Véiereck
 karriär|1
@@ -5672,6 +5953,10 @@ kaz|2
 -|Kullangshues (graff)
 keel|1
 (Uertschaftsnimm)|Kayl
+keesebericht|1
+-|Keeserapport
+keeserapport|1
+-|Keesebericht
 keeserschnëtt|1
 -|Cesarienne
 keespelt|1
@@ -5717,7 +6002,7 @@ kierbiischt|1
 kierch|1
 -|Gotteshaus
 kierchechouer|1
--|Gesangveräin
+-|Gesangsveräin
 kierchen|1
 -|Basbellain
 kiermes|2
@@ -5727,6 +6012,10 @@ kierperbemolung|1
 -|Bodypainting
 kiewerlek|1
 -|Meedéier|Meekiewerlek|Akeschësser
+kiischtendrëpp|1
+-|Kirsch|Kiischtewaasser
+kiischtewaasser|1
+-|Kirsch|Kiischtendrëpp
 killschaf|1
 -|Frigidaire|Frigo|Äisschaf
 killtruh|1
@@ -5741,6 +6030,8 @@ kinneksberoder|1
 -|Kinneksconseiller
 kinneksconseiller|1
 -|Kinneksberoder
+kirsch|1
+-|Kiischtendrëpp|Kiischtewaasser
 kiselsteen|1
 -|Wak|klenge Steen
 kittchen|1
@@ -5786,6 +6077,8 @@ kleederbigel|1
 -|Bigel
 kleederbotzerei|1
 -|Botzerei
+kleederuerdnung|1
+-|Dresscode|Etikett
 kleedung|1
 -|Kluft (ëgs.)|Kloft (ëgs.)
 kleeschen|1
@@ -5830,7 +6123,7 @@ kläpp|1
 kläpperei|1
 -|Kläpp
 kléng|1
--|Gilette|Schneid
+-|Schneid|Gillette
 knachemuerch|1
 -|Muerch|Schankemuerch
 knachen|1
@@ -5858,8 +6151,8 @@ knosp|1
 -|Patsch|Patt
 knouterer|1
 -|Knadderer|Grommeler
-knoutermann|1
--|Ombudsmann
+knouterpersoun|1
+-|Ombudspersoun
 knuet|2
 -|Flätsch|Putsch|Putsch
 -|Krawatt|Schlapp
@@ -6032,6 +6325,8 @@ kontrazeptioun|1
 -|Contraceptioun|Empfängnisverhiddung|Schwangerschaftsverhiddung|Verhiddung|Verhiddungsmëttel
 kontributioun|1
 -|Contributioun
+kontroller|1
+-|Schaffner
 konventioun|1
 -|Eenegung|Accord|Averständnes|Ofkommes
 konviktioun|1
@@ -6132,7 +6427,7 @@ kreemchen|1
 krees|1
 -|Rondel
 kreuzerbuch|1
--|Kräizerbuch
+(Uertschaftsnimm)|Kräizerbuch
 kriibs|1
 -|Kriibskrankheet
 kriibsbehandlung|1
@@ -6159,7 +6454,7 @@ kräfteverhältnes|1
 kräfteverhältnis|1
 (Varianten)|Kräfteverhältnes
 kräizerbuch|1
--|Kreuzerbuch
+(Uertschaftsnimm)|Kreuzerbuch
 krämpchen|1
 -|Bürosklamer|Agraff
 kränkt|1
@@ -6173,7 +6468,7 @@ kréibänk|1
 kréiena|1
 -|Héngera
 krëppeng|1
--|Bataklang
+-|Bataklang|Basar
 kubikmeter|1
 -|Meter Kibb
 kuborn|1
@@ -6227,6 +6522,8 @@ käppchen|1
 -|Timber
 kär|1
 -|Steen
+kärausso|1
+-|Haaptausso
 kärel|3
 -|Typ (ëgs.)|Borscht (graff)|Mann
 -|Brudder|Gesell
@@ -6289,6 +6586,8 @@ lafställchen|1
 -|Park
 lager|1
 -|Depot|Magaséng
+laiesprooch|1
+-|Expertesprooch
 lakerschmus|1
 (Linguistik/Sprooch)|Jéinesch|Lakersprooch
 lakersprooch|1
@@ -6341,6 +6640,14 @@ lauschterbuch|1
 -|Audiobuch
 lauschterer|1
 -|Nolauschterer
+lauschterspill|1
+-|Héierspill
+lauschterspillconcours|1
+-|Héierspillconcours
+lauschterspillproduktioun|1
+-|Héierspillproduktioun
+lauschterspillspriecher|1
+-|Héierspillspriecher
 laut|1
 -|Schall|Sound|Toun
 leckerei|1
@@ -6365,6 +6672,12 @@ lektioun|1
 -|Schoulstonn
 lenzmount|1
 -|Mäerz|Aussenzäit
+lepidopterolog|1
+-|Päiperleksfuerscher
+lesbefeindlechkeet|1
+-|Lesbophobie
+lesbophobie|1
+-|Lesbefeindlechkeet
 leudelange|1
 (Uertschaftsnimm)|Leideleng
 lexik|1
@@ -6473,6 +6786,8 @@ lineal|1
 -|Reegel
 linger|1
 -|Lénger
+linguistik|1
+(Linguistik/Sprooch)|Sproochewëssenschaft
 linn|1
 -|Rei|Stréch
 linnefliger|1
@@ -6558,6 +6873,10 @@ luminositéit|1
 -|Liichtkraaft|Hellegkeet
 lupp|1
 -|Vergréisserungsglas
+lusophilie|1
+-|Portugiseschfrëndlechkeet
+lusophobie|1
+-|Portugiseschfeindlechkeet
 lutsch|1
 -|Zockerstaang
 lutzefatz|1
@@ -6568,6 +6887,10 @@ luuchteschierm|1
 -|Abat-jour
 luxembourg|1
 -|Lëtzebuerg
+luxemburgophilie|1
+-|Lëtzebuergeschfrëndlechkeet
+luxemburgophobie|1
+-|Lëtzebuergeschfeindlechkeet
 luxus|1
 -|Pruecht|Prunk
 läffelsgeschir|1
@@ -6627,6 +6950,10 @@ lënserasterbild|1
 -|Wackelbild
 lëtzebuerg|1
 -|Luxembourg
+lëtzebuergeschfeindlechkeet|1
+-|Luxemburgophobie
+lëtzebuergeschfrëndlechkeet|1
+-|Luxemburgophilie
 lëtzebuergeschkenntnes|1
 (Varianten)|Lëtzebuergeschkenntnis
 lëtzebuergeschkenntnis|1
@@ -6674,7 +7001,7 @@ manko|1
 mann|1
 -|Kärel (ëgs.)|Typ (ëgs.)|Borscht (graff)
 mannequin|1
--|Fotomodell
+-|Fotomodel|Model
 mannschaft|1
 -|Equipe|Team|Equipage|Besatzung
 manéier|3
@@ -6769,6 +7096,8 @@ medezin|1
 -|Medikament
 mediateur|1
 -|Vermëttler
+mediateursroll|1
+-|Vermëttlerroll
 medikament|1
 -|Medezin
 mee|1
@@ -6881,6 +7210,8 @@ mikrob|1
 -|Krankheetskeim|Bazill
 mikrochip|1
 -|Chip|Flou
+mikronatioun|1
+-|Schäistaat|Fantasiestaat
 militär|1
 -|Arméi
 militärmusek|1
@@ -6890,11 +7221,11 @@ militärpresenz|1
 militärpräsenz|1
 (Varianten)|Militärpresenz (recomm.)
 millack|1
-(Zoologie)|Mëllerchen|Millermoler|Päiperlek|Papillon|Pimpampel|Flippert (veraalt)|Milleflippert (veraalt)
+(Zoologie)|Mëllerchen|Millermoler|Päiperlek|Papillon|Flippert (veraalt)|Milleflippert (veraalt)
 milleflippert|1
-(Zoologie)|Mëllerchen|Millermoler|Päiperlek|Papillon|Pimpampel|Flippert (veraalt)|Millack (veraalt)
+(Zoologie)|Mëllerchen|Millermoler|Päiperlek|Papillon|Flippert (veraalt)|Millack (veraalt)
 millermoler|1
-(Zoologie)|Mëllerchen|Päiperlek|Papillon|Pimpampel|Flippert (veraalt)|Milleflippert (veraalt)|Millack (veraalt)
+(Zoologie)|Mëllerchen|Päiperlek|Papillon|Flippert (veraalt)|Milleflippert (veraalt)|Millack (veraalt)
 mineur|1
 -|Biergaarbechter
 minière|1
@@ -6910,7 +7241,7 @@ misandrie|1
 misanthropie|1
 -|Mënschefeindlechkeet
 misogynie|1
--|Fraenhaass
+-|Fraefeindlechkeet|Fraenhaass|Fraephobie
 missioun|2
 -|Aufgab|Opdrag|Optrag
 -|Aufgab|Flicht
@@ -6929,6 +7260,8 @@ mobilitéitsbehuelen|1
 -|Mobilitéitsverhalen
 mobilitéitsverhalen|1
 -|Mobilitéitsbehuelen
+model|1
+-|Fotomodel|Mannequin
 modell|1
 -|Musterbeispill|Stuel|Virbild
 moderator|1
@@ -6956,8 +7289,10 @@ momper|1
 -|Tuteur
 momperschaft|1
 -|Tutellesriichter|Tutelle
-mond|1
--|Maul|Schnëss|Schmull
+mond|3
+-|Maul (vulg.)|Schnëss|Schmull
+-|Schnuff (ëgs.)|Nues
+-|Schnuff (ëgs.)
 mondercange|1
 (Uertschaftsnimm)|Monnerech
 mondorf-les-bains|1
@@ -7052,6 +7387,8 @@ mountssalaire|1
 -|Loun vum Mount|Mountspai|Mountsgehalt
 mous|1
 -|Kompott
+mousse|1
+-|Gëscht|Schaum
 moustique|1
 (Zoologie)|Moskito
 moutfort|1
@@ -7126,10 +7463,12 @@ mäertert|1
 (Uertschaftsnimm)|Mertert
 mäerz|1
 -|Lenzmount|Aussenzäit
+männerfeindlechkeet|1
+-|Androphobie|Männerphobie
 männerhaass|1
 -|Misandrie
 männerphobie|1
--|Androphobie
+-|Androphobie|Männerfeindlechkeet
 männerschnapp|1
 -|Schnapp
 männlechkeet|1
@@ -7165,7 +7504,7 @@ méizuel|2
 méizuelendung|1
 -|Plurielsendung
 mëllerchen|1
-(Zoologie)|Millermoler|Päiperlek|Papillon|Pimpampel|Flippert (veraalt)|Milleflippert (veraalt)|Millack (veraalt)
+(Zoologie)|Millermoler|Päiperlek|Papillon|Flippert (veraalt)|Milleflippert (veraalt)|Millack (veraalt)
 mëndung|1
 -|Zesummefloss
 mënsbech|1
@@ -7180,6 +7519,16 @@ mënschekenntnis|1
 (Varianten)|Mënschekenntnes
 mënscheléift|1
 -|Philanthropie|Mënschefrëndlechkeet
+mënscherechtler|1
+-|Mënscherechtsaktivist|Mënscherechtsverdeedeger
+mënscherechtsaktivist|1
+-|Mënscherechtler|Mënscherechtsverdeedeger
+mënscherechtsbericht|1
+-|Mënscherechtsrapport
+mënscherechtsrapport|1
+-|Mënscherechtsbericht
+mënscherechtsverdeedeger|1
+-|Mënscherechtsaktivist|Mënscherechtler
 mënscheverstand|1
 -|Wëtz
 mënschlechkeet|1
@@ -7237,6 +7586,8 @@ narkos|1
 -|Anästhesie
 narzissmus|1
 -|Eegeléift|Selbstsucht
+nationalgefill|1
+-|Patriotismus|Heemechtsléift|Heemechtsgefill
 natter|1
 -|Adder
 naturalisatioun|2
@@ -7259,6 +7610,8 @@ naturmonument|1
 navigatioun|2
 -|Schëfferei|Schëfffaart
 -|Orientéierung
+nazidäitschland|1
+-|Hitlerdäitschland
 nazikollaborateur|1
 (Geschicht)|Gielemännchen
 necessitéit|1
@@ -7437,12 +7790,10 @@ nuance|1
 -|Toun
 nudismus|1
 -|Naturismus
-nuechtfantasie|1
-(Varianten)|Nuechtphantasie (alt.)
 nuechtiessen|1
 -|Nuetiessen|Owendiessen|Owesiessen
-nuechtphantasie|1
-(Varianten)|Nuechtfantasie (recomm.)
+nues|1
+-|Schnuff (ëgs.)|Mond
 nuesschnappech|1
 -|Schnäizduch
 nuetiessen|1
@@ -7557,9 +7908,10 @@ oder|2
 -|Verkéiersoder
 oetrange|1
 (Uertschaftsnimm)|Éiter
-ofbroch|2
+ofbroch|3
 -|Demolitioun
 -|Interruptioun
+-|Decrochage
 ofbéien|2
 -|Lénksofbéien
 -|Rietsofbéien
@@ -7598,11 +7950,17 @@ ofmoossung|1
 (Varianten)|Ofmiessung (alt.)
 ofnäipung|1
 -|Aversioun
+ofrechnung|1
+-|Dekont
 ofsaz|2
 -|Paragraph
 -|Erléis|Recette|Gewënn|Debouché
 ofschafung|1
 -|Ophiewung
+ofschlossbericht|1
+-|Ofschlossrapport
+ofschlossrapport|1
+-|Ofschlossbericht
 ofstellkummer|1
 -|Rompelkummer|Debarras|Ofstellraum|Ofstellzëmmer
 ofstellraum|1
@@ -7624,8 +7982,8 @@ oktober|1
 -|Wäimount
 oktologie|1
 -|Aachtdeeler
-ombudsmann|1
--|Knoutermann
+ombudspersoun|1
+-|Knouterpersoun
 omes|1
 -|Eidechs
 omnipotenz|1
@@ -7708,9 +8066,17 @@ opdrag|2
 (Varianten)|Optrag (recomm.)
 openthalt|1
 -|Halt
+openthaltsraum|1
+-|Openthaltssall
+openthaltssall|1
+-|Openthaltsraum
 operatioun|2
 -|Aktioun|Handlung|Dot
 -|Agrëff
+operatiounsbericht|1
+-|Operatiounsrapport
+operatiounsrapport|1
+-|Operatiounsbericht
 opfaassung|1
 -|Empfängnis|Konzeptioun
 opféierung|1
@@ -7755,22 +8121,22 @@ orca|1
 -|Schwäertwal
 organdon|1
 -|Organspend
-organdonateur|1
+organdonneur|1
 -|Organspender
-organdonateursdag|1
+organdonneursdag|1
 -|Organspenderdag
-organdonateurspass|1
+organdonneurspass|1
 -|Organspenderpass
 organissem|1
 -|Liewewiesen
 organspend|1
 -|Organdon
 organspender|1
--|Organdonateur
+-|Organdonneur
 organspenderdag|1
--|Organdonateursdag
+-|Organdonneursdag
 organspenderpass|1
--|Organdonateurspass
+-|Organdonneurspass
 orientéierung|1
 -|Navigatioun
 orientéierungshëllef|1
@@ -7778,7 +8144,7 @@ orientéierungshëllef|1
 originalitéit|1
 -|Apaartegkeet|Eegestännegkeet
 origine|1
--|Hierkonft
+-|Hierkonft|Ursprong
 orthografie|1
 (Varianten)|Orthographie (recomm.)
 orthographie|2
@@ -7841,7 +8207,7 @@ pabeiersammlung|1
 paddel|1
 -|Rudder
 paddelboot|1
--|Kaijak
+-|Kajak
 pafemillen|1
 (Uertschaftsnimm)|Cinqfontaines
 pai|1
@@ -7863,12 +8229,18 @@ panda|1
 -|Pandabier
 pandabier|1
 -|Panda
+panneau|1
+-|Schëld
 panzer|1
 (Militär)|gepanzert Gefier
 papillon|1
-(Zoologie)|Mëllerchen|Millermoler|Päiperlek|Pimpampel|Flippert (veraalt)|Milleflippert (veraalt)|Millack (veraalt)
+(Zoologie)|Mëllerchen|Millermoler|Päiperlek|Flippert (veraalt)|Milleflippert (veraalt)|Millack (veraalt)
 par|1
 (Varianten)|Por (alt.)
+parachute|1
+-|Fallschierm
+parachutist|1
+-|Fallschiermsprénger
 paragraf|1
 (Varianten)|Paragraph
 paragraph|2
@@ -7940,6 +8312,8 @@ patch|1
 (Informatik)|Bugfix (fachspr.)|Feelerkorrektur|Korrektur fir Programmfeeler|Korrektur fir Programméierfeeler|Korrektur fir Softwarefeeler
 patent|1
 -|Brevet
+patriotismus|1
+-|Heemechtsléift|Nationalgefill|Heemechtsgefill
 patroun|1
 -|Kartusch
 patsch|1
@@ -8055,17 +8429,15 @@ pierch|1
 (Varianten)|Perch (recomm.)
 pietéit|1
 -|Andacht
-piisch|1
--|Fëscherei
 pillem|2
 -|Coussin|Këssen|Polster
 -|Kappkëssen|Këssen
 pillemschluecht|1
 -|Kësseschluecht
+pilot|1
+-|Fligerféierer|Fluchkapitän
 pilz|1
 -|Champignon|Dréischel|Kochel|Wisekochel
-pimpampel|1
-(Zoologie)|Mëllerchen|Millermoler|Päiperlek|Papillon|Flippert (veraalt)|Milleflippert (veraalt)|Millack (veraalt)
 pingpong|1
 -|Dëschtennis
 pinsel|1
@@ -8107,7 +8479,7 @@ plagëprabbeli|1
 plagëpräbbeli|1
 (Varianten)|Plagëprabbeli (recomm.)
 plakat|1
--|Affisch|Pouster|Affiche
+-|Pouster|Affiche
 plakegen|1
 -|Akt
 plakett|1
@@ -8118,6 +8490,8 @@ plang|1
 -|Projet
 planz|1
 (Botanik)|Gewächs|Kräut (ëgs.)
+planzefrësser|1
+-|Herbivor
 planzegeograph|1
 -|Vegetatiounsgeograph|Phytogeograph
 planzegeographie|1
@@ -8251,6 +8625,10 @@ portier|1
 -|Concierge
 porto|1
 -|Hafen
+portugiseschfeindlechkeet|1
+-|Lusophobie
+portugiseschfrëndlechkeet|1
+-|Lusophilie
 porverband|1
 (Varianten)|Parverband (recomm.)
 porzeläin|1
@@ -8294,7 +8672,7 @@ poubelle|1
 poul|1
 -|Potto
 pouster|1
--|Affisch|Plakat|Affiche
+-|Plakat|Affiche
 prabbeli|1
 (Varianten)|Präbbeli (alt.)
 prabbelisstänner|1
@@ -8372,6 +8750,8 @@ preventivmedezin|1
 (Varianten)|Präventivmedezin (alt.)
 preventivmoossnam|1
 (Varianten)|Präventivmoossnam (alt.)
+previsioun|1
+-|Virschau
 prezisioun|4
 (Varianten)|Präzisioun (alt.)
 -|Akribie|Grëndlechkeet|Präzisioun
@@ -8471,6 +8851,9 @@ präisreduktioun|1
 -|Präissenkung
 präissenkung|1
 -|Präisreduktioun
+prämiss|2
+-|Virgab
+-|Viraussetzung
 präparat|1
 -|Preparatioun|Virbereedung
 präsens|1
@@ -8577,7 +8960,9 @@ päinetsch|1
 päipelneijoerschdag|1
 -|Nëmmerchesdag|Mokuchsdag|Päifenneijoerschdag
 päiperlek|1
-(Zoologie)|Mëllerchen|Millermoler|Papillon|Pimpampel|Flippert (veraalt)|Milleflippert (veraalt)|Millack (veraalt)
+(Zoologie)|Mëllerchen|Millermoler|Papillon|Flippert (veraalt)|Milleflippert (veraalt)|Millack (veraalt)
+päiperleksfuerscher|1
+-|Lepidopterolog
 päischten|1
 -|Péngschten
 päischtmount|1
@@ -8588,9 +8973,10 @@ pärel|1
 -|Perle
 päsch|1
 -|Bongert|Uebstbongert
-pätter|2
+pätter|3
 -|Alen (vulg.)
 -|Dafpätter
+-|Bop|Grousspapp|Bopa (ëgs.)|Bopi (ëgs.)
 péiteng|1
 -|Pétange|Petingen
 péng|2
@@ -8823,6 +9209,10 @@ reflex|1
 -|Automatismus
 reflexioun|1
 -|Iwwerleeës|Iwwerleeung
+reformbericht|1
+-|Reformrapport
+reformrapport|1
+-|Reformbericht
 refugié|1
 -|Flüchtling
 refus|2
@@ -9018,8 +9408,6 @@ riedeschreiwer|1
 -|Riederedakter
 riedgen|1
 (Uertschaftsnimm)|Roedgen
-rieslingspaschtéit|1
--|Réislengspaschtéit
 rietsofbéien|1
 -|Ofbéien
 rill|1
@@ -9074,6 +9462,8 @@ rompelkummer|1
 -|Debarras|Ofstellraum|Ofstellzëmmer|Ofstellkummer
 rondel|1
 -|Krees
+ronndësch|1
+-|Stammdësch|Staminee
 ronschel|1
 -|Fal|Rompel
 roost|1
@@ -9158,8 +9548,6 @@ réimerstrooss|1
 -|Kiem
 réiser|1
 (Uertschaftsnimm)|Roeser
-réislengspaschtéit|1
--|Rieslingspaschtéit
 réngel|1
 -|Ringel
 rëmeleng|1
@@ -9270,6 +9658,8 @@ schaff|1
 schaffdag|2
 -|Broutdag|Wochendag
 -|Aarbechtsdag|Wäerteg
+schaffner|1
+-|Kontroller
 schaffpäerd|1
 -|Bauerepäerd
 schal|2
@@ -9301,6 +9691,8 @@ schauer|1
 -|Reeschauer|Schluet
 schaukel|1
 -|Klunsch
+schaum|1
+-|Gëscht|Mousse
 schaus|1
 -|Geck
 schauspiller|1
@@ -9343,6 +9735,10 @@ schierbel|1
 -|Kopp|Kapp|Bomm (ëgs.)
 schierm|1
 -|Bildschierm|Ecran|Paravent
+schietbericht|1
+-|Schietrapport
+schietrapport|1
+-|Schietbericht
 schifflange|1
 (Uertschaftsnimm)|Schëffleng|Schifflingen
 schifflingen|1
@@ -9416,11 +9812,15 @@ schluss|1
 -|Enn|Wupp
 schlussarrêt|1
 -|Schlusshaltestell
+schlussbericht|1
+-|Schlussrapport
 schlussfolgerung|2
 -|Deductioun
 -|Conclusioun
 schlusshaltestell|1
 -|Schlussarrêt
+schlussrapport|1
+-|Schlussbericht
 schluutjen|1
 -|Eileseech
 schläich|1
@@ -9451,7 +9851,7 @@ schmierbéchs|1
 schminni|1
 -|Kamäin|Schaarschtech
 schmull|1
--|Maul|Schnëss|Mond
+-|Maul (vulg.)|Schnëss|Mond
 schmëdd|2
 -|Schmelz
 -|Huldange-Forge
@@ -9473,7 +9873,7 @@ schneekegkeet|1
 schneekerei|1
 -|Leckerei|Schneekegkeet|Séissegkeet|Duussheet
 schneid|1
--|Gilette|Kléng
+-|Kléng|Gillette
 schneiderin|1
 -|Bitzesch|Néidesch|Néiesch
 schnellegkeet|1
@@ -9488,6 +9888,9 @@ schnuddel|1
 -|Koz
 schnuddelhong|1
 -|Dinde
+schnuff|2
+-|Mond|Nues
+-|Mond
 schnurres|1
 -|Schnauz
 schnäizduch|1
@@ -9509,7 +9912,7 @@ schnéimännchen|1
 schnéiplack|1
 -|Schnéiflack
 schnëss|3
--|Maul|Mond|Schmull
+-|Maul (vulg.)|Mond|Schmull
 -|Binett
 -|Gladder
 schnëssert|1
@@ -9539,13 +9942,15 @@ scholdaarsch|1
 scholdaasch|1
 (Varianten)|Scholdaarsch (alt.)
 schongcrème|1
--|Wichs fir Schong
+-|Wichs fir Schong|Schongwichs
 schongstréckel|1
 -|Stréckel
 schongvendeur|1
 -|Schongverkeefer
 schongverkeefer|1
 -|Schongvendeur
+schongwichs|1
+-|Wichs fir Schong|Schongcrème
 schoos|1
 (Uertschaftsnimm)|Schous
 schoossi|1
@@ -9647,6 +10052,8 @@ schwong|1
 -|Elan
 schwonk|1
 -|Ulaf
+schwulefeindlechkeet|1
+-|Homophobie
 schwächt|1
 -|Schwaachheet
 schwäertwal|1
@@ -9676,6 +10083,8 @@ schäin|1
 -|Aussinn|Uschäin
 schäissméck|1
 -|Fleeschméck
+schäistaat|1
+-|Mikronatioun|Fantasiestaat
 schätzung|2
 -|Appreciatioun|Bewäertung
 -|Estimatioun
@@ -9693,8 +10102,9 @@ schëfffaart|1
 -|Navigatioun|Schëfferei
 schëffleng|1
 (Uertschaftsnimm)|Schifflange|Schifflingen
-schëld|1
+schëld|2
 -|Etikett
+-|Panneau
 schëllegkeet|2
 -|Aufgab|Flicht
 -|Schold
@@ -9732,6 +10142,8 @@ seelenheet|1
 -|Raritéit
 sekonn|1
 -|Abléck
+selbstbeobachtung|1
+-|Introspektioun
 selbstmord|2
 -|Fräidoud|Suicide
 (Varianten)|Selbstmuerd
@@ -9771,6 +10183,10 @@ selektioun|1
 -|Wal|Wahl|Wiel|Choix|Auswiel
 semikolon|1
 -|Stréchpunkt
+seminaire|1
+(Varianten)|Seminär
+seminär|1
+(Varianten)|Seminaire
 sender|1
 -|Programm
 sendung|1
@@ -9789,6 +10205,8 @@ sensibilitéit|1
 -|Empfindlechkeet|Delikatess|Empfindsamkeet
 separatioun|1
 -|Trennung
+seppuku|1
+-|Harakiri
 september|1
 -|Hierschtmount
 seriositéit|1
@@ -9991,11 +10409,13 @@ spendendag|1
 spendenopruff|1
 -|Donsopruff
 spender|1
--|Donateur
+-|Donateur|Donneur
 spenderorgan|1
--|Donateursorgan
+-|Donneursorgan
 spezialausgab|1
 -|Spezialeditioun
+spezialbericht|1
+-|Spezialrapport
 spezialeditioun|1
 -|Spezialausgab
 spezialgebitt|1
@@ -10006,6 +10426,8 @@ spezialist|1
 -|Fachmann
 spezialitéit|1
 -|Spezialgebitt
+spezialrapport|1
+-|Spezialbericht
 spezifissitéit|1
 -|Specifissitéit|Spezifizitéit
 spezifizitéit|1
@@ -10081,6 +10503,8 @@ sproochekenntnes|1
 (Varianten)|Sproochekenntnis|Sproochkenntnes|Sproochkenntnis
 sproochekenntnis|1
 (Varianten)|Sproochekenntnes|Sproochkenntnes|Sproochkenntnis
+sproochewëssenschaft|1
+(Linguistik/Sprooch)|Linguistik
 sproochfuerschung|1
 -|Sproochwëssenschaft
 sproochkenntnes|1
@@ -10102,6 +10526,10 @@ sprëtz|2
 -|Sprutz|Sprutzert
 sprëtzmëttel|1
 -|Insektizid
+spueneschfeindlechkeet|1
+-|Hispanophobie
+spueneschfrëndlechkeet|1
+-|Hispanophilie
 spuerbéchs|1
 -|Spuerschwäin
 spuerschwäin|1
@@ -10155,10 +10583,10 @@ staang|3
 staatsarchiv|1
 -|Archiv
 staatsbesuch|1
--|Staatsvisite
+-|Staatsvisitt
 staatsstreech|1
 (Politik)|Putsch
-staatsvisite|1
+staatsvisitt|1
 -|Staatsbesuch
 stabilitéit|1
 -|Bestännegkeet|Standfestegkeet
@@ -10179,18 +10607,10 @@ stackfësch|1
 -|Cabillaud
 stackwierk|1
 -|Stack
-stadentwécklungskommissioun|1
--|Stadsentwécklungskommissioun
 stadion|1
 -|Sportsplaz
 stadium|1
 -|Phas
-stadplang|1
--|Stadsplang
-stadsentwécklungskommissioun|1
--|Stadentwécklungskommissioun
-stadsplang|1
--|Stadplang
 stadverkéier|1
 -|Duerchbluddung|Verkéier|Zirkulatioun
 staffel|2
@@ -10207,22 +10627,18 @@ stagiaire|1
 stagnatioun|1
 -|Stëllstand
 staminee|1
--|Stammdësch
+-|Stammdësch|Ronndësch
 stamm|2
 (Ethnologie)|Sipp (vulg.)
 (Biologie)|Bamstamm
 stammclient|1
 -|Stammgaascht
 stammdësch|1
--|Staminee
+-|Staminee|Ronndësch
 stammgaascht|1
 -|Stammclient
 stand|1
 -|Positioun
-standardisatioun|1
--|Standardiséierung
-standardiséierung|1
--|Standardisatioun
 standfestegkeet|1
 -|Bestännegkeet|Stabilitéit
 standluucht|1
@@ -10475,6 +10891,8 @@ stéck|2
 -|Deel
 stéck äis|1
 -|Äisstroll|Äiszack
+stéierkämpfer|1
+-|Torero
 stéierung|1
 -|Belästegung
 stéiluucht|1
@@ -10799,12 +11217,14 @@ toperei|1
 -|Dommheet|Eefällegkeet|Topegkeet
 topert|1
 -|Dabo (ëgs.)|Eefalt|Dommen|Blani (ëgs.)|Hännes (ëgs.)|Blöden|Dëlpes (ëgs.)|Dräibiz (ëgs.)|Blödian|Idiot|Hauli|Halwerweis|Nikki (ëgs.)|Pitti (ëgs.)|Nossi
-topmanagement|1
--|Generaldirektioun
 topograf|1
 -|Topograph (recomm.)
 topograph|1
 -|Topograf (alt.)
+toppmanagement|1
+-|Generaldirektioun
+torero|1
+-|Stéierkämpfer
 torschong|2
 -|Duch|Kichenduch
 -|Mopp|Spulllomp
@@ -10875,15 +11295,31 @@ tramshalt|1
 -|Tramsarrêt
 tranche|1
 -|Scheif|Schläiss
+transfeminitéit|1
+-|Transweiblechkeet
 transformatioun|2
 -|Wandlung|Ëmännerung|Ofwandlung
 -|Verwandlung|Wandlung|Metamorphos
 transfusioun|1
 -|Blutttransfusioun
+transgeschlechtlechkeet|1
+-|Transsexualitéit
+transmaskulinitéit|1
+-|Transmännlechkeet
+transmännlechkeet|1
+-|Transmaskulinitéit
 transparent|1
 -|Banderole|Banner (fachspr.)
 transparenz|1
 -|Duerchsiichtegkeet
+transparenzbericht|1
+-|Transparenzrapport
+transparenzrapport|1
+-|Transparenzbericht
+transsexualitéit|1
+-|Transgeschlechtlechkeet
+transweiblechkeet|1
+-|Transfeminitéit
 tratt|1
 -|Schratt|Schrëtt
 tratten|1
@@ -10924,6 +11360,8 @@ trikot|1
 -|Maillot
 trilogie|1
 -|Dräideeler
+trinitéit|1
+-|Dräifaltegkeet|Dräieenegkeet
 trintange|1
 (Uertschaftsnimm)|Trënteng
 triole|1
@@ -10988,6 +11426,10 @@ täschekalenner|1
 -|Agenda
 täscherechner|1
 -|Rechemaschinn
+tätegkeetsbericht|1
+-|Tätegkeetsrapport
+tätegkeetsrapport|1
+-|Tätegkeetsbericht
 téik|1
 -|Comptoir
 téinert|1
@@ -11003,6 +11445,8 @@ tétange|1
 tëlee|2
 -|Televisioun|Televisiounsapparat|Schlappekino (ëgs.)
 -|Fernseh|Televisioun
+tëleesusprooch|1
+-|Fernsehusprooch
 tëmpchen|2
 -|Mëttesrascht|Mëttesschlof|Näip|Tomp
 -|Zomm
@@ -11010,10 +11454,14 @@ tënten|1
 -|Bur
 tëppel|1
 -|Punkt
+tëschebericht|1
+-|Tëscherapport
 tëschefall|1
 -|Ereegnes|Evenement|Virfall|Virgank|Episod
 tëschenzäit|1
 -|Intervall|Paus
+tëscherapport|1
+-|Tëschebericht
 tëschewand|1
 -|Trennwand|Wand
 uebstbongert|1
@@ -11093,6 +11541,8 @@ ugebuet|1
 -|Offer|Offerte
 ugewunnecht|1
 -|Geflogenheet|Gewunnecht
+ugräifer|1
+-|Envahisseur
 ugrëff|2
 -|Attack
 -|Aggressioun
@@ -11159,6 +11609,8 @@ ursaach|2
 -|Grond
 urspelt|1
 -|Ischpelt
+ursprong|1
+-|Origine|Hierkonft
 uruff|1
 -|Telefonsuruff
 urwald|1
@@ -11203,10 +11655,16 @@ uz|2
 -|Witz
 vaccinatioun|1
 -|Impfung
+vaccinatiounspass|1
+-|Impfpass
 vaccinatiounszenter|1
 -|Impfzenter
 vakanz|1
 -|Congé
+vakanzebericht|1
+-|Vakanzerapport
+vakanzerapport|1
+-|Vakanzebericht
 vandalismus|1
 (Varianten)|Vandalissem
 vandalissem|1
@@ -11269,10 +11727,6 @@ verdauungspromenad|1
 (Varianten)|Verdauungspromenade (alt.)
 verdauungspromenade|1
 (Varianten)|Verdauungspromenad (recomm.)
-verdeedeger|1
-(Varianten)|Verteideger (alt.)
-verdeedegung|1
-(Varianten)|Verteidegung (alt.)
 verdeeler|1
 -|Mailinglëscht
 verdichtung|1
@@ -11313,6 +11767,8 @@ verhalensreegel|1
 -|Behuelensreegel
 verhalensstéierung|1
 -|Behuelensstéierung
+verhalensweis|1
+-|Behuelensweis
 verhalt|1
 -|Gediechtnes
 verhandlung|1
@@ -11365,6 +11821,8 @@ vermuddung|1
 -|Suppositioun
 vermëttler|1
 -|Mediateur
+vermëttlerroll|1
+-|Mediateursroll
 vernis|1
 -|Lack
 verpackung|1
@@ -11423,10 +11881,6 @@ versécherungsspéngel|1
 -|Sécherheetsspéngel
 versöhnung|1
 -|Reconciliatioun
-verteideger|1
-(Varianten)|Verdeedeger (recomm.)
-verteidegung|1
-(Varianten)|Verdeedegung (recomm.)
 vertrauen|1
 -|Zoutrauen
 vertrauensfro|1
@@ -11505,8 +11959,9 @@ vinotherapie|1
 -|Wäintherapie
 violonist|1
 -|Geiist
-viraussetzung|1
+viraussetzung|2
 -|Konditioun|Bedéngung
+-|Prämiss
 virbehandlung|1
 -|Virtraitement
 virbereedung|1
@@ -11533,6 +11988,8 @@ virfaren|3
 -|Anen|Uranen
 virféierung|1
 -|Demonstratioun|Virdemonstratioun
+virgab|1
+-|Prämiss
 virgank|1
 -|Ereegnes|Evenement|Virfall|Tëschefall|Episod
 virgeschicht|1
@@ -11550,6 +12007,9 @@ virrecht|1
 virsaz|2
 -|Entschlossenheet|Resolutioun|Decisioun
 -|Intentioun|Zil
+virschau|2
+-|Aperçu
+-|Previsioun
 virschlag|1
 -|Propos|Propositioun
 virschoss|1
@@ -11583,10 +12043,10 @@ virwëtz|1
 -|Kuriositéit|Virwëtzegkeet
 virwëtzegkeet|1
 -|Kuriositéit|Virwëtz
-visite|1
--|Besuch
 visiteur|1
 -|Besicher
+visitt|1
+-|Besuch
 visittenzäit|1
 -|Besuchszäit
 vitalitéit|1
@@ -11773,6 +12233,8 @@ weck|2
 -|Jick|Dicksbomm
 weed|1
 -|Perch
+weeschësser|1
+-|Geeschtekär
 weicherdange|1
 (Uertschaftsnimm)|Wäicherdang
 weiderentwécklung|1
@@ -11790,7 +12252,7 @@ weirauch|1
 weis|1
 -|Manéier
 weisheet|1
--|Wäisheet
+(Varianten)|Wäisheet
 weiswampach|1
 (Uertschaftsnimm)|Wäisswampech
 weit|1
@@ -11802,9 +12264,9 @@ welfreng|1
 wellesittich|1
 -|Perruche
 welscheid|1
--|Welschent
+(Uertschaftsnimm)|Welschent
 welschent|1
--|Welscheid
+(Uertschaftsnimm)|Welscheid
 welsdorf|1
 -|Welsduerf
 welsduerf|1
@@ -11820,6 +12282,10 @@ weltchampionnat|1
 -|Weltmeeschterschaft
 weltdeel|1
 -|Äerddeel|Kontinent
+weltklimabericht|1
+-|Weltklimarapport
+weltklimarapport|1
+-|Weltklimabericht
 weltmeeschterschaft|1
 -|Weltchampionnat
 weltraum|1
@@ -11837,7 +12303,7 @@ wettsträit|1
 weyer|1
 -|Weier
 wichs fir schong|1
--|Schongcrème
+-|Schongcrème|Schongwichs
 wichtegkeet|1
 -|Relevanz
 wick|1
@@ -11861,8 +12327,12 @@ widderstandskämpfer|1
 -|Resistenzler
 wieder|1
 -|Donnerwieder|Dimmer
+wiederbericht|1
+-|Wiederrapport
 wiederhex|1
 -|Hex
+wiederrapport|1
+-|Wiederbericht
 wiederverhältnes|1
 (Varianten)|Wiederverhältnis
 wiederverhältnis|1
@@ -11881,6 +12351,8 @@ wierbelsail|1
 -|Réckgrat|Réckstrank
 wierderbuch|1
 -|Dictionnaire
+wierderbuchartikel|1
+-|Dictionnairesartikel
 wierderbuchattack|1
 -|Wierderbuchugrëff|Dictionnairesattack|Dictionnairesugrëff
 wierderbuchugrëff|1
@@ -12044,7 +12516,7 @@ wäintherapie|1
 wäirauch|1
 (Varianten)|Weirauch (alt.)
 wäisheet|1
--|Weisheet
+(Varianten)|Weisheet
 wäisswampech|1
 (Uertschaftsnimm)|Weiswampach
 wäitsprong|1
@@ -12098,7 +12570,7 @@ wüstefochs|1
 wüstefuuss|1
 (Zoologie)|Wüstefochs
 xenophobie|1
--|Friemenhaass
+-|Auslännerfeindlechkeet|Auslännerhaass|Friemefeindlechkeet|Friemenhaass
 zaang|1
 -|Zwéck
 zack|2
@@ -12408,8 +12880,6 @@ absënns|2
 abuséieren|2
 -|mëssbrauchen|mësshandelen
 -|iwwerdreiwen
-abuséiert|1
--|mëssbraucht
 abyssal|1
 -|abyssesch
 abyssesch|1
@@ -12418,8 +12888,6 @@ abéissen|1
 -|verléieren
 acalculéieren|1
 (Varianten)|akalkuléieren (recomm.)
-acalculéiert|1
-(Varianten)|akalkuléiert (recomm.)
 acceleréieren|1
 -|beschleunegen|Gas ginn|verschnelleren
 acceptabel|1
@@ -12430,16 +12898,12 @@ accessibel|1
 -|zougänglech
 accidentéieren|1
 -|bäigoen
-acclimatiséieren|1
--|akklimatiséieren|aklimatiséieren
-acclimatéiert|1
--|akklimatiséiert|aklimatiséiert
+acclimatéieren|1
+-|akklimatiséieren
 accomodéieren|1
 -|uriichten
 accompagnéieren|1
 -|begleeden|matfueren|matgoen|matkommen
-accompagnéiert|1
--|begleet
 accordéieren|1
 -|bewëllegen|erdeelen|gënnen|zougestoen|zouloossen
 accordéiert|1
@@ -12478,15 +12942,9 @@ afferen|2
 -|offréieren|schenken|ubidden|ginn
 -|opferen|sacrifiéieren
 affichéieren|1
--|affischéieren|panneautéieren|uschloen
-affichéiert|1
--|affischéiert
+-|panneautéieren|uschloen
 affirméieren|1
 -|behaapten|bejoen|bejozen
-affischéieren|1
--|affichéieren|panneautéieren|uschloen
-affischéiert|1
--|affichéiert
 affrontéiert|1
 -|frech|ongezillt|onhéiflech|onmanéierlech|onverschimmt
 afréieren|1
@@ -12556,16 +13014,12 @@ akafen|1
 akalkuléieren|2
 -|arechnen
 (Varianten)|acalculéieren (alt.)
-akalkuléiert|1
-(Varianten)|acalculéiert (alt.)
 akasséieren|1
 -|asäckelen|astiechen
 akeren|1
 -|plouen
 akklimatiséieren|1
--|acclimatiséieren|aklimatiséieren
-akklimatiséiert|1
--|acclimatéiert|aklimatiséiert
+-|acclimatéieren
 akkretéiert|1
 (Astronomie)|zougeholl|gewuess
 aklammen|2
@@ -12575,10 +13029,6 @@ akleeden|1
 -|kleeden|undoen
 aklemmen|1
 -|quëtschen|zouquetschen
-aklimatiséieren|1
--|acclimatiséieren|akklimatiséieren
-aklimatiséiert|1
--|acclimatéiert|akklimatiséiert
 aknuppen|1
 -|arennen
 akribesch|1
@@ -12652,6 +13102,8 @@ allméiglech|1
 -|allerlee
 allongéieren|1
 -|längen|verlängeren
+almoudesch|1
+-|mummzeg
 also|1
 -|alt
 alt|2
@@ -12708,6 +13160,8 @@ an der zowaasch|1
 an engem stéck|2
 -|andauernd|stänneg|bestänneg|déi ganzen Zäit|ëmmer|dauernd
 -|derwidder|stänneg|dowidder
+analeptesch|1
+-|beliewend|ureegend
 analog|2
 -|ähnlech
 -|ähnlech|nämmlecht|selwecht|vergläichbar
@@ -12716,6 +13170,8 @@ andauernd|2
 -|dauernd|all Abléck|ëmmer|stänneg
 androen|1
 -|inseréieren|draschreiwen|afügen
+androphob|1
+-|männerfeindlech
 andréien|1
 -|erandréien|schrauwen|zesummeschrauwen
 anen|1
@@ -12916,8 +13372,6 @@ aspären|2
 -|asetzen|astiechen
 assermentéieren|1
 -|vereedegen
-assermentéiert|1
--|vereedegt
 assistéieren|1
 -|bäihëllefen|bäistoen|bäiwunnen
 associéieren|1
@@ -12954,7 +13408,7 @@ attachéieren|1
 attackéieren|1
 -|ufalen|ugräifen
 attestéieren|2
--|beglaubegen|beschäinegen
+-|beglawegen|beschäinegen
 -|bescheinegen
 attraktiv|1
 -|intressant
@@ -12988,8 +13442,8 @@ ausbëlzen|1
 ausdeelen|2
 -|ausdroen
 -|verdeelen
-ausdehnen|2
--|dehnen
+ausdeenen|2
+-|deenen
 -|erweideren
 ausdenken|2
 -|konzipéieren|opfaassen
@@ -13300,8 +13754,6 @@ avancéiert|1
 -|innovativ
 avantagéieren|1
 -|bevirdeelegen
-avantagéiert|1
--|bevirdeelegt
 avantgardistesch|1
 -|revolutionär|bunnbriechend|féierend
 avertéieren|1
@@ -13416,7 +13868,7 @@ bedrécken|1
 -|erdrécken
 bedréien|3
 -|beducksen|bedupsen|beduxen|düpéieren|uschmieren
--|ieren|iren|irleeden|täuschen|trompéieren
+-|iren|irleeden|täuschen|trompéieren
 -|hannergoen
 beducksen|1
 -|bedréien|bedupsen|beduxen|düpéieren|uschmieren
@@ -13446,8 +13898,6 @@ befollegen|1
 -|nogoen|nokommen|norutschen|suivéieren|follegen
 befroen|1
 -|ausfroen|ermëttelen|froen|interrogéieren|nofroen|opfroen|verhéieren
-befrucht|1
--|fecondéiert|fertiliséiert
 befruchten|1
 -|fecondéieren|fertiliséieren
 befäerten|1
@@ -13466,13 +13916,11 @@ begieren|1
 begladderen|2
 -|flecken
 -|besabbelen
-beglaubegen|1
+beglawegen|1
 -|attestéieren|beschäinegen
 begleeden|2
 -|accompagnéieren|matfueren|matgoen|matkommen
 -|eskortéieren
-begleet|1
--|accompagnéiert
 begléckwënschen|1
 -|felicitéieren|gratuléieren
 begrenzen|1
@@ -13496,9 +13944,7 @@ begéinen|1
 begéissen|1
 -|agéissen|arroséieren|nätzen|netzen|sprënselen|sprinselen|besprutzen|besprëtzen
 begënschtegen|1
--|begënstegen|favoriséieren
-begënstegen|1
--|begënschtegen|favoriséieren
+-|favoriséieren
 behaapten|3
 -|affirméieren|bejoen|bejozen
 -|pretendéieren
@@ -13508,7 +13954,7 @@ behalen|1
 behandelen|1
 -|traitéieren|veraarbechten
 behellegen|1
--|belästegen|emmerdéieren|embêtéieren|ploen
+-|belästegen|emmerdéieren|embêtéieren|ploen|harceléieren
 beherrschen|1
 -|maîtriséieren|meeschteren
 behidden|2
@@ -13518,10 +13964,10 @@ behiewen|1
 -|an d'Rei bréngen
 behuelen|1
 -|sech verhalen
+behuelensbaséiert|1
+-|verhalensbaséiert
 behënneren|1
--|genéieren|jenéieren|stéieren
-behënnert|1
--|handicapéiert
+-|genéieren|stéieren|handicapéieren
 beichten|1
 -|agesinn|erëmkennen|erkennen|unerkennen|confesséieren
 beidelen|1
@@ -13572,6 +14018,8 @@ belibeg|1
 -|mëttelméisseg
 beliewen|1
 -|animéieren
+beliewend|1
+-|analeptesch|ureegend
 beliichten|1
 -|bestralen|liichten
 beliwweren|1
@@ -13580,7 +14028,7 @@ beloossen|1
 -|loossen|stoe loossen
 belästegen|2
 -|langweilen
--|behellegen|emmerdéieren|embêtéieren|ploen
+-|behellegen|emmerdéieren|embêtéieren|ploen|harceléieren
 belëften|1
 -|lëften
 bematleeden|1
@@ -13595,8 +14043,6 @@ bemusteren|1
 -|observéieren|ukucken
 bemängelen|1
 -|kritiséieren|kritizéieren
-bemängelt|1
--|kritiséiert
 beméien|1
 -|druginn|Méi ginn
 benennen|1
@@ -13605,11 +14051,8 @@ benevole|1
 -|éierenamtlech
 bengelen|1
 -|dirängelen
-benodeelegen|2
--|desavantagéieren
--|defavoriséieren
-benodeelegt|1
--|defavoriséiert
+benodeelegen|1
+-|desavantagéieren|defavoriséieren
 benotzen|2
 -|ausnotzen|notzen
 -|gebrauchen
@@ -13683,7 +14126,7 @@ beschwéieren|2
 beschäftegen|1
 -|nogoen
 beschäinegen|2
--|attestéieren|beglaubegen
+-|attestéieren|beglawegen
 -|zertifiéieren
 beschäissen|3
 -|beklaken|erofmaachen
@@ -13697,8 +14140,6 @@ beseitegen|1
 -|ofhalen
 besichen|1
 -|visitéieren
-besicht|1
--|visitéiert
 besigen|1
 -|bezwéngen|gewannen|sigen|wannen
 besonnesch|2
@@ -13760,8 +14201,6 @@ beusprocht|1
 -|revendiquéiert|gefuerdert
 bevirdeelegen|1
 -|avantagéieren
-bevirdeelegt|1
--|avantagéiert
 bevirzéien|1
 -|privilegéieren|privilegiéieren
 bewaachen|1
@@ -13850,8 +14289,6 @@ blennen|1
 blesséieren|2
 -|beleidegen
 (Medezin)|verletzen (alt.)|verwonnen (alt.)
-blesséiert|1
-(Medezin)|verletzt (alt.)|verwonnt (alt.)
 bliederen|1
 -|hibliederen
 blimmelen|1
@@ -13905,7 +14342,7 @@ bordeauxrout|1
 -|bordeaux
 bosseg|2
 -|ausgefalen|droleg|extravagant|exotesch|ongewinnt|onüblech
--|droleg|gelungen|eegen|komesch|eegenaarteg
+-|droleg|gelungen|eegen|komesch|eegenaarteg|keck
 bosseléieren|1
 -|téitschen|zertéitschen
 botzen|2
@@ -14104,8 +14541,6 @@ cedéieren|1
 -|bäiginn|noloossen|wäichen
 changéieren|1
 -|änneren|ëmänneren|veränneren|wiesselen|transforméieren|ofwandelen
-changéiert|1
--|verännert
 charakteristesch|1
 -|typesch
 charakteriséieren|1
@@ -14116,8 +14551,8 @@ chaufféieren|1
 -|féieren
 chic|1
 -|elegant|schick
-chiffréiert|1
--|encodéiert|verschlësselt
+chiffréieren|1
+-|verschlësselen|encodéieren
 chillen|1
 -|ofhänken (ëgs.)|squatten (ëgs.)|entspanen
 chirurgesch|1
@@ -14141,8 +14576,6 @@ combinéieren|1
 -|kombinéieren
 completéieren|1
 (Varianten)|komplettéieren
-completéiert|1
-(Varianten)|komplettéiert (recomm.)
 complotéieren|1
 (Varianten)|komplottéieren
 concernéieren|1
@@ -14178,8 +14611,6 @@ constatéieren|1
 -|feststellen|konstatéieren
 constituéieren|1
 (Varianten)|konstituéieren
-constituéiert|1
-(Varianten)|konstituéiert
 contraignant|1
 -|restriktiv
 contrecarréieren|1
@@ -14191,8 +14622,6 @@ convoquéieren|1
 corrigéieren|2
 -|korrigéieren|verbesseren
 (Varianten)|korrigéieren (recomm.)
-corrigéiert|1
-(Varianten)|korrigéiert (recomm.)
 cotiséieren|1
 -|abezuelen
 couragéiert|1
@@ -14224,8 +14653,6 @@ damen|2
 -|zeemen
 damiddegen|1
 -|humiliéieren|erniddregen
-damiddegt|1
--|humiliéiert
 dankbar|1
 -|agreabel|einfach|liicht
 danken|1
@@ -14279,8 +14706,6 @@ declenchéieren|1
 -|entfachen
 decodéieren|1
 -|entschlësselen
-decodéiert|1
--|entschlësselt
 decouragéiert|1
 -|trouschtmiddeg
 dedicacéieren|1
@@ -14301,12 +14726,12 @@ deemnächst|1
 -|geschwënn
 deemools|1
 -|fréier|soss
+deenen|1
+-|ausdeenen
 dees|1
 -|ausser
 defavoriséieren|1
--|benodeelegen
-defavoriséiert|1
--|benodeelegt
+-|benodeelegen|desavantagéieren
 defekt|2
 -|futti|kapott|vreckt
 -|futti|kapott|vreckt|dätsch
@@ -14321,8 +14746,6 @@ degoûtant|1
 -|barbaresch|schrecklech|grujeleg|terribel|grausam|horrorméisseg|fierchterlech|eekeleg|eekleg|abscheilech
 degoûtéieren|1
 -|eekelen
-dehnen|1
--|ausdehnen
 deiten|3
 -|bedeiten
 -|bedeiten|lauten
@@ -14347,8 +14770,6 @@ dementéieren|1
 -|ofstreiden|leegnen
 demilitariséieren|1
 -|entmilitariséieren
-demilitariséiert|1
--|entmilitariséiert
 demissionéieren|1
 -|zrécktrieden|zerécktrieden|ofdanken
 demodéiert|1
@@ -14454,11 +14875,9 @@ derhannert|2
 derhannertknéien|1
 (Varianten)|dohannerknéien (recomm.)|derhannerknéien (alt.)
 dermadder|1
-(Varianten)|domat (recomm.)|domattem (alt.)|domatten (alt.)|domatter (alt.)|dermat (alt.)|domadder (alt.)|dermatter (alt.)
+(Varianten)|domat (recomm.)|dermat (alt.)|domadder (alt.)
 dermat|1
-(Varianten)|domat (recomm.)|domattem (alt.)|domatten (alt.)|domatter (alt.)|dermadder (alt.)|domadder (alt.)|dermatter (alt.)
-dermatter|1
-(Varianten)|domat (recomm.)|domattem (alt.)|domatten (alt.)|domatter (alt.)|dermadder (alt.)|dermat (alt.)|domadder (alt.)
+(Varianten)|domat (recomm.)|dermadder (alt.)|domadder (alt.)
 dernieft|3
 -|donieft|niewebäi
 -|ausserdeem|derniewent|donieft|doniewent|zudeem
@@ -14518,7 +14937,7 @@ derzougehéieren|1
 desarméiert|1
 -|entwaffent
 desavantagéieren|1
--|benodeelegen
+-|benodeelegen|defavoriséieren
 desertéieren|1
 -|loossen am Stéch
 designéieren|1
@@ -14571,8 +14990,6 @@ differenzéieren|1
 -|ënnerscheeden
 digeréieren|1
 -|verdauen
-digeréiert|1
--|verdaut
 diichten|1
 -|dropschéissen|viséieren
 diksen|1
@@ -14602,6 +15019,8 @@ disposéieren|1
 -|verfügen
 disqualifizéieren|1
 -|ausschléissen
+dissident|1
+-|oppositionell
 distinguéieren|1
 -|auszeechnen
 ditzen|3
@@ -14672,7 +15091,7 @@ doduerchbäissen|1
 doduercher|1
 (Varianten)|doduerch (recomm.)|derduerch (alt.)
 doen|1
--|maachen|man
+-|maachen
 dofir|1
 (Varianten)|duerfir (alt.)|derfir (alt.)
 dofirhalen|1
@@ -14721,15 +15140,9 @@ dohistellen|1
 dokumentéieren|1
 -|beleeën
 domadder|1
-(Varianten)|domat (recomm.)|domattem (alt.)|domatten (alt.)|domatter (alt.)|dermadder (alt.)|dermat (alt.)|dermatter (alt.)
+(Varianten)|domat (recomm.)|dermadder (alt.)|dermat (alt.)
 domat|1
-(Varianten)|domattem (alt.)|domatten (alt.)|domatter (alt.)|dermadder (alt.)|dermat (alt.)|domadder (alt.)|dermatter (alt.)
-domattem|1
-(Varianten)|domat (recomm.)|domatten (alt.)|domatter (alt.)|dermadder (alt.)|dermat (alt.)|domadder (alt.)|dermatter (alt.)
-domatten|1
-(Varianten)|domat (recomm.)|domattem (alt.)|domatter (alt.)|dermadder (alt.)|dermat (alt.)|domadder (alt.)|dermatter (alt.)
-domatter|1
-(Varianten)|domat (recomm.)|domattem (alt.)|domatten (alt.)|dermadder (alt.)|dermat (alt.)|domadder (alt.)|dermatter (alt.)
+(Varianten)|dermadder (alt.)|dermat (alt.)|domadder (alt.)
 domm|2
 -|blöd
 -|topeg
@@ -14905,7 +15318,7 @@ drogéiert|1
 droleg|3
 -|spaasseg|wonnerlech
 -|ausgefalen|bosseg|extravagant|exotesch|ongewinnt|onüblech
--|bosseg|gelungen|eegen|komesch|eegenaarteg
+-|bosseg|gelungen|eegen|komesch|eegenaarteg|keck
 dronkeg|1
 -|dronken
 dronken|1
@@ -14995,12 +15408,16 @@ duerchbriechen|1
 -|bueren|duerchbueren|percéieren
 duerchbueren|1
 -|bueren|duerchbriechen|percéieren
-duerchcorrigéiert|1
-(Varianten)|duerchkorrigéiert (recomm.)
+duerchcalculéieren|1
+(Varianten)|duerchkalkuléieren
+duerchcorrigéieren|1
+(Varianten)|duerchkorrigéieren (recomm.)
 duerchdenken|1
 -|ausklügelen|denken
 duerchdréien|1
 -|ausflippen
+duerchdréngend|1
+-|pervasiv
 duerchduecht|1
 -|ausgeräift
 duerchenaner|1
@@ -15015,10 +15432,12 @@ duerchfachen|1
 -|duerchklappen|iwwerwiesselen|passéieren|passen|verblatzen|verbréngen|zerlafen
 duerchféieren|1
 -|duerchschaffen|erduerchkréien
+duerchkalkuléieren|1
+(Varianten)|duerchcalculéieren
 duerchklappen|1
 -|duerchfachen|iwwerwiesselen|passéieren|passen|verblatzen|verbréngen|zerlafen
-duerchkorrigéiert|1
-(Varianten)|duerchcorrigéiert (alt.)
+duerchkorrigéieren|1
+(Varianten)|duerchcorrigéieren (alt.)
 duerchkämmen|1
 -|kämmen
 duerchloossen|1
@@ -15100,6 +15519,10 @@ däitlech|2
 -|anschaulech
 däitsch sprooch|1
 (Linguistik/Sprooch)|Däitsch
+däitschfeindlech|1
+-|germanophob
+däitschfrëndlech|1
+-|germanophil
 däitschsproocheg|1
 -|germanophon
 däiwelzeg|1
@@ -15185,9 +15608,9 @@ eegegeschlechtlech|1
 -|gay|lesbesch|homosexuell|gläichgeschlechtlech
 eegen|2
 -|boer
--|bosseg|droleg|gelungen|komesch|eegenaarteg
+-|bosseg|droleg|gelungen|komesch|eegenaarteg|keck
 eegenaarteg|1
--|bosseg|droleg|gelungen|eegen|komesch
+-|bosseg|droleg|gelungen|eegen|komesch|keck
 eegestänneg|1
 -|autonom
 eegleiseg|1
@@ -15241,6 +15664,10 @@ einfach|3
 -|trivial|pipifax
 -|dankbar|agreabel|liicht
 -|bescheiden|simpel|primitiv
+eis|1
+-|ons
+eisereen|1
+-|onsereen
 ekelhaft|1
 -|ruckelzeg
 ekologesch|2
@@ -15270,12 +15697,12 @@ elo|2
 -|direkt|gläich
 -|lo
 embêtéieren|1
--|belästegen|behellegen|emmerdéieren|ploen
+-|belästegen|behellegen|emmerdéieren|ploen|harceléieren
 emeritéieren|1
--|pensionéieren
+-|pensionéieren|entflichten
 emmerdéieren|2
 -|langweilen
--|belästegen|behellegen|embêtéieren|ploen
+-|belästegen|behellegen|embêtéieren|ploen|harceléieren
 emol|1
 -|eemol
 empfeelen|1
@@ -15300,8 +15727,8 @@ en etlech|1
 encadréieren|2
 -|arummen
 -|betreien
-encodéiert|1
--|verschlësselt|chiffréiert
+encodéieren|1
+-|verschlësselen|chiffréieren
 encouragéieren|2
 -|opfuerderen|opmonteren|ufeieren|Mutt maachen
 -|ermonteren
@@ -15344,6 +15771,8 @@ enteegnen|1
 -|expropriéieren
 entfachen|1
 -|declenchéieren
+entflichten|1
+-|emeritéieren|pensionéieren
 entféieren|1
 -|ewechfachen|ewechhuelen|ewechstiechen|ewechzéien|ewechmaachen
 entgoen|1
@@ -15367,8 +15796,6 @@ entlueden|1
 -|auslueden|dechargéieren|eroflueden|kippen|oflueden
 entmilitariséieren|1
 -|demilitariséieren
-entmilitariséiert|1
--|demilitariséiert
 entnäipen|1
 -|annäipen|antompen|enttompen
 entretemps|1
@@ -15390,8 +15817,6 @@ entschléissen|1
 -|festsetzen|fixéieren|festleeën|definéieren|beschléissen|entscheeden|decidéieren|festhalen
 entschlësselen|1
 -|decodéieren
-entschlësselt|1
--|decodéiert
 entschëllegen|1
 -|excuséieren
 entsenden|1
@@ -15505,7 +15930,7 @@ erausfilteren|2
 erausfizen|1
 -|schéimaachen
 erausfléissen|1
--|rausquëllen
+-|erausquëllen
 erausfuerderen|1
 -|provozéieren
 erausfuerderend|1
@@ -15561,6 +15986,9 @@ erausplécken|1
 erauspuchen|2
 -|erausschleideren
 -|erausgeheien
+erausquëllen|2
+-|erausfléissen
+-|spruddelen
 erausrappen|1
 -|ausrappen|erauszéien|erofräissen|erofrappen|ewechrappen|lassrappen|ofrappen|rappen|ruppen
 erausreechen|1
@@ -15697,6 +16125,8 @@ erhuelen|1
 -|erkréien
 erhuelen sech|1
 -|ausraschten|ausrouen|ausspanen|raschten
+erhuuschen|1
+-|verfluchen|vernennen|versäckelen|wiederen|erwiederen
 erhéijen|1
 -|wuessen
 erhéngeren|2
@@ -15890,11 +16320,11 @@ erwaarden|1
 erweideren|3
 -|ausweiten|breetschloen
 -|vergréisseren|ausbauen
--|ausdehnen
+-|ausdeenen
 erweisen|1
 -|erausstellen
 erwiederen|1
--|vernennen
+-|verfluchen|vernennen|versäckelen|wiederen|erhuuschen
 erwiergen|1
 -|ermëlzen|stranguléieren
 erwuessen|1
@@ -16213,15 +16643,13 @@ faulenzen|1
 fautelen|1
 -|fuddelen|schwindelen
 favoriséieren|1
--|begënschtegen|begënstegen
+-|begënschtegen
 façonnéieren|1
 -|formen
 fechten|1
 -|heeschen
 fecondéieren|1
 -|befruchten|fertiliséieren
-fecondéiert|1
--|befrucht|fertiliséiert
 feelgeschloen|1
 -|gescheitert|echouéiert
 feelgoen|2
@@ -16249,8 +16677,6 @@ fertil|1
 -|fruchtbar
 fertiliséieren|1
 -|fecondéieren|befruchten
-fertiliséiert|1
--|fecondéiert|befrucht
 fest|1
 -|zolidd
 festegen|1
@@ -16356,6 +16782,8 @@ flecken|1
 -|begladderen
 fleegen|1
 -|soignéieren
+fleeschfrëssend|1
+-|karnivor
 fleeten|1
 -|auspäifen|päifen
 flemmseg|1
@@ -16402,6 +16830,8 @@ flüsteren|1
 -|mëmmelen|pësperen
 focken|1
 -|feilschen|sproochen|verhandelen|zesummenhamsteren
+fodes|1
+-|porra|putain
 foiréieren|1
 -|schifgoen|verbocken (ëgs.)
 follegen|2
@@ -16469,10 +16899,18 @@ fragiliséieren|1
 -|ofschwächen|schwächen
 fragiliséiert|1
 -|geschwächt|ofgeschwächt
+frankophil|1
+-|franséischfrëndlech
+frankophob|1
+-|franséischfeindlech
 frankophon|1
 -|franséischsproocheg
 franséisch sprooch|1
 (Linguistik/Sprooch)|Franséisch
+franséischfeindlech|1
+-|frankophob
+franséischfrëndlech|1
+-|frankophil
 franséischsproocheg|1
 -|frankophon
 frappéieren|1
@@ -16535,6 +16973,8 @@ fueren|1
 -|zirkuléieren
 fuerschen|1
 -|nofuerschen|recherchéieren
+fuerzdréchen|1
+-|stëbsdréchen
 fuerzen|1
 -|faschten (vulg.)|pupen (veraalt)|ee loossen (vulg.)
 fummelen|3
@@ -16637,9 +17077,10 @@ garantéieren|1
 -|versécheren
 garéieren|1
 -|parken
-gay|2
+gay|3
 -|queer|schwul
 -|lesbesch|homosexuell|gläichgeschlechtlech|eegegeschlechtlech
+-|lesbesch
 gebidden|1
 -|befielen|beuerderen|ordonnéieren|veruerdnen
 gebilt|1
@@ -16652,8 +17093,12 @@ geckeg|1
 -|verréckt|jaus|mëll|tibbi
 gecken|1
 -|spaassen
+gedam|1
+-|gedëlleg
 gedéit|1
 -|narkotiséiert
+gedëlleg|1
+-|gedam
 gefierft|1
 -|faarweg
 gefuerdert|1
@@ -16662,12 +17107,16 @@ gefëllt|1
 -|voll
 gegafelt|1
 -|dichotom
+geheechnesvoll|1
+-|geheimnisvoll
 geheft|1
 -|broschéiert
 geheien|1
 -|schéissen|werfen|puchen
 geheien sech|1
 -|ploen sech
+geheimnisvoll|1
+-|geheechnesvoll
 gehässeg|1
 -|béiswëlleg
 gehéiereg|1
@@ -16681,14 +17130,14 @@ gekënschtelt|1
 gelenkeg|1
 -|gewieweg
 gelungen|1
--|bosseg|droleg|eegen|komesch|eegenaarteg
+-|bosseg|droleg|eegen|komesch|eegenaarteg|keck
 geléngen|1
 -|glécken|reusséieren
 gemeng|2
 -|trivial
 -|infam|nidderträchteg|ruckelzeg|schänterlech
 gemengnëtzeg|1
--|wueltäteg
+-|wueltäteg|matmënschlech|karitativ
 gemittlech|2
 -|schéin|agreabel
 -|bequem|molleg
@@ -16702,6 +17151,10 @@ genau|1
 (Varianten)|genee
 genausou|1
 (Varianten)|geneesou
+genderfluid|1
+-|geschlechtsflësseg
+genderqueer|1
+-|geschlechtsqueer
 genee|2
 -|exakt|präzis|prezis
 (Varianten)|genau
@@ -16721,7 +17174,7 @@ gentil|2
 genuch|1
 -|zimlech
 genéieren|1
--|behënneren|jenéieren|stéieren
+-|behënneren|stéieren|handicapéieren
 genéissen|1
 -|appreciéieren|schätzen
 genügend|1
@@ -16738,6 +17191,10 @@ gerecht|1
 -|richteg
 gerechtfäerdegen|1
 -|begrënnen|beleeën|fundéieren|justifiéieren|beweisen|demonstréieren
+germanophil|1
+-|däitschfrëndlech
+germanophob|1
+-|däitschfeindlech
 germanophon|1
 -|däitschsproocheg
 geréieren|1
@@ -16756,6 +17213,10 @@ geschichtlech|1
 -|historesch
 geschlechtlech|1
 -|sexual|sexuell
+geschlechtsflësseg|1
+-|genderfluid
+geschlechtsqueer|1
+-|genderqueer
 geschmeechelt|1
 -|flattéiert
 geschminkt|1
@@ -16868,8 +17329,8 @@ gonfléieren|1
 -|opblosen|oppompelen|vollpompelen
 gotzelen|1
 -|biedelen|ergadderen|heeschen
-goudronéieren|1
--|zougoudronéieren
+goudronnéieren|1
+-|zougoudronnéieren
 gouereg|1
 -|dënn|schlank
 grad|2
@@ -17005,8 +17466,8 @@ handelen|1
 -|agéieren|wierken
 handhaben|1
 -|hantéieren|manipuléieren
-handicapéiert|1
--|behënnert
+handicapéieren|1
+-|behënneren|genéieren|stéieren
 hannebleiwen|1
 -|zréckbleiwen|zeréckbleiwen
 hannen|1
@@ -17034,7 +17495,7 @@ hannerzeg|1
 hannerzeg goen|1
 -|hannerrécken|hannerzeggoen|réckelen|zréckfalen|zeréckfalen|zréckgoen|zeréckgoen|zrécksprangen|zerécksprangen
 hannerzegdrécken|1
--|ofstoussen|ofweisen|ofwimmelen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen
+-|ofstoussen|ofweisen|ofwimmelen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen|zréckstussen|zréckstutten
 hannerzeggoen|1
 -|hannerrécken|hannerzeg goen|réckelen|zréckfalen|zeréckfalen|zréckgoen|zeréckgoen|zrécksprangen|zerécksprangen
 hannerzéien|1
@@ -17053,6 +17514,8 @@ happeren|1
 -|haperen
 haptesch perceptioun|1
 -|Haptik
+harceléieren|1
+-|belästegen|behellegen|emmerdéieren|embêtéieren|ploen
 harmlos|1
 -|net geféierlech|onschiedlech
 harmoniséieren|1
@@ -17093,10 +17556,6 @@ heihin|2
 (Varianten)|heihinner (alt.)
 heihinner|1
 (Varianten)|heihin (recomm.)
-heimat|1
-(Varianten)|heimatter (alt.)
-heimatter|1
-(Varianten)|heimat (recomm.)
 heiran|1
 (Varianten)|heiranner (alt.)
 heiranner|1
@@ -17109,6 +17568,8 @@ heirobber|1
 (Varianten)|heirop (recomm.)
 heirop|1
 (Varianten)|heirobber (alt.)
+herbivor|1
+-|planzefrëssend
 hermetesch|1
 -|loftdicht
 herrlech|1
@@ -17155,6 +17616,10 @@ hippelen|1
 -|hippen
 hippen|1
 -|hippelen
+hispanophil|1
+-|spueneschfrëndlech
+hispanophob|1
+-|spueneschfeindlech
 hispanophon|1
 -|spueneschsproocheg
 histeieren|1
@@ -17177,8 +17642,16 @@ hoffnungslos|1
 -|utopesch|onerreechbar
 holzen|1
 (Varianten)|hëlzen
+homofeindlech|1
+-|homophob
+homofrëndlech|1
+-|homophil
 homologéieren|1
 -|patentéieren
+homophil|1
+-|homofrëndlech
+homophob|1
+-|homofeindlech
 homosexuell|2
 -|schwul|lénks (ëgs.)
 -|gay|lesbesch|gläichgeschlechtlech|eegegeschlechtlech
@@ -17207,8 +17680,6 @@ humanoid|1
 -|mënschenähnlech
 humiliéieren|1
 -|damiddegen|erniddregen
-humiliéiert|1
--|damiddegt
 humpelen|1
 -|hinken|schlamm goen
 huwwelen|1
@@ -17246,8 +17717,6 @@ hëtzen|1
 -|wiermen
 ierbessenzieleresch|1
 -|pingeleg|ganz genee|kriddeleg|präzis|prezis
-ieren|1
--|bedréien|iren|irleeden|täuschen|trompéieren
 iergendanzwousch|1
 -|anzwousch|éierens|éierewou|enzwousch|iergendwou|iergendzwousch
 iergendwou|1
@@ -17361,6 +17830,8 @@ interessant|1
 (Varianten)|intressant (recomm.)
 interesséieren|1
 -|intresséieren
+intergeschlechtlech|1
+-|intersexuell|intersex
 interpelléieren|1
 -|zouruffen
 interplanetar|1
@@ -17371,6 +17842,10 @@ interpretéieren|1
 -|deiten|eraushéieren|erausliesen|opfaassen
 interrogéieren|1
 -|ausfroen|befroen|ermëttelen|froen|nofroen|opfroen|verhéieren
+intersex|1
+-|intersexuell|intergeschlechtlech
+intersexuell|1
+-|intergeschlechtlech|intersex
 intervenéieren|1
 -|dotëschentfueren|dotëschentkommen|dotëschtfueren|dotëschtkommen
 intimidéieren|1
@@ -17392,17 +17867,34 @@ inzenéieren|1
 inzitéieren|1
 -|incitéieren
 iren|1
--|bedréien|ieren|irleeden|täuschen|trompéieren
+-|bedréien|irleeden|täuschen|trompéieren
 irleeden|1
--|bedréien|ieren|iren|täuschen|trompéieren
+-|bedréien|iren|täuschen|trompéieren
 irritéieren|1
 -|opreegen
+islamfeindlech|1
+-|islamophil|islamophob
+islamfrëndlech|1
+-|islamophil
+islamophil|2
+-|islamfrëndlech
+-|islamfeindlech|islamophob
+islamophob|1
+-|islamfeindlech|islamophil
 isoléieren|1
 -|ofkapselen
 italienesch sprooch|1
 (Linguistik/Sprooch)|Italienesch
+italieneschfeindlech|1
+-|italophob
+italieneschfrëndlech|1
+-|italophil
 italieneschsproocheg|1
 -|italophon
+italophil|1
+-|italieneschfrëndlech
+italophob|1
+-|italieneschfeindlech
 italophon|1
 -|italieneschsproocheg
 iwwel|2
@@ -17503,8 +17995,6 @@ jauwen|3
 -|crossen|ditzen|rennen
 -|ditzen|jitzen|rennen|wetzen
 -|dauschen|klaken|praffen|tachtelen
-jenéieren|1
--|behënneren|genéieren|stéieren
 jiddefalls|1
 -|allefalls|jiddwerfalls
 jiddereen|1
@@ -17523,6 +18013,14 @@ joen|1
 -|ausdreiwen|ewechjoen
 joggen|1
 -|hierlafen|hierrennen|lafen|lassrennen|lasslafen|dohilafen|dohirennen
+juddefeindlech|1
+-|judeophob
+juddefrëndlech|1
+-|judeophil
+judeophil|1
+-|juddefrëndlech
+judeophob|1
+-|juddefeindlech
 jugéieren|1
 -|beuerteelen|riichten|uerteelen|veruerteelen
 juppelen|1
@@ -17572,6 +18070,10 @@ kappe goen|1
 -|krepéieren|vrecken|stierwen|zu Gronn goen
 kappen|1
 -|schappen
+karitativ|1
+-|wueltäteg|gemengnëtzeg|matmënschlech
+karnivor|1
+-|fleeschfrëssend
 kasséieren|1
 -|casséieren
 kastréieren|1
@@ -17585,6 +18087,8 @@ kawaii|1
 -|léif|häerzeg|goldeg|aartlech|schuckeleg|gentil|séiss
 kazen|1
 -|erëmballegen|zanken
+keck|1
+-|bosseg|droleg|gelungen|eegen|komesch|eegenaarteg
 keimen|1
 -|jéimeren|wéimeren
 keimfräi|1
@@ -17644,8 +18148,6 @@ klasséieren|3
 -|klassifizéieren|sënneren|zortéieren
 -|archivéieren
 -|placéieren
-klasséiert|1
--|placéiert
 klatschen|1
 -|applaudéieren|klappen
 klatzkäppeg|3
@@ -17682,8 +18184,10 @@ kloer|1
 -|evident
 kloermaachen|1
 -|klarifizéieren
+kloerrosen|1
+-|klorrosen|rosewëll|schwäiwëll
 klorrosen|1
--|rosewëll|schwäiwëll
+-|rosewëll|schwäiwëll|kloerrosen
 kloteren|2
 -|klammen|opklammen
 -|krabbelen|krauchen|schläichen
@@ -17771,7 +18275,7 @@ kolportéieren|1
 kombinéieren|1
 -|combinéieren
 komesch|1
--|bosseg|droleg|gelungen|eegen|eegenaarteg
+-|bosseg|droleg|gelungen|eegen|eegenaarteg|keck
 kommandéieren|1
 -|bestellen
 kommerzialiséieren|1
@@ -17780,12 +18284,8 @@ kommunikativ|1
 -|dialogbereet
 kommunikéieren|1
 -|kommunizéieren
-kommunikéiert|1
--|kommunizéiert
 kommunizéieren|1
 -|kommunikéieren
-kommunizéiert|1
--|kommunikéiert
 kompetent|1
 -|aktekundeg|dichteg
 kompetitiv|1
@@ -17793,8 +18293,6 @@ kompetitiv|1
 komplettéieren|2
 -|vervollstännegen
 (Varianten)|completéieren
-komplettéiert|1
-(Varianten)|completéiert (alt.)
 komplizéiert|1
 -|ëmständlech
 komplottéieren|1
@@ -17826,8 +18324,6 @@ konstatéieren|1
 -|constatéieren|feststellen
 konstituéieren|1
 (Varianten)|constituéieren
-konstituéiert|1
-(Varianten)|constituéiert
 konstruéieren|1
 -|bauen|opriichten
 konsuméieren|2
@@ -17863,8 +18359,6 @@ korrespondéieren|1
 korrigéieren|2
 -|corrigéieren|verbesseren
 (Varianten)|corrigéieren (alt.)
-korrigéiert|1
-(Varianten)|corrigéiert (alt.)
 korrupt|1
 -|bestiechlech
 koschteren|1
@@ -17905,8 +18399,6 @@ kristillegen|1
 kritiséieren|2
 -|bemängelen|kritizéieren
 (Varianten)|kritizéieren (alt.)
-kritiséiert|1
--|bemängelt
 kritizéieren|2
 -|bemängelen|kritiséieren
 (Varianten)|kritiséieren (recomm.)
@@ -18046,8 +18538,9 @@ leimen|1
 -|kliewen|oppechen|pechen|upechen|zesummepechen|zoupechen
 lenken|1
 -|renkelen
-lesbesch|1
+lesbesch|2
 -|gay|homosexuell|gläichgeschlechtlech|eegegeschlechtlech
+-|gay
 liddereg|1
 -|faul
 liedeg|1
@@ -18097,10 +18590,18 @@ lueden|1
 -|belaaschten|chargéieren|eroplueden|oplueden
 lues|1
 -|daierlech|mackeg|schwaach|wëllensschwaach
+lusophil|1
+-|portugiseschfrëndlech
+lusophob|1
+-|portugiseschfeindlech
 lusophon|1
 -|portugiseschsproocheg
 lutschen|1
 -|aussaugen|erofsuckelen|suckelen
+luxemburgophil|1
+-|lëtzebuergeschfrëndlech
+luxemburgophob|1
+-|lëtzebuergeschfeindlech
 luxemburgophon|1
 -|lëtzebuergeschsproocheg
 lächelen|1
@@ -18143,20 +18644,22 @@ lëschteg|1
 -|amusant|flott|spaasseg|witzeg
 lëschten|1
 -|oplëschten
+lëtzebuergeschfeindlech|1
+-|luxemburgophob
+lëtzebuergeschfrëndlech|1
+-|luxemburgophil
 lëtzebuergeschsproocheg|1
 -|luxemburgophon
 ma|1
 -|awer|mä
 maachen|1
--|doen|man
+-|doen
 maasslos|1
 -|onendlech
 mackeg|1
 -|daierlech|lues|schwaach|wëllensschwaach
 maltraitéieren|1
 -|mësshandelen|pisaken
-man|1
--|maachen|doen
 manifestéieren|1
 -|demonstréieren
 manipuléieren|1
@@ -18216,6 +18719,8 @@ matleedeg|1
 -|baarmhäerzeg
 matmaachen|1
 -|bedeelegen|participéieren|deelhuelen
+matmënschlech|1
+-|wueltäteg|gemengnëtzeg|karitativ
 matmëschen|1
 -|mëschen|mitigéieren|réieren|vermëschen|melangéieren
 matrappen|1
@@ -18289,12 +18794,14 @@ meprisabel|1
 -|veruechtenswäert|abominabel
 mepriséieren|1
 -|veruechten
-mepriséiert|1
--|veruecht
 metabolesch|1
 -|verännerlech
 metzelen|1
 -|néiermetzelen|niddermetzelen
+mieleg|1
+(Varianten)|mielzeg
+mielzeg|1
+(Varianten)|mieleg
 mierken|2
 -|anuechthuelen
 -|bemierken
@@ -18392,6 +18899,8 @@ multilingual|1
 -|polyglott|méisproocheg|villsproocheg
 multipel|1
 -|vill|masseg (ëgs.)
+mummzeg|1
+-|almoudesch
 munch|1
 -|e puer|en etlech
 munchmol|1
@@ -18405,6 +18914,8 @@ muusseg|1
 mä|2
 -|awer|ma
 (Varianten)|mee
+männerfeindlech|1
+-|androphob
 männlech|1
 -|maskulin|viril
 mätsch|1
@@ -18461,8 +18972,6 @@ mëschtnaass|1
 -|zoppnaass
 mëssbrauchen|1
 -|abuséieren|mësshandelen
-mëssbraucht|1
--|abuséiert
 mësshandelen|2
 -|maltraitéieren|pisaken
 -|abuséieren|mëssbrauchen
@@ -18501,8 +19010,6 @@ national|1
 -|staatlech
 nationaliséieren|1
 -|verstaatlechen
-nationaliséiert|1
--|verstaatlecht
 naturaliséieren|1
 -|abiergeren
 naturaliséiert|1
@@ -18534,9 +19041,7 @@ nerven|3
 nervös|1
 -|opgereegt
 nervös maachen|1
--|nervös man|op de Su goen (ëgs.)|op de Kéis goen (ëgs.)
-nervös man|1
--|nervös maachen|op de Su goen (ëgs.)|op de Kéis goen (ëgs.)
+-|op de Su goen (ëgs.)|op de Kéis goen (ëgs.)
 net bestuet|1
 -|leedeg|liedeg
 net erofkréien|1
@@ -18899,7 +19404,7 @@ ofstempelen|1
 ofstierwen|1
 -|stierwen
 ofstoussen|1
--|hannerzegdrécken|ofweisen|ofwimmelen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen
+-|hannerzegdrécken|ofweisen|ofwimmelen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen|zréckstussen|zréckstutten
 ofstreiden|4
 -|dementéieren|leegnen
 -|kontestéieren
@@ -18923,7 +19428,7 @@ ofwandelen|1
 -|änneren|changéieren|ëmänneren|veränneren|wiesselen|transforméieren
 ofweisen|3
 -|ewechweisen|net unerkennen|verstoussen|verwerfen
--|hannerzegdrécken|ofstoussen|ofwimmelen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen
+-|hannerzegdrécken|ofstoussen|ofwimmelen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen|zréckstussen|zréckstutten
 -|oflehnen|ofschloen|ofsoen|refuséieren|refüséieren|verweigeren|weigeren|ofleenen
 ofwieren|1
 -|verdeedegen
@@ -18932,7 +19437,7 @@ ofwiergen|1
 ofwiesselen|1
 -|auswiesselen|ersetzen
 ofwimmelen|1
--|hannerzegdrécken|ofstoussen|ofweisen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen
+-|hannerzegdrécken|ofstoussen|ofweisen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen|zréckstussen|zréckstutten
 ofwäichen|1
 -|deviéieren|ëmleeden
 ofwéckelen|1
@@ -19067,12 +19572,16 @@ onpünktlech|1
 (Varianten)|onpénktlech (recomm.)
 onroueg|1
 -|opgereegt|wibbeleg
+ons|1
+-|eis
 onschaarf|1
 -|verschwommen
 onschiedlech|1
 -|harmlos|net geféierlech
 onschéin|1
 -|ellen|gräisslech
+onsereen|1
+-|eisereen
 onsympathesch|1
 -|antipathesch
 onsécher|1
@@ -19117,9 +19626,9 @@ op d'mannst|2
 -|ëmmer|mindestens
 -|mindestens|wéinstens
 op de kéis goen|1
--|nervös maachen|nervös man|op de Su goen (ëgs.)
+-|nervös maachen|op de Su goen (ëgs.)
 op de su goen|1
--|nervös maachen|nervös man|op de Kéis goen (ëgs.)
+-|nervös maachen|op de Kéis goen (ëgs.)
 op der schanz|1
 (Uertschaftsnimm)|Altrier|Altréier
 opbarschten|1
@@ -19247,6 +19756,8 @@ opplouen|1
 -|plouen
 oppompelen|1
 -|gonfléieren|opblosen|vollpompelen
+oppositionell|1
+-|dissident
 opposéieren|1
 -|géintiwwerstellen
 oprafen|1
@@ -19300,12 +19811,8 @@ optauchen|1
 -|erschéngen|ervirkommen|opdauchen|opkommen|erauskommen|optrieden
 optimiséieren|1
 -|optiméieren
-optimiséiert|1
--|optiméiert
 optiméieren|1
 -|optimiséieren
-optiméiert|1
--|optimiséiert
 optrieden|1
 -|erschéngen|ervirkommen|opdauchen|opkommen|optauchen|erauskommen
 opweechen|1
@@ -19360,13 +19867,11 @@ paken|3
 -|ergräifen|réieren
 -|faassen
 panneautéieren|1
--|affichéieren|affischéieren|uschloen
+-|affichéieren|uschloen
 papeg|1
 -|pecheg
 paralyséieren|1
 -|tetaniséieren
-paralyséiert|1
--|tetaniséiert
 parken|3
 -|garéieren
 -|stationéieren
@@ -19409,7 +19914,7 @@ pendelen|1
 penibel|1
 -|méiséileg
 pensionéieren|1
--|emeritéieren
+-|emeritéieren|entflichten
 peppelen|1
 -|ernieren
 percéieren|1
@@ -19418,6 +19923,8 @@ perfekt|1
 -|tipptopp
 perquisitionnéieren|1
 -|duerchsichen
+pervasiv|1
+-|duerchdréngend
 phenomenal|1
 (Varianten)|phänomenal (alt.)
 phytogeographesch|1
@@ -19456,8 +19963,6 @@ pissen|1
 -|seechen|urinéieren|eng Miselche maachen (ëgs.)|schiffen (ëgs.)
 placéieren|1
 -|klasséieren
-placéiert|1
--|klasséiert
 plaidéieren|1
 -|plädéieren
 plakeg|1
@@ -19468,6 +19973,8 @@ plakäppeg|1
 -|plakkäppeg
 plangen|1
 -|projezéieren|virhuelen
+planzefrëssend|1
+-|herbivor
 planzegeographesch|1
 -|phytogeographesch|vegetatiounsgeographesch
 planzen|1
@@ -19496,7 +20003,7 @@ plausibel|1
 ploen|3
 -|dirängelen|folteren|péngegen|quälen|torturéieren
 -|exteren|nerven
--|belästegen|behellegen|emmerdéieren|embêtéieren
+-|belästegen|behellegen|emmerdéieren|embêtéieren|harceléieren
 ploen sech|1
 -|geheien sech
 plombéieren|1
@@ -19538,6 +20045,12 @@ pornografesch|1
 (Varianten)|pornographesch (recomm.)
 pornographesch|1
 (Varianten)|pornografesch (alt.)
+porra|1
+-|fodes|putain
+portugiseschfeindlech|1
+-|lusophob
+portugiseschfrëndlech|1
+-|lusophil
 portugiseschsproocheg|1
 -|lusophon
 poséieren|1
@@ -19569,8 +20082,6 @@ presentéieren|2
 -|exposéieren|duerleeën
 preservéieren|1
 (Varianten)|präservéieren (alt.)
-preservéiert|1
-(Varianten)|präservéiert (alt.)
 presséieren|1
 -|auspressen|ausquetschen|dirängelen|quëtschen
 presüméieren|1
@@ -19591,8 +20102,6 @@ prezis|4
 preziséieren|2
 (Varianten)|präziséieren (alt.)
 -|präziséieren|verdäitlechen
-preziséiert|1
-(Varianten)|präziséiert (alt.)
 primitiv|3
 -|bescheiden|einfach|simpel
 -|niveaulos|ordinär|ongebilt|vulgär
@@ -19604,13 +20113,9 @@ prinzipiell|1
 privilegiéieren|2
 -|bevirzéien|privilegéieren
 (Varianten)|privilegéieren (alt.)
-privilegiéiert|1
-(Varianten)|privilegéiert (alt.)
 privilegéieren|2
 -|bevirzéien|privilegiéieren
 (Varianten)|privilegiéieren (recomm.)
-privilegéiert|1
-(Varianten)|privilegiéiert (recomm.)
 probéieren|1
 -|ausprobéieren|versichen
 prognostizéieren|1
@@ -19663,8 +20168,6 @@ präsent|1
 (Varianten)|present (recomm.)
 präservéieren|1
 (Varianten)|preservéieren (recomm.)
-präservéiert|1
-(Varianten)|preservéiert (recomm.)
 präventiv|1
 (Varianten)|preventiv (recomm.)
 präzis|4
@@ -19675,8 +20178,6 @@ präzis|4
 präziséieren|2
 -|verdäitlechen|preziséieren
 (Varianten)|preziséieren (recomm.)
-präziséiert|1
-(Varianten)|preziséiert (recomm.)
 préiwen|2
 -|examinéieren|iwwerpréiwen
 -|iwwerpréiwen|kontrolléieren|nopréiwen
@@ -19704,6 +20205,8 @@ pupen|1
 -|faschten (vulg.)|fuerzen (vulg.)|ee loossen (vulg.)
 pur|1
 -|reng
+putain|1
+-|porra|fodes
 pädagogesch|1
 (Varianten)|pedagogesch (recomm.)
 pädophil|1
@@ -19726,6 +20229,14 @@ quasi|1
 -|gewëssermoossen|souzesoen|am Prinzip|praktesch
 queer|1
 -|gay|schwul
+queerfeindlech|1
+-|queerphob
+queerfrëndlech|1
+-|queerphil
+queerphil|1
+-|queerfrëndlech
+queerphob|1
+-|queerfeindlech
 queesch|3
 -|béis|béisaarteg|bësseg|schlecht|uerg|wéischt
 -|schacks|schif
@@ -19791,9 +20302,6 @@ rau|1
 raumen|2
 -|ewechraumen|ewechstiechen|fortraumen|rangéieren
 -|araumen
-rausquëllen|2
--|erausfléissen
--|spruddelen
 razekal|1
 (Varianten)|ratzekal
 reagéieren|1
@@ -19816,8 +20324,6 @@ recommandéieren|1
 -|empfeelen
 reconciliéieren|1
 -|versöhnen
-reconciliéiert|1
--|versöhnt
 redigéieren|1
 -|nidderschreiwen|schreiwen
 redirigéieren|1
@@ -19827,8 +20333,6 @@ redirigéiert|1
 reduzéieren|2
 -|verréngeren
 -|akachen
-reduzéiert|1
--|verréngert
 reechen|2
 -|drukommen|erreechen|erwëschen
 -|entgéinthalen
@@ -20037,7 +20541,7 @@ ronzeleg|1
 rosen|1
 -|béis|verdrësslech|queesch
 rosewëll|1
--|klorrosen|schwäiwëll
+-|klorrosen|schwäiwëll|kloerrosen
 rotéieren|1
 -|räpsen
 roueg|2
@@ -20325,6 +20829,8 @@ schrecklech|1
 schreiwen|2
 -|tippen|oftippen|antippen
 -|nidderschreiwen|redigéieren
+schrill|1
+-|trotereg|schättereg
 schrécken|1
 -|stiwwelen
 schrëftsproochlech|1
@@ -20368,7 +20874,7 @@ schwäermen|1
 schwäerzen|1
 -|schwaarz maachen
 schwäiwëll|1
--|klorrosen|rosewëll
+-|klorrosen|rosewëll|kloerrosen
 schwänzen|1
 -|blomaachen
 schwätzen|2
@@ -20391,6 +20897,8 @@ schänterlech|2
 -|onwierdeg
 schären|1
 -|flirten
+schättereg|1
+-|trotereg|schrill
 schätzen|4
 -|appreciéieren|genéissen
 -|aschätzen|estiméieren|uechten|unhuelen
@@ -20591,12 +21099,8 @@ speziell|2
 -|besonnesch|extra
 spezifizéieren|1
 (Varianten)|spezifiéieren
-spezifizéiert|1
-(Varianten)|spezifiéiert
 spezifiéieren|1
 (Varianten)|spezifizéieren
-spezifiéiert|1
-(Varianten)|spezifizéiert
 spieren|3
 -|beréieren|taaschten|ufillen|uréieren
 -|richen|verspieren
@@ -20626,7 +21130,7 @@ sproochen|5
 spruddelen|4
 -|braddelen|spacken
 -|erausspruddelen
--|rausquëllen
+-|erausquëllen
 -|kribbelen
 sprutzen|1
 -|sprëtzen
@@ -20634,6 +21138,10 @@ sprënselen|1
 -|agéissen|arroséieren|begéissen|nätzen|netzen|sprinselen|besprutzen|besprëtzen
 sprëtzen|1
 -|sprutzen
+spueneschfeindlech|1
+-|hispanophob
+spueneschfrëndlech|1
+-|hispanophil
 spueneschsproocheg|1
 -|hispanophon
 spueren|1
@@ -20799,12 +21307,14 @@ stéieren|4
 -|derangéieren
 -|ënnerbriechen|ofbriechen
 -|ausmaachen
--|behënneren|genéieren|jenéieren
+-|behënneren|genéieren|handicapéieren
 sténkeg|1
 -|faul|iwwel|vermuuscht
 sténken|2
 -|fachen
 -|mipsen
+stëbsdréchen|1
+-|fuerzdréchen (vulg.)
 stëften|1
 -|fondéieren|fundéieren|grënnen
 stëll|2
@@ -20908,8 +21418,6 @@ testen|1
 -|ausprobéieren
 tetaniséieren|1
 -|paralyséieren
-tetaniséiert|1
--|paralyséiert
 tibbi|1
 -|geckeg|verréckt|jaus|mëll
 ticken|1
@@ -20963,16 +21471,40 @@ trampelen|1
 -|bommelen|fändelen|fladderen|flanéieren|gondelen|pendelen|scharjeekelen|träntelen
 tranchéieren|1
 -|ofschneiden
+trans|1
+-|transsexuell|transgeschlechtlech|transgender
+transfeindlech|1
+-|transphob
+transfeminin|1
+-|transweiblech
 transferéieren|1
 -|iwwerféieren
 transforméieren|1
 -|änneren|changéieren|ëmänneren|veränneren|wiesselen|ofwandelen
+transfrëndlech|1
+-|transphil
+transgender|1
+-|transsexuell|transgeschlechtlech|trans
+transgeschlechtlech|1
+-|transsexuell|transgender|trans
+transmaskulin|1
+-|transmännlech
+transmännlech|1
+-|transmaskulin
 transparent|1
 -|duerchsichteg|duerchsiichteg
+transphil|1
+-|transfrëndlech
+transphob|1
+-|transfeindlech
 transplantéieren|1
 -|ëmplanzen
 transportéieren|1
 -|féieren|bréngen
+transsexuell|1
+-|transgeschlechtlech|transgender|trans
+transweiblech|1
+-|transfeminin
 trauen|1
 -|erkéngen
 trauereg|1
@@ -21003,7 +21535,9 @@ trommelen|1
 trommen|1
 -|trommelen
 trompéieren|1
--|bedréien|ieren|iren|irleeden|täuschen
+-|bedréien|iren|irleeden|täuschen
+trotereg|1
+-|schrill|schättereg
 trotzdeem|1
 -|awer
 trotzeg|1
@@ -21035,7 +21569,7 @@ tässelen|1
 tätowéieren|1
 -|antätowéieren
 täuschen|1
--|bedréien|ieren|iren|irleeden|trompéieren
+-|bedréien|iren|irleeden|trompéieren
 técken|1
 -|frappéieren|haen|klappen|schloen|tappen|beetschen
 téinen|3
@@ -21228,8 +21762,6 @@ unhéieren|1
 -|lauschteren|nolauschteren
 uniformiséieren|1
 -|vereenheetlechen
-uniformiséiert|1
--|vereenheetlecht
 unisex|1
 -|unisexuell
 unisexuell|1
@@ -21270,6 +21802,8 @@ uranzen|1
 -|ubaupsen
 urappen|1
 -|entaméieren|ufänken|ubriechen|ugoen
+ureegend|1
+-|analeptesch|beliewend
 uriichten|2
 -|accomodéieren
 -|bereetstellen|noneemaachen|preparéieren|virbereeden|noeneemaachen
@@ -21286,7 +21820,7 @@ uréieren|1
 uschafen|1
 -|kafen|organiséieren
 uschloen|1
--|affichéieren|affischéieren|panneautéieren
+-|affichéieren|panneautéieren
 uschmieren|2
 -|bedréien|beducksen|bedupsen|beduxen|düpéieren
 -|beschwindelen|bedupsen|eraleeën|uschäissen
@@ -21371,8 +21905,6 @@ verbannen|4
 -|associéieren
 verbellen|1
 -|verstauchen
-verbellt|1
--|verstaucht
 verbesseren|4
 -|ausbesseren|besseren
 -|corrigéieren|korrigéieren
@@ -21417,16 +21949,11 @@ verdamen|1
 -|condamnéieren|verdonneren|veruerteelen
 verdauen|1
 -|digeréieren
-verdaut|1
--|digeréiert
 verdecken|1
 -|couvréieren|decken|zoudecken
-verdeedegen|3
+verdeedegen|2
 -|ofwieren
-(Varianten)|verteidegen
 -|behidden|beschützen|ofschiermen|protegéieren|schützen
-verdeedegt|1
-(Varianten)|verteidegt (alt.)
 verdeelen|2
 -|ofginn
 -|ausdeelen
@@ -21468,8 +21995,6 @@ verdäitlechen|1
 -|präziséieren|preziséieren
 vereedegen|1
 -|assermentéieren
-vereedegt|1
--|assermentéiert
 vereelzt|2
 -|demodéiert
 -|archaesch
@@ -21479,8 +22004,6 @@ vereenen|1
 -|eenegen|vereenegen
 vereenheetlechen|1
 -|uniformiséieren
-vereenheetlecht|1
--|uniformiséiert
 vereenzelt|1
 -|eenzel
 vereinfachen|1
@@ -21504,7 +22027,7 @@ verfestegen|1
 verflichten|1
 -|engagéieren
 verfluchen|2
--|vernennen|versäckelen
+-|vernennen|versäckelen|wiederen|erhuuschen|erwiederen
 -|verwënschen
 verfollegen|1
 -|poursuivéieren
@@ -21551,6 +22074,8 @@ verhaften|2
 verhalen|2
 -|zréckbehalen|zeréckbehalen|zréckhalen|zeréckhalen
 -|behalen
+verhalensbaséiert|1
+-|behuelensbaséiert
 verhandelen|3
 -|feilschen|focken|sproochen|zesummenhamsteren
 -|negociéieren
@@ -21608,8 +22133,6 @@ verleeën|1
 -|deplacéieren|fortbeweegen|réckelen|verréckelen|verschiben|verstellen
 verletzen|1
 (Medezin)|blesséieren (recomm.)|verwonnen (alt.)
-verletzt|1
-(Medezin)|verwonnt (alt.)|blesséiert (recomm.)
 verloben|1
 -|fiancéieren
 verloossen|1
@@ -21642,10 +22165,8 @@ vermëschen|1
 vermëttelen|2
 -|beliwweren
 -|arbitréieren
-vernennen|3
--|verfluchen|versäckelen
--|versäckelen|wiederen
--|erwiederen
+vernennen|1
+-|verfluchen|versäckelen|wiederen|erhuuschen|erwiederen
 vernichten|1
 -|klengkréien|zerschloen|zerstéieren|zesummeschloen|demoléieren|himmelen (ëgs.)|verwüsten
 vernoléissegen|1
@@ -21665,8 +22186,6 @@ verpolveren|1
 -|dropmaachen|verbëtzen|verplemperen|versabbelen|verschwenden|vertëffen
 verquëssen|1
 -|verwannen
-verquësst|1
--|verwonnen
 verrappen|1
 -|draräissen|duerchrappen|verräissen|zerräissen|zerrappen
 verraschten|1
@@ -21690,8 +22209,6 @@ verréckt|1
 -|geckeg|jaus|mëll|tibbi
 verréngeren|1
 -|reduzéieren
-verréngert|1
--|reduzéiert
 versabbelen|1
 -|dropmaachen|verbëtzen|verplemperen|verschwenden|vertëffen|verpolveren
 versammelen|1
@@ -21727,8 +22244,8 @@ verschléissen|2
 -|stoppen|zoustoppen
 verschlëmmeren|1
 -|verschlechteren|méi schlecht ginn|aggravéieren
-verschlësselt|1
--|encodéiert|chiffréiert
+verschlësselen|1
+-|chiffréieren|encodéieren
 verschmieren|1
 -|breetschloen
 verschmotzen|1
@@ -21781,12 +22298,8 @@ verspotten|2
 -|auslaachen
 verstaatlechen|1
 -|nationaliséieren
-verstaatlecht|1
--|nationaliséiert
 verstauchen|1
 -|verbellen
-verstaucht|1
--|verbellt
 versteieren|1
 -|imposéieren|opbrommen|opbrummen|opdrängen|operleeën|opzwangen|veruerdnen
 verstellen|2
@@ -21811,9 +22324,8 @@ verständlech|1
 versuergen|2
 -|approvisionéieren|proviantéieren
 -|betreien|sech ëm ee këmmeren
-versäckelen|2
--|verfluchen|vernennen
--|vernennen|wiederen
+versäckelen|1
+-|verfluchen|vernennen|wiederen|erhuuschen|erwiederen
 versécheren|2
 -|assuréieren|zousécheren
 -|garantéieren
@@ -21821,15 +22333,9 @@ verséissen|1
 -|séissen
 versöhnen|1
 -|reconciliéieren
-versöhnt|1
--|reconciliéiert
 vertauschen|2
 -|austauschen|tauschen|wiesselen|koppelen
 -|verwiesselen
-verteidegen|1
-(Varianten)|verdeedegen
-verteidegt|1
-(Varianten)|verdeedegt (recomm.)
 vertraglech|1
 -|kontraktlech
 vertrauenswierdeg|1
@@ -21839,8 +22345,6 @@ vertrieden|1
 vertëffen|2
 -|verschmäerzen
 -|dropmaachen|verbëtzen|verplemperen|versabbelen|verschwenden|verpolveren
-veruecht|1
--|mepriséiert
 veruechten|1
 -|mepriséieren
 veruechtenswäert|1
@@ -21881,15 +22385,11 @@ verwiesselen|1
 verwinnt|1
 -|verduerwen
 verwonnen|1
--|verquësst
-verwonnen|1
 (Medezin)|blesséieren (recomm.)|verletzen (alt.)
 verwonneren|1
 -|wonneren
 verwonnerlech|1
 -|opfälleg
-verwonnt|1
-(Medezin)|verletzt (alt.)|blesséiert (recomm.)
 verwot|1
 -|abenteuerlech
 verwurrelen|1
@@ -21903,8 +22403,6 @@ verwéckelen|2
 -|verklausuléieren|verwurrelen
 verwënschen|1
 -|verfluchen
-verwüst|1
--|zerstéiert
 verwüsten|1
 -|klengkréien|vernichten|zerschloen|zerstéieren|zesummeschloen|demoléieren|himmelen (ëgs.)
 verzeechnen|1
@@ -21928,8 +22426,6 @@ veränneren|1
 -|änneren|changéieren|ëmänneren|wiesselen|transforméieren|ofwandelen
 verännerlech|1
 -|metabolesch
-verännert|1
--|changéiert
 veréieren|2
 -|bewonneren
 -|éieren
@@ -22056,8 +22552,6 @@ vis-à-vis|1
 -|géintiwwer
 visitéieren|1
 -|besichen
-visitéiert|1
--|besicht
 viséieren|2
 -|diichten|dropschéissen
 -|cibléieren|uspriechen
@@ -22205,7 +22699,7 @@ widmen|1
 wiedereg|1
 -|schmeier|stiermesch
 wiederen|1
--|vernennen|versäckelen
+-|verfluchen|vernennen|versäckelen|erhuuschen|erwiederen
 wielen|2
 -|aussichen|auswielen|erausgräifen|eraussichen|erauswielen|selektionéieren
 -|ofstëmmen|stëmmen|votéieren
@@ -22269,10 +22763,6 @@ wouhin|2
 -|wuer
 wouhinner|1
 (Varianten)|wouhin (recomm.)
-woumat|1
-(Varianten)|woumatter (alt.)
-woumatter|1
-(Varianten)|woumat (recomm.)
 wouran|1
 (Varianten)|wouranner (alt.)
 wouranner|1
@@ -22298,7 +22788,7 @@ wucheren|1
 wuechtsam|1
 -|vigilant
 wueltäteg|1
--|gemengnëtzeg
+-|gemengnëtzeg|matmënschlech|karitativ
 wuer|1
 -|wouhin
 wuessen|4
@@ -22424,12 +22914,8 @@ zerkuederen|1
 -|zerkazen
 zerkussen|1
 (Varianten)|zerkëssen
-zerkusst|1
-(Varianten)|zerkësst
 zerkëssen|1
 (Varianten)|zerkussen
-zerkësst|1
-(Varianten)|zerkusst
 zerlafen|1
 -|duerchfachen|duerchklappen|iwwerwiesselen|passéieren|passen|verblatzen|verbréngen
 zerleeën|3
@@ -22472,8 +22958,6 @@ zerstéckelen|1
 -|stéckelen|stécken|zerklengeren|zerleeën
 zerstéieren|1
 -|klengkréien|vernichten|zerschloen|zesummeschloen|demoléieren|himmelen (ëgs.)|verwüsten
-zerstéiert|1
--|verwüst
 zersäbelen|1
 -|duerchsäbelen
 zertifiéieren|2
@@ -22632,8 +23116,8 @@ zougestoen|2
 zouginn|2
 -|agesinn|agestoen|bekennen|gestoen
 -|zougestoen
-zougoudronéieren|1
--|goudronéieren
+zougoudronnéieren|1
+-|goudronnéieren
 zougänglech|1
 -|accessibel
 zouhalen|1
@@ -22728,9 +23212,9 @@ zréckdenken|1
 zeréckdenken|1
 -|erënneren sech|zréckdenken|zeréckdenken
 zréckdrécken|1
--|hannerzegdrécken|ofstoussen|ofweisen|ofwimmelen|zréckstoussen|zeréckstoussen
+-|hannerzegdrécken|ofstoussen|ofweisen|ofwimmelen|zréckstoussen|zeréckstoussen|zréckstussen|zréckstutten
 zeréckdrécken|1
--|hannerzegdrécken|ofstoussen|ofweisen|ofwimmelen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen
+-|hannerzegdrécken|ofstoussen|ofweisen|ofwimmelen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen|zréckstussen|zréckstutten
 zréckdréien|1
 -|nogoen|zréckdréinen|zeréckdréinen
 zeréckdréien|1
@@ -22816,7 +23300,11 @@ zerécksprangen|1
 zréckstoussen|1
 -|hannerzegdrécken|ofstoussen|ofweisen|ofwimmelen|zréckdrécken|zeréckdrécken
 zeréckstoussen|1
--|hannerzegdrécken|ofstoussen|ofweisen|ofwimmelen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen
+-|hannerzegdrécken|ofstoussen|ofweisen|ofwimmelen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen|zréckstussen|zréckstutten
+zréckstussen|1
+-|hannerzegdrécken|ofstoussen|ofweisen|ofwimmelen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen|zréckstussen|zréckstutten
+zréckstutten|1
+-|hannerzegdrécken|ofstoussen|ofweisen|ofwimmelen|zréckdrécken|zeréckdrécken|zréckstoussen|zeréckstoussen|zréckstussen|zréckstutten
 zrécktrieden|1
 -|demissionéieren|ofdanken
 zerécktrieden|1
@@ -22851,10 +23339,6 @@ zweemol|1
 -|bis
 zweesproocheg|1
 -|bilingual
-zweetbescht|1
--|zweeten
-zweeten|1
--|zweetbescht
 zweetrangeg|1
 -|nieweberufflech
 zwou|1
@@ -22982,6 +23466,11 @@ zëssen|1
 ëmfro|2
 -|Sondage|Enquête|Ënnersichung
 -|Interrogatioun|Befroung
+ëmgoung|2
+-|Contournement
+-|Detournement
+ëmgoungsstrooss|1
+-|Contournementsstrooss
 ëmgéigend|1
 -|Ëmkrees
 ëmkrees|2
@@ -22999,12 +23488,16 @@ zëssen|1
 -|Environnement
 ëmweltbelaaschtung|1
 -|Ëmweltverschmotzung|Pollutioun
+ëmweltbericht|1
+-|Ëmweltrapport
 ëmweltcritère|1
 (Varianten)|Ëmweltkritär (recomm.)
 ëmweltkritär|1
 (Varianten)|Ëmweltcritère (alt.)
+ëmweltrapport|1
+-|Ëmweltbericht
 ëmweltschützer|1
--|Ekologist
+-|Ekolog
 ëmweltverschmotzung|1
 -|Ëmweltbelaaschtung|Pollutioun
 ëmäerblecht|1
@@ -23047,7 +23540,7 @@ zëssen|1
 ökobauer|1
 (Varianten)|Ekobauer (recomm.)
 ökolog|1
-(Varianten)|Ekologist (recomm.)
+(Varianten)|Ekolog (recomm.)
 ökologie|1
 (Varianten)|Ekologie (recomm.)
 übersyren|1
