@@ -466,7 +466,7 @@ abréngen/v0t0g2o0o1X2 po:verb
 abrennen/v0t0 po:verb
 abriechen/v3t0 po:verb
 Abriecher/f6m0 po:noun ts:masculine_singular
-Abriecherband/l0 po:noun ts:feminine_singular
+Abriecherband/n0 po:noun ts:feminine_singular
 Abriecherduo/n0 po:noun ts:masculine_singular
 Abriechergeschier po:noun ts:neutral_singular
 Abriechertrio/n0 po:noun ts:masculine_singular
@@ -1970,7 +1970,7 @@ Aktives st:aktiv is:es
 Aktivismus po:noun ts:masculine_singular
 Aktivissem po:noun ts:masculine_singular
 Aktivist/n0f6 po:noun ts:masculine_singular
-Aktivisteband/l0 po:noun ts:feminine_singular
+Aktivisteband/n0 po:noun ts:feminine_singular
 aktivistesch/a0 po:adjective
 Aktivistesches st:aktivistesch is:es
 Aktivitéit/n0s0 po:noun ts:feminine_singular
@@ -7737,7 +7737,7 @@ Begleedendes st:begleeden is:adjective is:papr is:es
 Begleeder/f6m0 po:noun ts:masculine_singular
 Begleederroll/n0 po:noun ts:feminine_singular
 Begleedung/n0 po:noun ts:feminine_singular
-Begleetband/l0 po:noun ts:feminine_singular
+Begleetband/n0s4 po:noun ts:feminine_singular
 Begleetbedingung/n0 po:noun ts:feminine_singular
 Begleetbréif/u1l0k4 po:noun ts:masculine_singular
 Begleetcomité/n0 po:noun ts:masculine_singular
@@ -13179,7 +13179,7 @@ Coulis/n0 po:noun ts:masculine_singular
 Couloir/n0 po:noun ts:masculine_singular
 Countdown/n0 po:noun ts:masculine_singular
 Country po:noun ts:masculine_singular
-Countryband/l0 po:noun ts:feminine_singular
+Countryband/n0s4 po:noun ts:feminine_singular
 Countrymusek po:noun ts:feminine_singular
 Countrymuseksfestival/n1r1 po:noun ts:masculine_singular
 Countrysänger/f6m0 po:noun ts:masculine_singular
@@ -13228,7 +13228,7 @@ couvréieren/v0X0Y0g1w0 po:verb
 Couvréiertes st:couvréieren is:adjective is:papa is:es
 cover
 Cover/n0 po:noun ts:masculine_singular
-Coverband/l0 po:noun ts:feminine_singular
+Coverband/n0s4 po:noun ts:feminine_singular
 covere
 coveren
 Coverfoto/n0 po:noun ts:feminine_singular
@@ -17195,7 +17195,7 @@ drofäeg/b0a0 po:adjective
 Drofäeges st:drofäeg is:es
 Drofäegkeet po:noun ts:feminine_singular
 Drog/n0 po:noun ts:feminine_singular
-Drogeband/l0 po:noun ts:feminine_singular
+Drogeband/n0 po:noun ts:feminine_singular
 Drogebaron/n0f6 po:noun ts:masculine_singular
 Drogeberäich po:noun ts:masculine_singular
 Drogebericht/r0 po:noun ts:masculine_singular
@@ -28694,7 +28694,7 @@ Gängelung/n0 po:noun ts:feminine_singular
 Ganges/!0
 Gangster/n0 po:noun ts:masculine_singular
 Gängster/n0 po:noun ts:masculine_singular
-Gangsterband/l0 po:noun ts:masculine_singular
+Gangsterband/n0 po:noun ts:masculine_singular
 Gangsterboss/n0r0 po:noun ts:masculine_singular
 Gangsterfilm/r0k0 po:noun ts:masculine_singular
 Gangstergeschicht/n0 po:noun ts:feminine_singular
@@ -39652,7 +39652,7 @@ Indiefolk po:noun ts:masculine_singular
 Indiemusek po:noun ts:feminine_singular
 Indiemuseker/f6m0 po:noun ts:masculine_singular
 Indien/c0
-Indierockband/l0 po:noun ts:feminine_singular
+Indierockband/n0s4 po:noun ts:feminine_singular
 Indiezeen po:noun ts:feminine_singular
 Indifferenz po:noun ts:feminine_singular
 indigen/a1 po:adjective
@@ -41981,7 +41981,7 @@ Java/!0
 JavaScript/!0
 Jazz po:noun ts:masculine_singular
 Jazzballad/n0 po:noun ts:feminine_singular
-Jazzband/l0 po:noun ts:feminine_singular
+Jazzband/n0s4 po:noun ts:feminine_singular
 Jazzchouer/e0 po:noun ts:masculine_singular
 Jazzconcert/n0 po:noun ts:masculine_singular
 Jazzdeel/r0 po:noun ts:masculine_singular
@@ -48057,7 +48057,7 @@ Kult/n0r0 po:noun ts:masculine_singular
 Kultaachterbunn/n0 po:noun ts:feminine_singular
 Kultactionfilm/r0k0 po:noun ts:masculine_singular
 Kultauteur/n0f4 po:noun ts:masculine_singular
-Kultband/l0 po:noun ts:feminine_singular
+Kultband/n0s4 po:noun ts:feminine_singular
 Kultbild/u1 po:noun ts:neutral_singular
 Kultbistro/n0 po:noun ts:masculine_singular
 Kultclub/e1 po:noun ts:masculine_singular
@@ -53397,7 +53397,7 @@ Metabolesches st:metabolesch is:es
 Metabolismus po:noun ts:masculine_singular
 Metadaten/c0 po:noun ts:_plural
 Metadonnée/n2 po:noun ts:feminine_singular
-Metalband/l0 po:noun ts:feminine_singular
+Metalband/n0s4 po:noun ts:feminine_singular
 Metaljoer/l0 po:noun ts:neutral_singular
 Metall/r0 po:noun ts:neutral_singular
 Metallaarbechter/f6m0 po:noun ts:masculine_singular
@@ -65025,7 +65025,7 @@ Poopstnumm/e1 po:noun ts:masculine_singular
 Pop po:noun ts:masculine_singular
 Pop-Rock po:noun ts:masculine_singular
 Popalbum/n0l1 po:noun ts:masculine_singular
-Popband/l0 po:noun ts:feminine_singular
+Popband/n0s4 po:noun ts:feminine_singular
 Popcharakter po:noun ts:masculine_singular
 Popconcert/n0 po:noun ts:masculine_singular
 Popcorn po:noun ts:masculine_singular
@@ -66967,11 +66967,11 @@ punesch/a0 po:adjective
 Punesches st:punesch is:es
 Punk/n0 po:noun ts:masculine_singular
 Punkattitüd/n0 po:noun ts:feminine_singular
-Punkband/l0 po:noun ts:feminine_singular
+Punkband/n0s4 po:noun ts:feminine_singular
 Punkbeweegung/n0 po:noun ts:feminine_singular
 Punker/n0f6 po:noun ts:masculine_singular
 Punkrock po:noun ts:masculine_singular
-Punkrockband/l0 po:noun ts:feminine_singular
+Punkrockband/n0s4 po:noun ts:feminine_singular
 Punkt/n0k7 po:noun ts:masculine_singular
 punktberechtegt/a0 po:adjective
 Punktberechtegtes st:punktberechtegt is:es
@@ -70943,7 +70943,7 @@ Rock/r0 po:noun ts:masculine_singular
 Rockabilly po:noun ts:masculine_singular
 Rockalbum/n0l1 po:noun ts:masculine_singular
 Rockarchetyp/n1 po:noun ts:masculine_singular
-Rockband/l0 po:noun ts:feminine_singular
+Rockband/n0s4 po:noun ts:feminine_singular
 Rockberäich/r0 po:noun ts:masculine_singular
 Rockconcert/n0 po:noun ts:masculine_singular
 rockeg/b0a0 po:adjective
@@ -70951,7 +70951,7 @@ Rockeges st:rockeg is:es
 Rockelement/r0 po:noun ts:neutral_singular
 rocken/v0w0 po:verb
 Rocker/f6m0 po:noun ts:masculine_singular
-Rockerband/l0 po:noun ts:feminine_singular
+Rockerband/n0 po:noun ts:feminine_singular
 Rockfestival/n1r1 po:noun ts:masculine_singular
 Rockformatioun/n0 po:noun ts:feminine_singular
 Rockgeschäft po:noun ts:neutral_singular
@@ -74006,7 +74006,7 @@ Schüler/f6m0 po:noun ts:masculine_singular
 Schüleraarbecht/n0 po:noun ts:feminine_singular
 Schüleraktivitéit/n0 po:noun ts:feminine_singular
 Schüleraustausch po:noun ts:masculine_singular
-Schülerband/l0 po:noun ts:feminine_singular
+Schülerband/n0s4 po:noun ts:feminine_singular
 Schülerbedeelegung/n0 po:noun ts:feminine_singular
 Schülerbetreiung po:noun ts:feminine_singular
 Schülerbus/n1r1 po:noun ts:masculine_singular
@@ -75828,7 +75828,7 @@ Skaléierung/n0 po:noun ts:feminine_singular
 skalpéieren/v0g1w0 po:verb
 Skalpell/n0 po:noun ts:neutral_singular
 Skandal/n0r0k6 po:noun ts:masculine_singular
-Skandalband/l0 po:noun ts:feminine_singular
+Skandalband/n0s4 po:noun ts:feminine_singular
 Skandalblat/u1k7 po:noun ts:neutral_singular
 Skandalboxer
 skandaléis/b0a0 po:adjective
@@ -79695,7 +79695,7 @@ studéieren/v0X0g1w0 po:verb
 Studéiertes st:studéieren is:adjective is:papa is:es
 Student/n0f6 po:noun ts:masculine_singular
 Studentebal/r0 po:noun ts:masculine_singular
-Studenteband/l0 po:noun ts:feminine_singular
+Studenteband/n0s4 po:noun ts:feminine_singular
 Studentebar/n0 po:noun ts:feminine_singular
 Studentebeweegung/n0 po:noun ts:feminine_singular
 Studentebond/e0 po:noun ts:masculine_singular
@@ -80962,7 +80962,7 @@ Techniséiertes st:techniséieren is:adjective is:papa is:es
 Techno
 technoaarteg/a0 po:adjective
 Technoaarteges st:technoaarteg is:es
-Technoband/l0 po:noun ts:feminine_singular
+Technoband/n0s4 po:noun ts:feminine_singular
 Technokrat/n0f6 po:noun ts:masculine_singular
 technokratesch/b0a0 po:adjective
 Technokratesches st:technokratesch is:es
