@@ -1,4 +1,4 @@
-95003
+95005
 ///!0
 2D/!0
 2-D/!0
@@ -30292,7 +30292,7 @@ géigeniwwer po:adverb
 Géigeniwwer po:noun ts:neutral_singular
 géigeniwwer po:preposition
 Géigenoffensiv/n0 po:noun ts:feminine_singular
-Géigentrend/l0r0 po:noun ts:masculine_singular
+Géigentrend/n0s4 po:noun ts:masculine_singular
 Géigenuerder/n0 po:noun ts:masculine_singular
 Géigenugrëff/r0 po:noun ts:masculine_singular
 Géigenzuch/e1 po:noun ts:masculine_singular
@@ -38215,7 +38215,7 @@ Hoerspéngel/n0 po:noun ts:feminine_singular
 Hoerspléckerei/n0 po:noun ts:feminine_singular
 Hoerspray/n0 po:noun ts:masculine_singular
 Hoertransplantatioun/n0 po:noun ts:feminine_singular
-Hoertrend/l0r0 po:noun ts:masculine_singular
+Hoertrend/n0s4 po:noun ts:masculine_singular
 Hoerwuerzel/n0 po:noun ts:feminine_singular
 Hoff/e0 po:noun ts:masculine_singular
 hoffen/v0w0 po:verb
@@ -54351,7 +54351,7 @@ Minusrekord/n0r0 po:noun ts:masculine_singular
 Minusresultat/r0 po:noun ts:neutral_singular
 Minusronn po:noun ts:feminine_singular
 Minustemperatur/n0 po:noun ts:feminine_singular
-Minustrend/l0r0 po:noun ts:masculine_singular
+Minustrend/n0s4 po:noun ts:masculine_singular
 Minuswuesstem po:noun ts:masculine_singular
 Minuszeechen/m0 po:noun ts:neutral_singular
 minutiéis/b0a0 po:adjective
@@ -55611,7 +55611,7 @@ Musekstheaterveräin/r0 po:noun ts:masculine_singular
 Musekstheorie/n4 po:noun ts:feminine_singular
 Musekstherapeut/n0f6 po:noun ts:masculine_singular
 Musekstherapie/n4 po:noun ts:feminine_singular
-Musekstrend/l0r0 po:noun ts:masculine_singular
+Musekstrend/n0s4 po:noun ts:masculine_singular
 Museksunterrecht/r0 po:noun ts:masculine_singular
 Museksveräin/r0 po:noun ts:masculine_singular
 Museksvideo/n0 po:noun ts:masculine_singular
@@ -56272,7 +56272,7 @@ Negativlëscht/n0 po:noun ts:feminine_singular
 Negativrekord/n0r0 po:noun ts:masculine_singular
 Negativschlagzeil/n0 po:noun ts:feminine_singular
 Negativsteier po:noun ts:feminine_singular
-Negativtrend/l0r0 po:noun ts:masculine_singular
+Negativtrend/n0s4 po:noun ts:masculine_singular
 Negativwuesstem po:noun ts:masculine_singular
 negéieren/v0X0Y0g1w0 po:verb
 Negéiertes st:negéieren is:adjective is:papa is:es
@@ -65520,6 +65520,8 @@ Präsidentschaftskandidat/n0f6 po:noun ts:masculine_singular
 Praum/n0k7 po:noun ts:feminine_singular
 prävenéieren/v0X0g1w0 po:verb
 Präventioun/n0s0 po:noun ts:feminine_singular
+präventiv/a1b1 po:adjective
+Präventives st:präventiv is:es
 Praxis/n1 po:noun ts:feminine_singular
 praxisbezunn/a0 po:adjective
 Praxisbezunnes st:praxisbezunn is:es
@@ -78861,7 +78863,7 @@ Stëmmungssschwankung/n0 po:noun ts:feminine_singular
 stëmmungstechnesch/a0 po:adjective
 Stëmmungstechnesches st:stëmmungstechnesch is:es
 Stëmmungstest/r0 po:noun ts:masculine_singular
-Stëmmungstrend/l0r0 po:noun ts:masculine_singular
+Stëmmungstrend/n0s4 po:noun ts:masculine_singular
 stëmmungsvoll/b0a0 po:adjective
 Stëmmungsvolles st:stëmmungsvoll is:es
 Stëmmungswiessel/n0 po:noun ts:masculine_singular
@@ -82958,7 +82960,7 @@ trëmmerhaft/b0a0 po:adjective
 Trëmmerhaftes st:trëmmerhaft is:es
 Trëmmerlandschaft/n0 po:noun ts:feminine_singular
 Trëmmerwüüst/n0 po:noun ts:feminine_singular
-Trend/l0r0 po:noun ts:masculine_singular
+Trend/n0s4 po:noun ts:masculine_singular
 Trendanalys/n0 po:noun ts:feminine_singular
 Trëndel/n0 po:noun ts:masculine_singular
 trëndeleg/a0 po:adjective
@@ -88807,7 +88809,7 @@ Vitalismus po:noun ts:masculine_singular
 Vitalitéit/n0 po:noun ts:feminine_singular
 Vitalstoff/r0 po:noun ts:masculine_singular
 Vitaminbomm/n0 po:noun ts:feminine_singular
-Vitaminn/n1 po:noun ts:feminine_singular
+Vitaminn/n0 po:noun ts:feminine_singular
 Vitaminpëll/n0 po:noun ts:feminine_singular
 vitaminräich/b0a0 po:adjective
 Vitaminräiches st:vitaminräich is:es
