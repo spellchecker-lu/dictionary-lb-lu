@@ -232,6 +232,10 @@ afennoss|2
 -|Kakuett
 afennossbotter|1
 -|Kakuettebotter
+affekotenetude|1
+(Varianten)|Affekotenetüd (H.-schr.)
+affekotenetüd|1
+(Varianten)|Affekotenetude (Var.)
 affer|2
 -|Don
 -|Doudesaffer|Sacrifice
@@ -286,6 +290,10 @@ agrafeuse|1
 agraff|2
 -|Bürosklamer|Krämpchen
 -|Heftklamer|Klamer
+agrarstaat|1
+(Varianten)|Agrarstat (Var.)
+agrarstat|1
+(Varianten)|Agrarstaat (H.-schr.)
 agrikultur|1
 -|Akerbau|Landwirtschaft
 agrëff|1
@@ -441,6 +449,10 @@ altersgrenz|1
 -|Pensiounsalter
 altersheem|1
 -|Seniorenheem
+altersmedian|1
+-|Altersmediane
+altersmediane|1
+-|Altersmedian
 alterspensioun|1
 -|Altersrent
 altersrent|1
@@ -546,10 +558,22 @@ anod|1
 -|Pluspol
 anorak|1
 -|Windjack
+antecedant|1
+(Medezin)|Krankegeschicht|Virgeschicht
 antennebësch|1
 (Varianten)|Antennëbësch (Var.)
 antennëbësch|1
 (Varianten)|Antennebësch (H.-schr.)
+antigeen|1
+(Varianten)|Antigen|Antigène
+antigen|1
+(Varianten)|Antigeen|Antigène
+antigène|1
+(Varianten)|Antigen|Antigeen
+antikierperschnelltest|1
+-|Antikierpertest
+antikierpertest|1
+-|Antikierperschnelltest
 antisemitismus|1
 -|Juddenhaass|Juddefeindlechkeet|Judeophobie
 antivol|1
@@ -608,6 +632,12 @@ areal|1
 -|Terrain
 areena|1
 (Varianten)|Arena (Var.)
+areesrestriktioun|1
+-|Areesstopp|Areesverbuet
+areesstopp|1
+-|Areesrestriktioun|Areesverbuet
+areesverbuet|1
+-|Areesstopp|Areesrestriktioun
 arena|1
 (Varianten)|Areena (H.-schr.)
 ariichten|1
@@ -714,6 +744,14 @@ atmosphär|2
 -|Äerdatmosphär
 atomkraaftwierk|1
 (Technik)|Atomzentral
+atomstaat|1
+(Varianten)|Atomstat (Var.)
+atomstat|1
+(Varianten)|Atomstaat (H.-schr.)
+atomwaffestaat|1
+(Varianten)|Atomwaffestat (Var.)
+atomwaffestat|1
+(Varianten)|Atomwaffestaat (H.-schr.)
 atomzentral|1
 (Technik)|Atomkraaftwierk
 atout|1
@@ -751,7 +789,7 @@ ausbildung|1
 ausbléck|1
 -|Vue
 ausbreedung|1
--|Diffusioun
+-|Diffusioun|Verbreedung|Propagatioun
 ausbroch|1
 -|Evasioun|Flucht
 ausdauer|1
@@ -811,6 +849,10 @@ ausnameathlet|1
 (Varianten)|Ausnameathleet (H.-schr.)
 ausnamefall|1
 -|Ausnam|Exceptioun
+ausnamesituatioun|1
+-|Ausnamezoustand
+ausnamezoustand|1
+-|Ausnamesituatioun
 ausried|1
 -|Excuse
 ausrutscher|1
@@ -877,8 +919,9 @@ auteur|1
 -|Schreiwer|Schrëftsteller
 auteursrecht|1
 (Droit)|Copyright|Droit d'auteur
-auto|1
+auto|2
 -|Won|fuerbaren Ënnersaz (ëgs.)|Kar
+-|Bensinner|Bensinnsauto
 autobiografie|1
 (Varianten)|Autobiographie (H.-schr.)
 autobiographie|1
@@ -893,6 +936,8 @@ autocollant|1
 -|Pechbild
 autofuerer|1
 -|Automobilist|Chauffer|Fuerer
+autoisolatioun|1
+(Medezin)|Autoquarantaine|Autoquarantän
 autokratie|1
 -|Elengherrschaft
 automatestatioun|1
@@ -911,6 +956,12 @@ autopsiebericht|1
 -|Autopsierapport
 autopsierapport|1
 -|Autopsiebericht
+autoquarantaine|2
+(Varianten)|Autoquarantän
+(Medezin)|Autoisolatioun|Autoquarantän
+autoquarantän|2
+(Varianten)|Autoquarantaine
+(Medezin)|Autoquarantaine|Autoisolatioun
 autorisatioun|2
 -|Ermächtegung|Geneemegung
 -|Zouloossung
@@ -984,8 +1035,16 @@ awuer|1
 (Varianten)|Awar (H.-schr.)
 awunner|1
 -|Resident
+awunnerstaat|1
+(Varianten)|Awunnerstat (Var.)
+awunnerstat|1
+(Varianten)|Awunnerstaat (H.-schr.)
 awëllegung|1
 -|Erlabnes|Zouso
+ba|1
+-|BA-Aktioun
+ba-aktioun|1
+-|BA
 bd|1
 -|Comic|Comicbuch
 baarmhäerzegkeet|1
@@ -1041,6 +1100,10 @@ bakteriendréier|1
 (Varianten)|Bakteeriendréier (H.-schr.)
 balance|1
 -|Ausgeglachenheet|Gläichgewiicht
+balkanstaat|1
+(Varianten)|Balkanstat (Var.)
+balkanstat|1
+(Varianten)|Balkanstaat (H.-schr.)
 ballek|1
 -|Dunn
 ballerina|1
@@ -1313,6 +1376,8 @@ belaaschtungscritère|1
 (Varianten)|Belaaschtungskrittär (H.-schr.)
 belaaschtungskrittär|1
 (Varianten)|Belaaschtungscritère (Var.)
+belarus|1
+-|Wäissrussland
 beleedegung|1
 (Varianten)|Beleidegung (H.-schr.)
 beleidegung|3
@@ -1350,13 +1415,21 @@ benotzerkont|1
 (Varianten)|Benotzerkonto (Var.)
 benotzerkonto|1
 (Varianten)|Benotzerkont (H.-schr.)
-bensin|2
+bensinn|2
 -|Dreifstoff|Sprit
 -|Essenz
-bensinsstatioun|1
+bensinner|1
+-|Auto|Bensinnsauto
+bensinnsauto|1
+-|Bensinner|Auto
+bensinnsstatioun|1
 -|Tankstell|Tankstatioun|Pompel
 beobachter|1
 -|Observateur
+beootmungsapparat|1
+(Medezin)|Beootmungsmaschinn
+beootmungsmaschinn|1
+(Medezin)|Beootmungsapparat
 bequeemlechkeet|1
 -|Kamouditéit
 berechebarkeet|1
@@ -2065,6 +2138,10 @@ bullett|3
 (Varianten)|Boulette (H.-schr.)
 bundesrepublik däitschland|1
 -|Däitschland
+bundesstaat|1
+(Varianten)|Bundesstat (Var.)
+bundesstat|1
+(Varianten)|Bundesstaat (H.-schr.)
 bungeejumping|1
 -|Bungeesprangen
 bungeesprangen|1
@@ -2569,9 +2646,17 @@ copyright|1
 (Droit)|Auteursrecht|Droit d'auteur
 cornflakes|1
 -|Fruucht
+corona|1
+(Medezin)|Corona-Virus|Coronavirus
+corona-virus|2
+(Medezin)|Coronavirus
+(Medezin)|Corona|Coronavirus
+coronavirus|2
+(Medezin)|Corona-Virus
+(Medezin)|Corona|Corona-Virus
 cortège|2
--|Sprangprëssessioun|Sprangprëssioun
--|Prëssessioun|Prëssioun|Pressioun|Pressessioun
+-|Sprangpressessioun|Sprangprëssioun
+-|Pressessioun|Prëssioun|Pressioun|Pressessioun
 costume|1
 (Varianten)|Kostüm (H.-schr.)
 cotisatioun|1
@@ -2878,6 +2963,10 @@ desorganisatioun|1
 -|Bordell|Duercherneen|Chaos|Onuerdnung
 detail|1
 -|Eenzelheet
+detailetude|1
+(Varianten)|Detailetüd (H.-schr.)
+detailetüd|1
+(Varianten)|Detailetude (Var.)
 deterioratioun|1
 -|Verschlechterung
 determinatioun|1
@@ -2925,7 +3014,7 @@ dier|1
 differenz|1
 -|Ënnerscheed
 diffusioun|1
--|Ausbreedung
+-|Ausbreedung|Verbreedung|Propagatioun
 digestioun|1
 -|Verdauung
 diktat|1
@@ -3116,7 +3205,7 @@ dreckstipp|1
 dreemert|1
 -|Fantast
 dreifstoff|1
--|Bensin|Sprit
+-|Bensinn|Sprit
 dresscode|1
 -|Kleederuerdnung|Etikett
 dressing|1
@@ -3186,6 +3275,10 @@ drénkwaassercapacitéit|1
 (Varianten)|Drénkwaasserkapazitéit (Var.)
 drénkwaasserkapazitéit|1
 (Varianten)|Drénkwaassercapacitéit (H.-schr.)
+drëttstaat|1
+(Varianten)|Drëttstat (Var.)
+drëttstat|1
+(Varianten)|Drëttstaat (H.-schr.)
 duc|1
 -|Herzog
 duch|3
@@ -3326,6 +3419,12 @@ ecran|1
 -|Bildschierm|Paravent|Schierm
 edelgas|1
 (Varianten)|Eedelgas (H.-schr.)
+edelmetall|1
+(Varianten)|Eedelmetall (H.-schr.)
+edelsteen|1
+(Varianten)|Eedelsteen (H.-schr.)
+edelwäissgirland|1
+(Varianten)|Eedelwäissgirland (H.-schr.)
 editeur|1
 -|Verleeër
 editioun|2
@@ -3337,6 +3436,12 @@ educatioun|1
 -|Erzéiung
 eedelgas|1
 (Varianten)|Edelgas (Var.)
+eedelmetall|1
+(Varianten)|Edelmetall (Var.)
+eedelsteen|1
+(Varianten)|Edelsteen (Var.)
+eedelwäissgirland|1
+(Varianten)|Edelwäissgirland (Var.)
 eefalt|2
 -|Dabo (ëgs.)|Topert|Dommen|Blani (ëgs.)|Hännes (ëgs.)|Blöden|Dëlpes (ëgs.)|Dräibiz (ëgs.)|Blödian|Idiot|Hauli|Halwerweis|Nikki (ëgs.)|Pitti (ëgs.)|Nossi
 -|Dommheet
@@ -3381,16 +3486,22 @@ eenegung|1
 eenheet|2
 -|Unitéit
 -|Cellule
+eenheetsstaat|1
+(Varianten)|Eenheetsstat (Var.)
+eenheetsstat|1
+(Varianten)|Eenheetsstaat (H.-schr.)
 eenzelheet|1
 -|Detail
+eenzelstaat|1
+(Varianten)|Eenzelstat (Var.)
+eenzelstat|1
+(Varianten)|Eenzelstaat (H.-schr.)
 eenzuel|1
 -|Singulier
 eeschthaftegkeet|1
 -|Seriositéit
 eether|1
 (Varianten)|Ether (Var.)
-eethereum|1
-(Varianten)|Ethereum (Var.)
 eethik|1
 (Varianten)|Ethik (Var.)
 eethikcode|1
@@ -3419,8 +3530,15 @@ effekt|2
 (Varianten)|Effet
 effet|1
 (Varianten)|Effekt
+efficacitéitsetude|1
+(Varianten)|Effikassitéitsetüd (H.-schr.)
 effikassitéit|1
 -|Leeschtungsfäegkeet|Effizienz
+effikassitéitsetude|1
+(Varianten)|Effikassitéitsetüd (H.-schr.)
+effikassitéitsetüd|2
+(Varianten)|Efficacitéitsetude (Var.)
+(Varianten)|Effikassitéitsetude (Var.)
 effizienz|1
 -|Effikassitéit|Leeschtungsfäegkeet
 effort|1
@@ -3441,8 +3559,6 @@ eileseech|1
 -|Schluutjen|Spullwaasser
 einsamkeet|1
 -|Verloossenheet
-eischen|1
-(Uertschaftsnimm)|Äischen
 eisebinnert|1
 -|Eisebunner|Intebinnert
 eisebunner|1
@@ -3507,6 +3623,10 @@ ekologist|1
 -|Ekolog|Ëmweltschützer|Ëmweltaktivist
 ekonomie|1
 (Ekonomie)|Wirtschaft
+ekonomiesetude|1
+(Varianten)|Ekonomiesetüd (H.-schr.)
+ekonomiesetüd|1
+(Varianten)|Ekonomiesetude (Var.)
 ektohormon|1
 -|Pheromon
 elan|1
@@ -3838,7 +3958,7 @@ eschweiler|1
 espoir|1
 -|Hoffnung
 essenz|2
--|Bensin
+-|Bensinn
 -|Extrakt
 estimatioun|2
 -|Berechebarkeet|Héichrechnung
@@ -3850,8 +3970,6 @@ etagère|1
 -|Kréibänk|Regal
 ether|1
 (Varianten)|Eether (H.-schr.)
-ethereum|1
-(Varianten)|Eethereum (H.-schr.)
 ethik|1
 (Varianten)|Eethik (H.-schr.)
 ethikcode|1
@@ -3872,15 +3990,23 @@ etikett|3
 -|Schëld
 -|Protokoll
 -|Dresscode|Kleederuerdnung
+etude|2
+-|Studie|Etüd|Studium
+(Varianten)|Etüd (H.-schr.)
 etui|1
 -|Scheek
-etüd|2
--|Studie|Studium
+etüd|3
+(Varianten)|Etude (Var.)
+-|Etude|Studie|Studium
 -|Studie
 eucharistie|1
 -|Owesmoolzecht
 euphorie|1
 -|Freed|Gléck|Begeeschterung|Enthusiasmus (fachspr.)
+euromemberstaat|1
+(Varianten)|Euromemberstat (Var.)
+euromemberstat|1
+(Varianten)|Euromemberstaat (H.-schr.)
 europa-parlament|1
 (Politik)|Europäescht Parlament
 europaekipp|1
@@ -3897,12 +4023,22 @@ europhobie|1
 -|Europafeindlechkeet
 europäescht parlament|1
 (Politik)|Europa-Parlament
+eurostaat|1
+(Varianten)|Eurostar|Eurostat (Var.)
+eurostar|1
+(Varianten)|Eurostaat (H.-schr.)|Eurostat (Var.)
+eurostat|1
+(Varianten)|Eurostaat (H.-schr.)|Eurostar
 evaluatioun|1
 -|Bewäertung
 evaluatiounsbericht|1
 -|Evaluatiounsrapport
 evaluatiounscritère|1
 (Varianten)|Evaluatiounskrittär (H.-schr.)
+evaluatiounsetude|1
+(Varianten)|Evaluatiounsetüd (H.-schr.)
+evaluatiounsetüd|1
+(Varianten)|Evaluatiounsetude (Var.)
 evaluatiounskrittär|1
 (Varianten)|Evaluatiounscritère (Var.)
 evaluatiounsrapport|1
@@ -4064,10 +4200,6 @@ facepainting|1
 -|Gesiichtsmolerei
 fach|1
 -|Case
-fachchineesesch|1
-(Varianten)|Fachchinesesch (Var.)
-fachchinesesch|1
-(Varianten)|Fachchineesesch (H.-schr.)
 fachmann|2
 -|Expert
 -|Spezialist
@@ -4091,6 +4223,10 @@ fahrschoul|2
 (Varianten)|Farschoul (Var.)
 faillite|1
 -|Bankrott
+faisabilitéitsetude|1
+(Varianten)|Faisabilitéitsetüd (H.-schr.)
+faisabilitéitsetüd|1
+(Varianten)|Faisabilitéitsetude (Var.)
 fal|1
 -|Rompel|Ronschel
 fall|1
@@ -4116,8 +4252,11 @@ fank|1
 fantasie|2
 -|Imaginatioun|Virstellung
 -|Abildung
-fantasiestaat|1
+fantasiestaat|2
 -|Schäistaat|Mikronatioun
+(Varianten)|Fantasiestat (Var.)
+fantasiestat|1
+(Varianten)|Fantasiestaat (H.-schr.)
 fantast|1
 -|Dreemert
 farce|2
@@ -4682,6 +4821,10 @@ fräiraum|1
 -|Plaz|Ofstand
 fräischaltung|1
 -|Aktivéierung
+fräistaat|1
+(Varianten)|Fräistat (Var.)
+fräistat|1
+(Varianten)|Fräistaat (H.-schr.)
 fräizügegkeet|1
 -|Generositéit|Mëtschgiewegkeet
 fräsch|1
@@ -4999,6 +5142,10 @@ geheimniskréimerei|1
 -|Geheechneskréimerei
 geheimorganisatioun|1
 -|Ënnergrondorganisatioun
+gehälteretude|1
+(Varianten)|Gehälteretüd (H.-schr.)
+gehälteretüd|1
+(Varianten)|Gehälteretude (Var.)
 gehälterprobleem|1
 (Varianten)|Gehälterproblem (Var.)
 gehälterproblem|1
@@ -5162,8 +5309,16 @@ geräisch|1
 -|Kaméidi|Koméidi
 gesamtcapacitéit|1
 (Varianten)|Gesamtkapazitéit (Var.)
+gesamtetude|1
+(Varianten)|Gesamtetüd (H.-schr.)
+gesamtetüd|1
+(Varianten)|Gesamtetude (Var.)
 gesamtkapazitéit|1
 (Varianten)|Gesamtcapacitéit (H.-schr.)
+gesamtstaat|1
+(Varianten)|Gesamtstat (Var.)
+gesamtstat|1
+(Varianten)|Gesamtstaat (H.-schr.)
 gesangsveräin|1
 -|Kierchechouer
 gesank|2
@@ -5389,6 +5544,10 @@ goldbuttek|1
 golfcaddy|2
 -|Caddy|Akafswon
 -|Caddy
+golfstaat|1
+(Varianten)|Golfstat (Var.)
+golfstat|1
+(Varianten)|Golfstaat (H.-schr.)
 golkipp|1
 -|Goalkeeper
 gonscht|1
@@ -5399,6 +5558,10 @@ gotteshaus|1
 -|Kierch
 gotteslästerung|1
 -|Blasphemie
+gottesstaat|1
+(Varianten)|Gottesstat (Var.)
+gottesstat|1
+(Varianten)|Gottesstaat (H.-schr.)
 goudron|1
 -|Godrong
 gouldvillchen|1
@@ -5510,6 +5673,10 @@ gréisst|1
 -|Taille
 grëndlechkeet|1
 -|Akribie|Prezisioun
+grënnerstaat|1
+(Varianten)|Grënnerstat (Var.)
+grënnerstat|1
+(Varianten)|Grënnerstaat (H.-schr.)
 grënnung|1
 -|Fondatioun
 grënnungssyndicat|1
@@ -5570,6 +5737,10 @@ géigenekipp|1
 (Varianten)|Géigenequipe (Var.)
 géigenequipe|1
 (Varianten)|Géigenekipp (H.-schr.)
+géigenetude|1
+(Varianten)|Géigenetüd (H.-schr.)
+géigenetüd|1
+(Varianten)|Géigenetude (Var.)
 géigerevolutioun|1
 -|Konterrevolutioun
 géigesaz|1
@@ -5802,6 +5973,10 @@ heemechtspar|1
 (Varianten)|Heemechtspor
 heemechtspor|1
 (Varianten)|Heemechtspar
+heemechtsstaat|1
+(Varianten)|Heemechtsstat (Var.)
+heemechtsstat|1
+(Varianten)|Heemechtsstaat (H.-schr.)
 heemekipp|1
 (Varianten)|Heemequipe (Var.)
 heemelmaus|1
@@ -5818,6 +5993,10 @@ heesprénger|1
 (Zoologie)|Grill|Heemelmaus
 heftklamer|1
 -|Klamer|Agraff
+hegemonialstaat|1
+(Varianten)|Hegemonialstat (Var.)
+hegemonialstat|1
+(Varianten)|Hegemonialstaat (H.-schr.)
 heip|1
 (Varianten)|Häip (H.-schr.)
 heisdorf|1
@@ -6235,6 +6414,10 @@ immobiliëvendeur|1
 -|Immobiliëverkeefer
 immobiliëverkeefer|1
 -|Immobiliëvendeur
+impaktetude|1
+(Varianten)|Impaktetüd (H.-schr.)
+impaktetüd|1
+(Varianten)|Impaktetude (Var.)
 impertinenz|1
 -|Frechheet
 impfpass|1
@@ -6275,6 +6458,14 @@ industrialisatioun|1
 -|Industrialiséierung
 industrialiséierung|1
 -|Industrialisatioun
+industrieetude|1
+(Varianten)|Industrieetüd (H.-schr.)
+industrieetüd|1
+(Varianten)|Industrieetude (Var.)
+industriestaat|1
+(Varianten)|Industriestat (Var.)
+industriestat|1
+(Varianten)|Industriestaat (H.-schr.)
 inegalitéit|1
 -|Ongläichheet
 infarkt|1
@@ -6315,6 +6506,10 @@ insektizid|1
 -|Sprëtzmëttel
 inselgrupp|1
 -|Archipel
+inselstaat|1
+(Varianten)|Inselstat (Var.)
+inselstat|1
+(Varianten)|Inselstaat (H.-schr.)
 installatioun|2
 -|Ariichtung
 -|Abau
@@ -6510,6 +6705,10 @@ iwwerwaachungsequipe|1
 (Varianten)|Iwwerwaachungsekipp (H.-schr.)
 iwwerwaachungsrot|1
 -|Opsiichtsrot
+iwwerwaachungsstaat|1
+(Varianten)|Iwwerwaachungsstat (Var.)
+iwwerwaachungsstat|1
+(Varianten)|Iwwerwaachungsstaat (H.-schr.)
 iwwerweisung|1
 -|Virement
 iwwerzeegung|1
@@ -6801,6 +7000,10 @@ kar|1
 -|Auto|Won|fuerbaren Ënnersaz (ëgs.)
 kardiolog|1
 -|Häerzspezialist|Häerzdokter
+karibikstaat|1
+(Varianten)|Karibikstat (Var.)
+karibikstat|1
+(Varianten)|Karibikstaat (H.-schr.)
 karmësch|1
 -|Mësch|Spatz|Spaz
 karnivor|1
@@ -6896,6 +7099,10 @@ kierchechouer|1
 -|Gesangsveräin
 kierchen|1
 -|Basbellain
+kierchestaat|1
+(Varianten)|Kierchestat (Var.)
+kierchestat|1
+(Varianten)|Kierchestaat (H.-schr.)
 kiermes|2
 -|Dëppefest
 -|Fouer
@@ -6927,38 +7134,6 @@ kilo|1
 -|Kilogramm
 kilogramm|1
 -|Kilo
-kilomeetercarré|1
-(Varianten)|Kilometercarré (Var.)
-kilomeetercompteur|1
-(Varianten)|Kilometercompteur (Var.)
-kilomeetergeld|1
-(Varianten)|Kilometergeld (Var.)
-kilomeeterkaree|1
-(Varianten)|Kilometerkaree (Var.)
-kilomeeterpauschal|1
-(Varianten)|Kilometerpauschal (Var.)
-kilomeeterstand|1
-(Varianten)|Kilometerstand (Var.)
-kilomeetersteen|1
-(Varianten)|Kilometersteen (Var.)
-kilomeeterzieler|1
-(Varianten)|Kilometerzieler (Var.)
-kilometercarré|1
-(Varianten)|Kilomeetercarré (H.-schr.)
-kilometercompteur|1
-(Varianten)|Kilomeetercompteur (H.-schr.)
-kilometergeld|1
-(Varianten)|Kilomeetergeld (H.-schr.)
-kilometerkaree|1
-(Varianten)|Kilomeeterkaree (H.-schr.)
-kilometerpauschal|1
-(Varianten)|Kilomeeterpauschal (H.-schr.)
-kilometerstand|1
-(Varianten)|Kilomeeterstand (H.-schr.)
-kilometersteen|1
-(Varianten)|Kilomeetersteen (H.-schr.)
-kilometerzieler|1
-(Varianten)|Kilomeeterzieler (H.-schr.)
 kinneksberoder|1
 -|Kinneksconseiller
 kinneksconseiller|1
@@ -7022,6 +7197,10 @@ klengbiergertum|1
 -|Klengbourgeoisie
 klengbourgeoisie|1
 -|Klengbiergertum
+klengstaat|1
+(Varianten)|Klengstat (Var.)
+klengstat|1
+(Varianten)|Klengstaat (H.-schr.)
 klimaanlag|1
 -|Klimatisatioun
 klimaprobleem|1
@@ -7211,6 +7390,10 @@ konferenz|1
 -|Diskussioun|Bespriechung
 konfiguratioun|1
 -|Configuratioun
+konfliktstaat|1
+(Varianten)|Konfliktstat (Var.)
+konfliktstat|1
+(Varianten)|Konfliktstaat (H.-schr.)
 konfrontatioun|1
 -|Géintiwwerstellung
 konfusioun|1
@@ -7407,6 +7590,8 @@ krack|1
 -|Sprong|Rass
 kraider|1
 -|Gewürz
+krankegeschicht|1
+(Medezin)|Antecedant|Virgeschicht
 krankeschwëster|1
 -|Infirmière
 krankheet|1
@@ -7450,6 +7635,10 @@ kriibskrankheet|1
 -|Kriibs
 kriibstraitement|1
 -|Kriibsbehandlung
+krisestaat|1
+(Varianten)|Krisestat (Var.)
+krisestat|1
+(Varianten)|Krisestaat (H.-schr.)
 kritik|1
 -|Rezensioun
 krittär|1
@@ -7506,6 +7695,10 @@ kulturdenkmal|1
 -|Kulturmonument
 kulturmonument|1
 -|Kulturdenkmal
+kulturstaat|1
+(Varianten)|Kulturstat (Var.)
+kulturstat|1
+(Varianten)|Kulturstaat (H.-schr.)
 kummer|1
 -|Zëmmer
 kuriositéit|2
@@ -7572,6 +7765,10 @@ laanglaf|1
 -|Laangstreckelaf
 laangstreckelaf|1
 -|Laanglaf
+laangzäitetude|1
+(Varianten)|Laangzäitetüd (H.-schr.)
+laangzäitetüd|1
+(Varianten)|Laangzäitetude (Var.)
 laascht|2
 -|Belaaschtung|Zentnerlaascht
 -|Charge
@@ -8162,6 +8359,10 @@ margarine|1
 (Varianten)|Margarinn (Var.)
 margarinn|1
 (Varianten)|Margarine (H.-schr.)
+marionettestaat|1
+(Varianten)|Marionettestat (Var.)
+marionettestat|1
+(Varianten)|Marionettestaat (H.-schr.)
 marketingstrateeg|1
 (Varianten)|Marketingstrateg (Var.)
 marketingstrateg|1
@@ -8243,6 +8444,10 @@ medail|1
 -|Dekoratioun|Gielchen|Uerden
 medezin|1
 -|Medikament
+median|1
+-|Mediane
+mediane|1
+-|Median
 mediateur|1
 -|Vermëttler
 mediateursroll|1
@@ -8296,6 +8501,10 @@ meldung|2
 -|Informatioun
 memberschaft|1
 -|Affiliatioun
+memberstaat|1
+(Varianten)|Memberstat (Var.)
+memberstat|1
+(Varianten)|Memberstaat (H.-schr.)
 mentalitéitsprobleem|1
 (Varianten)|Mentalitéitsproblem (Var.)
 mentalitéitsproblem|1
@@ -8359,6 +8568,10 @@ mikrochip|1
 -|Chip|Flou
 mikronatioun|1
 -|Schäistaat|Fantasiestaat
+mikrostaat|1
+(Varianten)|Mikrostat (Var.)
+mikrostat|1
+(Varianten)|Mikrostaat (H.-schr.)
 milimeeterentscheedung|1
 (Varianten)|Milimeterentscheedung (Var.)
 milimeterentscheedung|1
@@ -8373,6 +8586,10 @@ milleflippert|1
 (Zoologie)|Mëllerchen|Millermoler|Päiperlek|Papillon|Flippert (veraalt)|Millack (veraalt)
 millermoler|1
 (Zoologie)|Mëllerchen|Päiperlek|Papillon|Flippert (veraalt)|Milleflippert (veraalt)|Millack (veraalt)
+milliardestaat|1
+(Varianten)|Milliardestat (Var.)
+milliardestat|1
+(Varianten)|Milliardestaat (H.-schr.)
 millimeeterpabeier|1
 (Varianten)|Millimeterpabeier (Var.)
 millimeterpabeier|1
@@ -8782,6 +8999,10 @@ nationalhoufert|1
 -|Nationalstolz
 nationalkommitee|1
 (Varianten)|Nationalcomité (H.-schr.)
+nationalstaat|1
+(Varianten)|Nationalstat (Var.)
+nationalstat|1
+(Varianten)|Nationalstaat (H.-schr.)
 nationalstolz|1
 -|Nationalhoufert
 natter|1
@@ -8936,6 +9157,10 @@ nonn|1
 -|Schwëster
 nonsens|1
 -|Chichi|Fisematenten|Onsënn|Quatsch|Kabes (ëgs.)|Kéis (ëgs.)|Larifari|Blabla|Mumpitz|Dommheet
+nopeschstaat|1
+(Varianten)|Nopeschstat (Var.)
+nopeschstat|1
+(Varianten)|Nopeschstaat (H.-schr.)
 nordstadsyndicat|1
 (Varianten)|Nordstadsyndikat (H.-schr.)
 nordstadsyndikat|1
@@ -9250,6 +9475,10 @@ onlineabonement|1
 (Varianten)|Onlineabonnement (H.-schr.)
 onlineabonnement|1
 (Varianten)|Onlineabonement (Var.)
+onlineetude|1
+(Varianten)|Onlineetüd (H.-schr.)
+onlineetüd|1
+(Varianten)|Onlineetude (Var.)
 onmass|1
 -|Onmeng
 onmeng|1
@@ -9411,6 +9640,10 @@ orthophonist|1
 (Varianten)|Orthofonist (Var.)
 osterborn|1
 -|Scheierhaff|Scheuerhof|Zolwer
+oststaat|1
+(Varianten)|Oststat (Var.)
+oststat|1
+(Varianten)|Oststaat (H.-schr.)
 otemcapacitéit|1
 (Varianten)|Otemkapazitéit (Var.)
 otemkapazitéit|1
@@ -9472,6 +9705,10 @@ paiement|1
 -|Bezuelung
 paillasson|1
 -|Stréimatt
+palestinenserstaat|1
+(Varianten)|Palestinenserstat (Var.)
+palestinenserstat|1
+(Varianten)|Palestinenserstaat (H.-schr.)
 paltong|2
 -|Jackett
 -|Sakko
@@ -9551,6 +9788,10 @@ partikularitéit|1
 -|Eegenaart|Eegenheet|Particularitéit|Besonneschkeet
 partner|1
 -|Associé
+partnerstaat|1
+(Varianten)|Partnerstat (Var.)
+partnerstat|1
+(Varianten)|Partnerstaat (H.-schr.)
 party|1
 -|Soirée|Fest|Feier|Fiesta
 parverband|1
@@ -9868,6 +10109,10 @@ policeexercice|1
 -|Policeübung
 policerapport|1
 -|Policebericht
+policestaat|1
+(Varianten)|Policestat (Var.)
+policestat|1
+(Varianten)|Policestaat (H.-schr.)
 policesyndicat|1
 (Varianten)|Policesyndikat (H.-schr.)
 policesyndikat|1
@@ -9887,7 +10132,7 @@ polver|1
 pommad|1
 -|Sallef|Schmier
 pompel|1
--|Bensinsstatioun|Tankstell|Tankstatioun
+-|Bensinnsstatioun|Tankstell|Tankstatioun
 pompjeesauto|1
 -|Pompjeeswon
 pompjeeswon|1
@@ -10031,9 +10276,11 @@ pressecommuniqué|1
 pressematdeelung|1
 -|Pressecommuniqué
 pressessioun|1
--|Cortège|Prëssessioun|Prëssioun|Pressioun
+-|Cortège|Pressessioun|Prëssioun|Pressioun
+pressessioun|1
+-|Cortège|Prëssioun|Pressioun|Pressessioun
 pressioun|1
--|Cortège|Prëssessioun|Prëssioun|Pressessioun
+-|Cortège|Pressessioun|Prëssioun|Pressessioun
 pretentioun|1
 -|Vermessenheet
 preuve|1
@@ -10163,6 +10410,8 @@ promotiounskrittär|1
 (Varianten)|Promotiounscritère (Var.)
 pronatalismus|1
 -|Natalismus
+propagatioun|1
+-|Diffusioun|Ausbreedung|Verbreedung
 propeller|1
 (Varianten)|Probeller (Var.)
 propheet|1
@@ -10238,10 +10487,8 @@ präventioun|1
 präzedenzfall|2
 (Varianten)|Prezedenzfall (Var.)
 (Varianten)|Prezedenzfall (Var.)
-prëssessioun|1
--|Cortège|Prëssioun|Pressioun|Pressessioun
 prëssioun|1
--|Cortège|Prëssessioun|Pressioun|Pressessioun
+-|Cortège|Pressessioun|Pressioun|Pressessioun
 prüfung|1
 -|Epreuve|Examen
 pseudoprobleem|1
@@ -10581,6 +10828,10 @@ rechtsprobleem|1
 (Varianten)|Rechtsproblem (Var.)
 rechtsproblem|1
 (Varianten)|Rechtsprobleem (H.-schr.)
+rechtsstaat|1
+(Varianten)|Rechtsstat (Var.)
+rechtsstat|1
+(Varianten)|Rechtsstaat (H.-schr.)
 reconciliatioun|1
 -|Versönung
 recours|1
@@ -10650,6 +10901,10 @@ regierungsequipe|1
 (Varianten)|Regierungsekipp (H.-schr.)
 regierungserklärung|1
 -|Regierungsdeklaratioun
+regierungsetude|1
+(Varianten)|Regierungsetüd (H.-schr.)
+regierungsetüd|1
+(Varianten)|Regierungsetude (Var.)
 regierungsform|1
 -|Regime|Regimm
 regierungsprobleem|1
@@ -11107,6 +11362,10 @@ sarg|1
 -|Doudelued|Lued
 sarkasmus|1
 -|Bëssegkeet
+satellittestaat|1
+(Varianten)|Satellittestat (Var.)
+satellittestat|1
+(Varianten)|Satellittestaat (H.-schr.)
 satisfaktioun|1
 -|Zefriddenheet|Gléck
 sauerei|1
@@ -11487,6 +11746,10 @@ schoulausflug|1
 (Varianten)|Schoulausfluch (Var.)
 schoulbuch|1
 -|Handbuch|Léierbuch
+schouletude|1
+(Varianten)|Schouletüd (H.-schr.)
+schouletüd|1
+(Varianten)|Schouletude (Var.)
 schoulhaff|1
 -|Preau
 schoulprobleem|1
@@ -11652,8 +11915,11 @@ schäin|1
 -|Aussinn|Uschäin
 schäissméck|1
 -|Fleeschméck
-schäistaat|1
+schäistaat|2
 -|Mikronatioun|Fantasiestaat
+(Varianten)|Schäistat (Var.)
+schäistat|1
+(Varianten)|Schäistaat (H.-schr.)
 schätzung|2
 -|Appreciatioun|Bewäertung
 -|Estimatioun
@@ -11986,6 +12252,10 @@ sozialprobleem|1
 (Varianten)|Sozialproblem (Var.)
 sozialproblem|1
 (Varianten)|Sozialprobleem (H.-schr.)
+sozialstaat|1
+(Varianten)|Sozialstat (Var.)
+sozialstat|1
+(Varianten)|Sozialstaat (H.-schr.)
 sozialverhalen|1
 -|Sozialbehuelen
 sozialwunnecht|1
@@ -12111,10 +12381,10 @@ spoun|1
 -|Huwwelspoun
 sprangbriet|1
 -|Sprangschanz
-sprangprëssessioun|1
+sprangpressessioun|1
 -|Sprangprëssioun|Cortège
 sprangprëssioun|1
--|Sprangprëssessioun|Cortège
+-|Sprangpressessioun|Cortège
 sprangschanz|1
 -|Sprangbriet
 spriecher|1
@@ -12126,7 +12396,7 @@ sprinterekipp|1
 sprinterequipe|1
 (Varianten)|Sprinterekipp (H.-schr.)
 sprit|1
--|Bensin|Dreifstoff
+-|Bensinn|Dreifstoff
 sprong|1
 -|Krack|Rass
 spronk|1
@@ -12230,6 +12500,8 @@ staang|3
 -|Bengel
 -|Mast|Zeltstaang
 -|Rudderstaang
+staat|1
+(Varianten)|Stat (Var.)
 staatsarchiv|1
 -|Archiv
 staatsbesuch|1
@@ -12316,6 +12588,8 @@ starterlabnis|1
 (Varianten)|Starterlabnes
 startup|1
 (Varianten)|Start-up (H.-schr.)
+stat|1
+(Varianten)|Staat (H.-schr.)
 statioun|1
 -|Arrêt|Halt|Haltestell|Stopp
 statut|1
@@ -12513,10 +12787,10 @@ studentenabonement|1
 studentenabonnement|1
 (Varianten)|Studentenabonement (Var.)
 studie|2
--|Etüd|Studium
+-|Etude|Etüd|Studium
 -|Etüd
 studium|1
--|Studie|Etüd
+-|Etude|Studie|Etüd
 stuel|1
 -|Modell|Musterbeispill|Virbild
 stuerm|1
@@ -12622,6 +12896,10 @@ superioritéit|1
 -|Iwwerleeënheet
 supermound|1
 -|Syzygie|Supervollmound
+superstaat|1
+(Varianten)|Superstat (Var.)
+superstat|1
+(Varianten)|Superstaat (H.-schr.)
 supervollmound|1
 -|Syzygie|Supermound (ëgs.)
 supp|1
@@ -12765,6 +13043,10 @@ sëtzuerdnung|1
 sëtzung|2
 -|Reunioun|Versammlung
 -|Virstellung
+südstaat|1
+(Varianten)|Südstat (Var.)
+südstat|1
+(Varianten)|Südstaat (H.-schr.)
 südsudanees|1
 (Varianten)|Südsudanes (Var.)
 südsudanes|1
@@ -12825,11 +13107,15 @@ tank|1
 tanker|1
 -|Pëtrolstanker
 tankstatioun|1
--|Bensinsstatioun|Tankstell|Pompel
+-|Bensinnsstatioun|Tankstell|Pompel
 tankstell|1
--|Bensinsstatioun|Tankstatioun|Pompel
+-|Bensinnsstatioun|Tankstatioun|Pompel
 tanktourismus|1
 (Varianten)|Tanktourissem
+tanktourismusetude|1
+(Varianten)|Tanktourismusetüd (H.-schr.)
+tanktourismusetüd|1
+(Varianten)|Tanktourismusetude (Var.)
 tanktourissem|1
 (Varianten)|Tanktourismus
 tapis plein|1
@@ -12952,6 +13238,10 @@ terrorismusproblem|1
 (Varianten)|Terrorismusprobleem (H.-schr.)
 terrorissem|1
 (Varianten)|Terrorismus
+terroristestaat|1
+(Varianten)|Terroristestat (Var.)
+terroristestat|1
+(Varianten)|Terroristestaat (H.-schr.)
 test|1
 -|Versuch
 testcritère|1
@@ -13480,6 +13770,10 @@ urspelt|1
 -|Ischpelt
 ursprong|1
 -|Origine|Hierkonft
+ursprongsstaat|1
+(Varianten)|Ursprongsstat (Var.)
+ursprongsstat|1
+(Varianten)|Ursprongsstaat (H.-schr.)
 urtheema|1
 (Varianten)|Urthema (Var.)
 urthema|1
@@ -13612,6 +13906,10 @@ variatioun|1
 -|Ofwiesslung
 vas|1
 -|Schlamm
+vatikanstaat|1
+(Varianten)|Vatikanstat (Var.)
+vatikanstat|1
+(Varianten)|Vatikanstaat (H.-schr.)
 veen|1
 (Varianten)|Ven (H.-schr.)
 veeneklapp|1
@@ -13668,6 +13966,8 @@ verbrauch|1
 -|Consommatioun|Konsum
 verbraucher|1
 -|Client|Konsument
+verbreedung|1
+-|Diffusioun|Ausbreedung|Propagatioun
 verbriechen|1
 -|Crime|Strofdot
 verbuet|1
@@ -13939,6 +14239,10 @@ villfalt|1
 -|Diversitéit
 villsproochegkeet|1
 -|Méisproochegkeet|Multilinguismus
+villvëlkerstaat|1
+(Varianten)|Villvëlkerstat (Var.)
+villvëlkerstat|1
+(Varianten)|Villvëlkerstaat (H.-schr.)
 villzuel|1
 -|Multiplizitéit
 vinotherapie|1
@@ -13983,8 +14287,9 @@ virgab|1
 -|Prämiss
 virgank|1
 -|Ereegnes|Evenement|Virfall|Tëschefall|Episod
-virgeschicht|1
+virgeschicht|2
 -|Prehistorie
+(Medezin)|Krankegeschicht|Antecedant
 virgeschmaach|1
 -|Avant-goût
 virgrond|1
@@ -14453,6 +14758,8 @@ wollefshond|1
 -|Schéiferhond
 wolper|1
 -|Wuelper
+wolz|1
+(Uertschaftsnimm)|Wooltz
 won|1
 -|Auto|fuerbaren Ënnersaz (ëgs.)|Kar
 wonn|2
@@ -14460,6 +14767,8 @@ wonn|2
 -|Plo
 wonnerwierk|1
 -|Prachtexemplar|Weltwonner
+wooltz|1
+(Uertschaftsnimm)|Wolz
 wouerecht|1
 (Varianten)|Wourecht (Var.)
 wouerechtsgehalt|1
@@ -14478,6 +14787,10 @@ wourechtstabell|1
 (Varianten)|Wouerechtstabell (H.-schr.)
 wouscht|1
 -|Räbbi|Kreemchen|Krom|Buttek
+wuelfaartsstaat|1
+(Varianten)|Wuelfaartsstat (Var.)
+wuelfaartsstat|1
+(Varianten)|Wuelfaartsstaat (H.-schr.)
 wuelper|1
 -|Wolper
 wuelstand|1
@@ -14549,6 +14862,8 @@ wäirauch|1
 (Varianten)|Weirauch (Var.)
 wäisheet|1
 (Varianten)|Weisheet
+wäissrussland|1
+-|Belarus
 wäitsprong|1
 -|Wäitspronk
 wäitspronk|1
@@ -14593,6 +14908,10 @@ wüüstefochs|1
 (Zoologie)|Wüüstefuuss
 wüüstefuuss|1
 (Zoologie)|Wüüstefochs
+wüüstestaat|1
+(Varianten)|Wüüstestat (Var.)
+wüüstestat|1
+(Varianten)|Wüüstestaat (H.-schr.)
 xenophobie|1
 -|Auslännerfeindlechkeet|Auslännerhaass|Friemefeindlechkeet|Friemenhaass
 zaang|1
@@ -14661,6 +14980,10 @@ zentimetercarré|1
 (Varianten)|Zentimeetercarré (H.-schr.)
 zentnerlaascht|1
 -|Belaaschtung|Laascht
+zentralstaat|1
+(Varianten)|Zentralstat (Var.)
+zentralstat|1
+(Varianten)|Zentralstaat (H.-schr.)
 zentréierschlëssel|1
 (Technik)|Nippelspaner
 zerjant|1
@@ -14706,8 +15029,6 @@ zil|3
 (Sport)|Arrivée
 -|Zweck|But
 -|Intentioun|Virsaz
-zilinder|1
--|Zylinder
 zilscheif|1
 -|Scheif
 zinniklos|1
@@ -14842,10 +15163,6 @@ zweedeeler|1
 -|Dilogie
 zweedeitegkeet|1
 -|Ambiguitéit
-zweemeeterfra|1
-(Varianten)|Zweemeterfra (Var.)
-zweemeterfra|1
-(Varianten)|Zweemeeterfra (H.-schr.)
 zweesproochegkeet|1
 -|Bilingualismus
 zwiback|1
@@ -14858,8 +15175,6 @@ zwäig|1
 -|Aascht|Fachrichtung
 zwéck|1
 -|Zaang
-zylinder|1
--|Zilinder
 zäitalter|1
 -|Ära
 zäitlimite|1
@@ -15606,8 +15921,9 @@ ausbilden|1
 -|bilden|forméieren|formen|gestalten
 ausbommen|1
 -|bombardéieren|zerbommen
-ausbreeden|1
+ausbreeden|2
 -|spanen
+-|verdeelen|propagéieren|diffuséieren
 ausbrucken|1
 -|bréien|brucken|brutzelen
 ausbueren|1
@@ -16239,7 +16555,7 @@ benéidegen|1
 -|brauchen
 beobachten|1
 -|observéieren
-bequem|1
+bequeem|1
 -|gemittlech|molleg
 berappen|1
 -|blechen
@@ -16757,20 +17073,8 @@ chic|1
 -|elegant|schick
 chiffréieren|1
 -|verschlësselen|encodéieren
-chileenesch|1
-(Varianten)|chilenesch (Var.)
-chilenesch|1
-(Varianten)|chileenesch (H.-schr.)
 chillen|1
 -|ofhänken (ëgs.)|squatten (ëgs.)|entspanen
-chineesesch|1
-(Varianten)|chinesesch (Var.)
-chineeseschsproocheg|1
-(Varianten)|chineseschsproocheg (Var.)
-chinesesch|1
-(Varianten)|chineesesch (H.-schr.)
-chineseschsproocheg|1
-(Varianten)|chineeseschsproocheg (H.-schr.)
 chirurgesch|1
 -|operativ
 chloren|1
@@ -17213,6 +17517,8 @@ dierflech|1
 -|rustikal|ländlech
 differenzéieren|1
 -|ënnerscheeden
+diffuséieren|1
+-|ausbreeden|verdeelen|propagéieren
 digeréieren|1
 -|verdauen
 diichten|1
@@ -20011,7 +20317,7 @@ gemetert|1
 (Varianten)|gemeetert (H.-schr.)
 gemittlech|2
 -|schéin|agreabel
--|bequem|molleg
+-|bequeem|molleg
 gemächlech|1
 -|bedächteg|gemälleg
 gemälleg|1
@@ -20738,10 +21044,6 @@ indiskreet|1
 (Varianten)|indiskret (Var.)
 indiskret|1
 (Varianten)|indiskreet (H.-schr.)
-indochineesesch|1
-(Varianten)|indochinesesch (Var.)
-indochinesesch|1
-(Varianten)|indochineesesch (H.-schr.)
 indoneesesch|1
 (Varianten)|indonesesch (Var.)
 indonesesch|1
@@ -21499,7 +21801,7 @@ këmmeren ëm|1
 kënnegen|1
 -|entloossen
 kënschtlech|1
--|onnatierlech|synthetesch
+-|onnatierlech|syntheetesch
 këssen|1
 (Varianten)|kussen
 laanschtloossen|1
@@ -21965,7 +22267,7 @@ molen|2
 -|stylen|zeechnen
 -|usträichen
 molleg|1
--|bequem|gemittlech
+-|bequeem|gemittlech
 momentan|1
 -|ablécklech
 monetär|1
@@ -22276,10 +22578,6 @@ noneemaachen|2
 (Varianten)|noeneemaachen (H.-schr.)
 nopréiwen|1
 -|iwwerpréiwen|kontrolléieren|préiwen
-nordchileenesch|1
-(Varianten)|nordchilenesch (Var.)
-nordchilenesch|1
-(Varianten)|nordchileenesch (H.-schr.)
 norditalieenesch|1
 (Varianten)|norditalienesch (Var.)
 norditalienesch|1
@@ -22674,7 +22972,7 @@ onmanéierlech|1
 onmiessbar|1
 -|onermiesslech
 onnatierlech|1
--|kënschtlech|synthetesch
+-|kënschtlech|syntheetesch
 onnormal|1
 -|anormal|ongewéinlech
 onnéideg|1
@@ -22992,10 +23290,6 @@ orthografesch|1
 (Varianten)|orthographesch (H.-schr.)
 orthographesch|1
 (Varianten)|orthografesch (Var.)
-ostchineesesch|1
-(Varianten)|ostchinesesch (Var.)
-ostchinesesch|1
-(Varianten)|ostchineesesch (H.-schr.)
 packen|2
 -|ausstoen|erdroen|leiden|verdroen|aushalen
 -|bestoen
@@ -23331,8 +23625,9 @@ promovéieren|2
 (Varianten)|promouvéieren (Var.)|fërderen
 pronatalistesch|1
 -|natalistesch
-propagéieren|1
+propagéieren|2
 -|promoten
+-|ausbreeden|verdeelen|diffuséieren
 proposéieren|1
 -|virschloen
 propper|1
@@ -24681,7 +24976,7 @@ symmeetresch|1
 (Varianten)|symmetresch (Var.)
 symmetresch|1
 (Varianten)|symmeetresch (H.-schr.)
-synthetesch|1
+syntheetesch|1
 -|kënschtlech|onnatierlech
 systematesch|1
 -|taxonom
@@ -24716,10 +25011,6 @@ sënneren|3
 -|klasséieren|klassifizéieren|zortéieren
 sëtzen|1
 -|siegéieren
-südchineesesch|1
-(Varianten)|südchinesesch (Var.)
-südchinesesch|1
-(Varianten)|südchineesesch (H.-schr.)
 südisraeelesch|1
 (Varianten)|südisraelesch (Var.)
 südisraelesch|1
@@ -24945,10 +25236,6 @@ tuneesesch|1
 (Varianten)|tunesesch (Var.)
 tunesesch|1
 (Varianten)|tuneesesch (H.-schr.)
-turkmeenesch|1
-(Varianten)|turkmenesch (Var.)
-turkmenesch|1
-(Varianten)|turkmeenesch (H.-schr.)
 typesch|1
 -|charakteristesch
 tässelen|1
@@ -25357,9 +25644,10 @@ verdecken|1
 verdeedegen|2
 -|ofwieren
 -|behidden|beschützen|ofschiermen|protegéieren|schützen
-verdeelen|2
+verdeelen|3
 -|ofginn
 -|ausdeelen
+-|ausbreeden|propagéieren|diffuséieren
 verdichten|1
 -|kompriméieren
 verdierwen|1
@@ -26326,10 +26614,6 @@ zeideg ginn|1
 -|ausräifen
 zeien|1
 -|bezeien
-zentralchineesesch|1
-(Varianten)|zentralchinesesch (Var.)
-zentralchinesesch|1
-(Varianten)|zentralchineesesch (H.-schr.)
 zerbalegen|1
 -|sech zerstreiden
 zerbommen|1
@@ -26880,8 +27164,6 @@ zëssen|1
 -|Glace
 äisbier|1
 -|Polarbier
-äischen|1
-(Uertschaftsnimm)|Eischen
 äisfochs|1
 (Zoologie)|Polarfochs|Polarfuuss|Äisfuuss
 äisfuuss|1
@@ -26994,6 +27276,14 @@ zëssen|1
 -|Ëmweltrapport
 ëmweltcritère|1
 (Varianten)|Ëmweltkrittär (H.-schr.)
+ëmweltetude|1
+(Varianten)|Ëmweltetüd (H.-schr.)
+ëmweltetüd|1
+(Varianten)|Ëmweltetude (Var.)
+ëmweltimpaktetude|1
+(Varianten)|Ëmweltimpaktetüd (H.-schr.)
+ëmweltimpaktetüd|1
+(Varianten)|Ëmweltimpaktetude (Var.)
 ëmweltkrittär|1
 (Varianten)|Ëmweltcritère (Var.)
 ëmweltprobleem|1
@@ -27012,6 +27302,10 @@ zëssen|1
 (Varianten)|Ëmweltthema (Var.)
 ëmweltthema|1
 (Varianten)|Ëmwelttheema (H.-schr.)
+ëmweltverdréiglechkeetsetude|1
+(Varianten)|Ëmweltverdréiglechkeetsetüd (H.-schr.)
+ëmweltverdréiglechkeetsetüd|1
+(Varianten)|Ëmweltverdréiglechkeetsetude (Var.)
 ëmweltverschmotzung|1
 -|Ëmweltbelaaschtung|Pollutioun
 ëmäerblecht|1
@@ -27022,6 +27316,10 @@ zëssen|1
 -|Zwiwwel
 ënnerdréckung|1
 -|Oppressioun
+ënnerdréckungsstaat|1
+(Varianten)|Ënnerdréckungsstat (Var.)
+ënnerdréckungsstat|1
+(Varianten)|Ënnerdréckungsstaat (H.-schr.)
 ënnergrondorganisatioun|1
 -|Geheimorganisatioun
 ënnerhalt|2
